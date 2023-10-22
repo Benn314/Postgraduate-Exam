@@ -45,12 +45,16 @@
     [
       ":)|",
       "😀|"
+    ],
+    [
+      "\n|",
+      "\n\n|"
     ]
   ],
   "userSelRuleSettingsOpen": true,
   "userDelRuleSettingsOpen": true,
   "userCvtRuleSettingsOpen": true,
-  "EnterTwice": true,
+  "EnterTwice": false,
   "TryFixChineseIM": false,
   "PuncRectify": false
 }
