@@ -4,5 +4,8 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "./asset",
   "useMarkdownLinks": true,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "strictLineBreaks": true,
+  "readableLineLength": true,
+  "showLineNumber": false
 }
