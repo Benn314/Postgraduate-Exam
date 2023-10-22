@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d92f4e47d9539c49",
+            "id": "2216ccaf5914a06a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习日报/10月21日.md",
+                "file": "学习日报/Obsidian工作流.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习日报/10月21日.md",
+                "file": "学习日报/Obsidian工作流.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习日报/10月21日.md",
+                "file": "学习日报/Obsidian工作流.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习日报/10月21日.md"
+                "file": "学习日报/Obsidian工作流.md"
               }
             }
           }
@@ -146,10 +146,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d92f4e47d9539c49",
+  "active": "2216ccaf5914a06a",
   "lastOpenFiles": [
     "学习日报/10月21日.md",
+    "学习日报/Obsidian工作流.md",
     "24考研报名信息/PDF_443996949.pdf",
+    "24考研报名信息/未命名.md",
+    "酷.md",
     "学习日报/10月21日.assets/image-20231022104248927.png",
     "酷1.md",
     "未命名.canvas",
