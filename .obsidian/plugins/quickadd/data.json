@@ -15,7 +15,7 @@
       },
       "format": {
         "enabled": true,
-        "format": "{{value}}--{{date}} {{time}} #write"
+        "format": "{{value}} -- {{date}} {{time}} #write"
       },
       "insertAfter": {
         "enabled": true,
@@ -63,8 +63,8 @@
       "prepend": true,
       "task": false,
       "openFileInNewTab": {
-        "enabled": true,
-        "direction": "horizontal",
+        "enabled": false,
+        "direction": "vertical",
         "focus": true
       },
       "openFile": true,
