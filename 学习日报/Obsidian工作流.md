@@ -57,3 +57,4 @@ Wiki链接普通的markdown编辑器（例如typora）无法识别，同时我�
 
 ### QuickAdd
 
+[writing](Pub/Capture/writing.md)

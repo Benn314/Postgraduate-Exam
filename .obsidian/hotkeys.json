@@ -78,5 +78,14 @@
       ],
       "key": "R"
     }
-  ]
+  ],
+  "quickadd:runQuickAdd": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "editor:delete-paragraph": []
 }

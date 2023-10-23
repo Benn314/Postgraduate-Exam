@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Config/Capture/writing.md",
+                "file": "学习日报/Obsidian工作流.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2257c4721a4e482d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pub/Capture/writing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Config/Capture/writing.md",
+                "file": "Pub/Capture/writing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Config/Capture/writing.md",
+                "file": "Pub/Capture/writing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Config/Capture/writing.md"
+                "file": "Pub/Capture/writing.md"
               }
             }
           }
@@ -146,13 +159,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "08d83ca18249a722",
+  "active": "2257c4721a4e482d",
   "lastOpenFiles": [
     "学习日报/Obsidian工作流.md",
-    "Config/Capture/writing.md",
-    "Config/Template",
-    "Config/Capture",
-    "Config",
+    "Pub/Capture/writing.md",
+    "Pub/Template",
+    "Pub/Capture",
+    "Pub",
     "24考研报名信息/预报名表格@空卡.pdf",
     "2023-10-23.md",
     "学习日报/10月21日.md",

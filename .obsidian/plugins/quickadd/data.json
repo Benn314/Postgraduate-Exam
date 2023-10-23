@@ -1,5 +1,41 @@
 {
-  "choices": [],
+  "choices": [
+    {
+      "id": "3a7fb23f-d047-4686-b721-9ed5c73f764f",
+      "name": "✏Capture Write",
+      "type": "Capture",
+      "command": true,
+      "appendLink": true,
+      "captureTo": "Pub/Capture/writing.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "{{value}} #wirte"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "1",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": true,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "source"
+    }
+  ],
   "macros": [],
   "inputPrompt": "single-line",
   "devMode": false,
