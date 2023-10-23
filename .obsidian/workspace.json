@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习日报/Obsidian工作流.md",
+                "file": "Pub/Capture/writing.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Capture/writing.md",
+                "file": "学习日报/Obsidian工作流.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Capture/writing.md",
+                "file": "学习日报/Obsidian工作流.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pub/Capture/writing.md"
+                "file": "学习日报/Obsidian工作流.md"
               }
             }
           }
@@ -171,10 +170,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f80929ef19407cc2",
+  "active": "5a93715649123211",
   "lastOpenFiles": [
-    "学习日报/Obsidian工作流.md",
     "Pub/Capture/writing.md",
+    "学习日报/Obsidian工作流.md",
     "Pub/Template",
     "Pub/Capture",
     "Pub",
