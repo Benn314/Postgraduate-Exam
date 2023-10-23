@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3792727ebff9b2dd",
+        "id": "de675cbe504f7990",
         "type": "tabs",
         "children": [
           {
-            "id": "2216ccaf5914a06a",
+            "id": "5a93715649123211",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "24考研报名信息/预报名表格@空卡.pdf"
+                "file": "学习日报/Obsidian工作流.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "24考研报名信息/预报名表格@空卡.pdf",
+                "file": "学习日报/Obsidian工作流.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "24考研报名信息/预报名表格@空卡.pdf",
+                "file": "学习日报/Obsidian工作流.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "24考研报名信息/预报名表格@空卡.pdf"
+                "file": "学习日报/Obsidian工作流.md"
               }
             }
           }
@@ -144,10 +146,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2216ccaf5914a06a",
+  "active": "5a93715649123211",
   "lastOpenFiles": [
-    "2023-10-23.md",
     "24考研报名信息/预报名表格@空卡.pdf",
+    "2023-10-23.md",
     "学习日报/Obsidian工作流.md",
     "学习日报/10月21日.md",
     "学习日报/asset/Pasted image 20231023001901.png",
