@@ -25,6 +25,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "学习日报/Obsidian工作流.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f80929ef19407cc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Pub/Capture/writing.md",
                 "mode": "source",
                 "source": false
@@ -32,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,7 +171,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2257c4721a4e482d",
+  "active": "f80929ef19407cc2",
   "lastOpenFiles": [
     "学习日报/Obsidian工作流.md",
     "Pub/Capture/writing.md",

@@ -10,7 +10,7 @@
 
 ![](asset/Pasted%20image%2020231023001901.png)
 
-Wiki链接普通的markdown编辑器（例如typora）无法识别，同时我们需要将文档中的附件放到一个静态资源文件夹中，因为Obsidian无法向Typora中一个文档对于一个图片文件夹，所以我们设置一个文件夹对于一个asset静态统一存放的文件夹
+Wiki链接普通的markdown编辑器（例如typora）无法识别，同时我们需要将文档中的附件放到一个静态资源文件夹中，因为Obsidian无法向Typora中一个文档对于一个图片文件夹，所以我们设置一个文件夹对于一个asset静[writing](Pub/Capture/writing.md)态统一存放的文件夹
 
 	
 

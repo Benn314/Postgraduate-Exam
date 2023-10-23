@@ -19,7 +19,7 @@
       },
       "insertAfter": {
         "enabled": true,
-        "after": "1",
+        "after": "5",
         "insertAtEnd": false,
         "considerSubsections": false,
         "createIfNotFound": false,
