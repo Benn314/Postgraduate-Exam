@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pub/Capture/Begin-write/test.md",
+                "file": "Pub/Capture/writing.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68f01b63c299448d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pub/Capture/writing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Capture/Begin-write/test.md",
+                "file": "Pub/Capture/writing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Capture/Begin-write/test.md",
+                "file": "Pub/Capture/writing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pub/Capture/Begin-write/test.md"
+                "file": "Pub/Capture/writing.md"
               }
             }
           }
@@ -146,10 +159,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a1c09f90b0d9fd27",
+  "active": "68f01b63c299448d",
   "lastOpenFiles": [
-    "Pub/Capture/writing.md",
     "Pub/Capture/Begin-write/test.md",
+    "Pub/Capture/writing.md",
     "Pub/Template/write.md",
     "Pub/Capture/Begin-write/介绍 Obsidian 给大家.md",
     "Pub/Capture/Begin-write",
