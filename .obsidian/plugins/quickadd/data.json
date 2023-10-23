@@ -5,7 +5,7 @@
       "name": "✏Capture Write",
       "type": "Capture",
       "command": true,
-      "appendLink": true,
+      "appendLink": false,
       "captureTo": "Pub/Capture/writing.md",
       "captureToActiveFile": false,
       "createFileIfItDoesntExist": {
@@ -15,11 +15,11 @@
       },
       "format": {
         "enabled": true,
-        "format": "{{value}} #wirte"
+        "format": "{{value}}--{{date}} {{time}} #write"
       },
       "insertAfter": {
-        "enabled": true,
-        "after": "5",
+        "enabled": false,
+        "after": "Todo",
         "insertAtEnd": false,
         "considerSubsections": false,
         "createIfNotFound": false,
