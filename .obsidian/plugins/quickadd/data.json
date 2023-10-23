@@ -34,6 +34,41 @@
       },
       "openFile": true,
       "openFileInMode": "source"
+    },
+    {
+      "id": "a6fe5d05-e826-46eb-a883-3963ce8f8610",
+      "name": "😍Begin write",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "Pub/Capture/Begin-write/{{VALUE}}",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": true,
+        "template": "Pub/Template/Write"
+      },
+      "format": {
+        "enabled": false,
+        "format": ""
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": true,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
     }
   ],
   "macros": [],

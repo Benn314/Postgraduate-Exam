@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pub/Capture/writing.md",
+                "file": "Pub/Template/write.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Capture/writing.md",
+                "file": "Pub/Template/write.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Capture/writing.md",
+                "file": "Pub/Template/write.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pub/Capture/writing.md"
+                "file": "Pub/Template/write.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   "active": "580478e20f2e7ca6",
   "lastOpenFiles": [
     "Pub/Capture/writing.md",
+    "Pub/Template/write.md",
     "学习日报/Obsidian工作流.md",
     "Pub/Template",
     "Pub/Capture",
