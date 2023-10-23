@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "7bf3351650ca7646",
+        "id": "5541cce73ecd407e",
         "type": "tabs",
         "children": [
           {
-            "id": "580478e20f2e7ca6",
+            "id": "f62f7220cacdc539",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pub/Template/write.md",
+                "file": "Pub/Capture/writing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e0fa75faccaa7fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pub/Capture/writing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Template/write.md",
+                "file": "Pub/Capture/writing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Template/write.md",
+                "file": "Pub/Capture/writing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pub/Template/write.md"
+                "file": "Pub/Capture/writing.md"
               }
             }
           }
@@ -146,10 +159,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "580478e20f2e7ca6",
+  "active": "5e0fa75faccaa7fe",
   "lastOpenFiles": [
     "Pub/Capture/writing.md",
     "Pub/Template/write.md",
+    "Pub/Capture/Begin-write/介绍 Obsidian 给大家.md",
+    "Pub/Capture/Begin-write",
     "学习日报/Obsidian工作流.md",
     "Pub/Template",
     "Pub/Capture",

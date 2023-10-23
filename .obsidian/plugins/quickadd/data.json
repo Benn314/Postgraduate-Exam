@@ -18,8 +18,8 @@
         "format": "{{value}}--{{date}} {{time}} #write"
       },
       "insertAfter": {
-        "enabled": false,
-        "after": "Todo",
+        "enabled": true,
+        "after": "-",
         "insertAtEnd": false,
         "considerSubsections": false,
         "createIfNotFound": false,
@@ -46,7 +46,7 @@
       "createFileIfItDoesntExist": {
         "enabled": true,
         "createWithTemplate": true,
-        "template": "Pub/Template/Write"
+        "template": "Pub/Template/write.md"
       },
       "format": {
         "enabled": false,
@@ -64,11 +64,11 @@
       "task": false,
       "openFileInNewTab": {
         "enabled": true,
-        "direction": "vertical",
+        "direction": "horizontal",
         "focus": true
       },
       "openFile": true,
-      "openFileInMode": "default"
+      "openFileInMode": "source"
     }
   ],
   "macros": [],
