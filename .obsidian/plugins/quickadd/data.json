@@ -2,7 +2,7 @@
   "choices": [
     {
       "id": "3a7fb23f-d047-4686-b721-9ed5c73f764f",
-      "name": "✏Capture Write",
+      "name": "✏Capture write",
       "type": "Capture",
       "command": true,
       "appendLink": false,
@@ -69,6 +69,36 @@
       },
       "openFile": true,
       "openFileInMode": "source"
+    },
+    {
+      "id": "9d7ca2e3-303a-42dd-85dc-0cd176b3e9af",
+      "name": "🌱Record daily",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Pub/Template/日记模板.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE:}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "学习日报"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "source",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
     }
   ],
   "macros": [],
