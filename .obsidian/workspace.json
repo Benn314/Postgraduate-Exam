@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pub/Capture/writing.md",
+                "file": "Pub/Template/daily.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Capture/writing.md",
+                "file": "Pub/Template/daily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Capture/writing.md",
+                "file": "Pub/Template/daily.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pub/Capture/writing.md"
+                "file": "Pub/Template/daily.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "68dd070fe47448a4",
   "lastOpenFiles": [
+    "Pub/Capture/writing.md",
+    "Pub/Template/daily.md",
     "Pub/Template/write.md",
     "Pub/Capture/Begin-write/ob.md",
-    "Pub/Capture/writing.md",
     "学习日报/Obsidian工作流.md",
     "学习日报/asset/Pasted image 20231023001901.png",
     "学习日报/asset/Pasted image 20231023163845.png",
