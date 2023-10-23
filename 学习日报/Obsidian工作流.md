@@ -57,4 +57,8 @@ Wiki链接普通的markdown编辑器（例如typora）无法识别，同时我�
 
 ### QuickAdd
 
-[writing](Pub/Capture/writing.md)
+#### 问题
+
+- quickadd 的参数变量不清楚有哪些，导致 `Template` 目录下的模板文件并不完美
+- 由于模板创建文件会dao'zhi
+

@@ -28,12 +28,12 @@
             }
           },
           {
-            "id": "05b2f9a783c0a11f",
+            "id": "bd51b2b0caca4e88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pub/Template/write.md",
+                "file": "学习日报/Obsidian工作流.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Template/write.md",
+                "file": "学习日报/Obsidian工作流.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Template/write.md",
+                "file": "学习日报/Obsidian工作流.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pub/Template/write.md"
+                "file": "学习日报/Obsidian工作流.md"
               }
             }
           }
@@ -167,19 +167,23 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "05b2f9a783c0a11f",
+  "active": "bd51b2b0caca4e88",
   "lastOpenFiles": [
-    "Pub/Capture/Begin-write/ob.md",
     "Pub/Template/write.md",
+    "学习日报/Obsidian工作流.md",
+    "Pub/Capture/Begin-write/ob.md",
+    "Pub/Capture/Begin-write/ob1.md",
+    "Pub/Capture/Begin-write/ob3.md",
+    "Pub/Capture/writing.md",
+    "Pub/Capture/Begin-write/ob2.md",
+    "Pub/Capture/Begin-write/obob.md",
     "Pub/Capture/Begin-write/介绍 Ob.md",
     "Pub/Capture/Begin-write/aa.md",
     "Pub/Capture/Begin-write/testtest.md",
     "Pub/Capture/Begin-write/介绍 Obsidian 用法.md",
     "Pub/Capture/Begin-write/test.md",
-    "Pub/Capture/writing.md",
     "Pub/Capture/Begin-write/介绍 Obsidian 给大家.md",
     "Pub/Capture/Begin-write",
-    "学习日报/Obsidian工作流.md",
     "Pub/Template",
     "Pub/Capture",
     "Pub",
