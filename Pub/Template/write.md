@@ -1,7 +1,7 @@
-[writing](../Capture/writing.md)
+ >回到 [writing](../Capture/writing.md) 完成任务
 
-Date: <% tp.file.creation_date() %>
+Date: {{DATE}} {{DATE:HH:MM:ss}}
 pub_link :
 pub_tags :
 
-# <% tp.file.title %>
+# {{VALUE}}
