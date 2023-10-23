@@ -3,8 +3,8 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
   "attachmentFolderPath": "./asset",
-  "useMarkdownLinks": false,
-  "newLinkFormat": "shortest",
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
   "strictLineBreaks": false,
   "readableLineLength": true,
   "showLineNumber": false

@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习日报/Obsidian工作流.md",
+                "file": "Pub/Capture/writing.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 406.5
   },
   "right": {
     "id": "6614ef460c138604",
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习日报/Obsidian工作流.md",
+                "file": "Pub/Capture/writing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习日报/Obsidian工作流.md",
+                "file": "Pub/Capture/writing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习日报/Obsidian工作流.md"
+                "file": "Pub/Capture/writing.md"
               }
             }
           }
@@ -169,12 +169,17 @@
   },
   "active": "bd51b2b0caca4e88",
   "lastOpenFiles": [
-    "Pub/Template/write.md",
     "学习日报/Obsidian工作流.md",
+    "学习日报/asset/Pasted image 20231023001901.png",
+    "学习日报/asset/Pasted image 20231023163845.png",
+    "学习日报/asset/Pasted image 20231023164103.png",
+    "Pub/Capture/writing.md",
+    "Pub/Capture/asset/Pasted image 20231023163902.png",
+    "Pub/Capture/asset",
+    "Pub/Template/write.md",
     "Pub/Capture/Begin-write/ob.md",
     "Pub/Capture/Begin-write/ob1.md",
     "Pub/Capture/Begin-write/ob3.md",
-    "Pub/Capture/writing.md",
     "Pub/Capture/Begin-write/ob2.md",
     "Pub/Capture/Begin-write/obob.md",
     "Pub/Capture/Begin-write/介绍 Ob.md",
@@ -190,7 +195,6 @@
     "24考研报名信息/预报名表格@空卡.pdf",
     "2023-10-23.md",
     "学习日报/10月21日.md",
-    "学习日报/asset/Pasted image 20231023001901.png",
     "学习日报/asset/Pasted image 20231023001250.png",
     "学习日报/asset/Pasted image 20231023001705.png",
     "学习日报/asset/Pasted image 20231023001735.png",
@@ -202,8 +206,6 @@
     "酷.md",
     "学习日报/10月21日.assets/image-20231022104248927.png",
     "酷1.md",
-    "未命名.canvas",
-    "学习日报/10月21日.assets/image-20231022001140782.png",
-    "学习日报/10月21日.assets/image-20231022104028746.png"
+    "未命名.canvas"
   ]
 }
