@@ -1,5 +1,8 @@
 {
   "accentColor": "",
   "theme": "obsidian",
-  "translucency": true
+  "translucency": true,
+  "enabledCssSnippets": [
+    "【日记】timeline"
+  ]
 }

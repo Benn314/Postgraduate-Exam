@@ -1,9 +1,9 @@
 {
-  "Tabout": true,
-  "SelectionEnhance": true,
-  "IntrinsicSymbolPairs": true,
-  "BaseObEditEnhance": true,
-  "FW2HWEnhance": true,
+  "Tabout": false,
+  "SelectionEnhance": false,
+  "IntrinsicSymbolPairs": false,
+  "BaseObEditEnhance": false,
+  "FW2HWEnhance": false,
   "AutoFormat": true,
   "ExcludeFiles": "",
   "ChineseEnglishSpace": true,
@@ -14,11 +14,11 @@
   "AutoCapital": false,
   "AutoCapitalMode": "typing",
   "PunctuationSpaceMode": "typing",
-  "InlineCodeSpaceMode": 1,
-  "InlineFormulaSpaceMode": 1,
+  "InlineCodeSpaceMode": 0,
+  "InlineFormulaSpaceMode": 0,
   "InlineLinkSpaceMode": 1,
   "InlineLinkSmartSpace": true,
-  "UserDefinedRegSwitch": true,
+  "UserDefinedRegSwitch": false,
   "UserDefinedRegExp": "{{.*?}}|++\n<.*?>|--\n\\[\\!.*?\\][-+]{0,1}|-+\n(file:///|https?://|ftp://|obsidian://|zotero://|www.)[^\\s（）《》。,，！？;；：“”‘’\\)\\(\\[\\]\\{\\}']+|++\n\n[a-zA-Z0-9_\\-.]+@[a-zA-Z0-9_\\-.]+|++\n(?<!#)#[\\u4e00-\\u9fa5\\w\\/]+|++",
   "debug": false,
   "userSelRepRuleTrigger": [
@@ -45,14 +45,10 @@
     [
       ":)|",
       "😀|"
-    ],
-    [
-      "\n|",
-      "\n\n|"
     ]
   ],
-  "userSelRuleSettingsOpen": true,
-  "userDelRuleSettingsOpen": true,
+  "userSelRuleSettingsOpen": false,
+  "userDelRuleSettingsOpen": false,
   "userCvtRuleSettingsOpen": true,
   "EnterTwice": false,
   "TryFixChineseIM": false,

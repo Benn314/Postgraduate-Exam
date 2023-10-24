@@ -1,6 +1,36 @@
 {
   "choices": [
     {
+      "id": "9d7ca2e3-303a-42dd-85dc-0cd176b3e9af",
+      "name": "🌱Record daily",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Pub/Template/日记模板.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE:}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "学习日报/Day"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "source",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
       "id": "3a7fb23f-d047-4686-b721-9ed5c73f764f",
       "name": "✏Capture write",
       "type": "Capture",
@@ -71,19 +101,19 @@
       "openFileInMode": "source"
     },
     {
-      "id": "9d7ca2e3-303a-42dd-85dc-0cd176b3e9af",
-      "name": "🌱Record daily",
+      "id": "84fa098d-88a2-45c5-88fd-90a0b80a2e11",
+      "name": "🌳Record weekly",
       "type": "Template",
       "command": true,
-      "templatePath": "Pub/Template/日记模板.md",
+      "templatePath": "Pub/Template/周记模板.md",
       "fileNameFormat": {
         "enabled": true,
-        "format": "{{DATE:}}"
+        "format": "{{DATE:YYYY}}年{{DATE:MM}}月-第{{DATE:W}}周"
       },
       "folder": {
         "enabled": true,
         "folders": [
-          "学习日报/Day"
+          "学习日报/Week"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
@@ -97,34 +127,6 @@
       },
       "openFile": true,
       "openFileInMode": "source",
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
-    },
-    {
-      "id": "84fa098d-88a2-45c5-88fd-90a0b80a2e11",
-      "name": "🌳Record weekly",
-      "type": "Template",
-      "command": true,
-      "templatePath": "Pub/Template/周记模板.md",
-      "fileNameFormat": {
-        "enabled": false,
-        "format": ""
-      },
-      "folder": {
-        "enabled": false,
-        "folders": [],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
-      "appendLink": false,
-      "openFileInNewTab": {
-        "enabled": false,
-        "direction": "vertical",
-        "focus": true
-      },
-      "openFile": false,
-      "openFileInMode": "default",
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
     }
