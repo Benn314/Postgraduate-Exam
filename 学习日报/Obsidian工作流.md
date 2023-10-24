@@ -1,5 +1,23 @@
 <br />
 
+## 扩展配置
+
+> 有以下两款应用的加持搭配第三方依赖，Obsidian 的效率将进一步提升
+
+<br />
+
+### MouseInc
+
+> 自定义专属 Obsidian 的特定手势动作
+
+![](asset/Pasted%20image%2020231025005957.png)
+
+### aText
+
+> 智能补全，可以帮我快速实现快捷键等特定功能
+
+![](asset/Pasted%20image%2020231025003952.png)
+
 ## Edit
 
 > Obsidian 的配置存储在根目录下的 `.obsidian` 目录中，快速配置另一个仓库的 Obsidian 插件信息的话直接复制粘贴过去即可
@@ -36,7 +54,7 @@ Wiki 链接普通的 markdown 编辑器（例如 typora）无法识别，同时�
 - `Ctrl+O` ：快速切换文件
 - `Ctrl+P` ：打开命令面板
 - `Ctrl+E` ：切换编辑/预览模式
-- `Ctrl+R` ：使用默认应用打开
+- `Ctrl+R` ：使用默认应用打开（这里设置 `Typora` 为默认应用）
 - `Ctrl+J` ：打开大纲
 - `Alt+C`   ：创建任务（注：需要在每项任务列表中添加任务创建时间才能在周报中展示任务）
 - `Ctrl+H` ：查找并替换
@@ -108,11 +126,63 @@ Wiki 链接普通的 markdown 编辑器（例如 typora）无法识别，同时�
  > 增强版的任务列表，可以快速配置开始时间、截止时间等，搭配 dataview 插件和 Memos 插件使用
  > 
  > 快捷创建任务：`Alt+C`
- > 输入任务内容后单空格能选择各类时间（开始、计划开始、截止时间等）或者触发关键字 `created`、`today`、
+ > 输入任务内容后单空格能选择各类时间（开始、计划开始、截止时间等）或者触发关键字 `created`、`today`、`monday`等
 
 <br />
 
 ### Dataview
+
+> Dataview 可以通过 JS 脚本收集各类数据（例如收集标签、某段时间间隔的所有文档等）进行排序汇总，而 dataviewjs 处理脚本往往涉及变量，需要 templater 插件来识别 <% %> 包裹的变量并进行展示
+
+一定要打开 JavaScript Queries
+![](asset/Pasted%20image%2020231025000217.png)
+
+#### [日记模板](../Pub/Template/日记模板.md)
+
+解释一下 Taskido 中的 forward: true，forward 设置为 true，会把其他任务放到当天显示（点击可定位回去存放该任务的文档中），设置为 false 的话，虽然不在当天日报显示具体内容了，但任务总览里依然会显示 due（已过期） 的数量
+
+日报中的月份刻度显示当前日报位置，需要额外导入 css 文件，第三方导入 css 文件可覆盖 Obsidian 原生 css 样式
+
+![](asset/Pasted%20image%2020231025005136.png)
+
+![](asset/Pasted%20image%2020231025005228.png)
+
+目前我所设置的自定义样式 `ben.css` 只包含对预览/编辑模式-加粗样式的调整，后续会持续更新，代码如下：
+
+```css
+/* 更改加粗样式 */
+
+.cm-strong {
+  font-weight: bold;
+  color: #fff !important;
+  background-color: #2ea44f;
+  border-radius: 6px;
+  line-height: 1.7;
+  padding: 2.5px 8px;
+  margin: 0px 5px;
+
+}
+
+strong {
+  font-weight: bold;
+  color: #fff !important;
+  background-color: #2ea44f;
+  border-radius: 6px;
+  line-height: 1.7;
+  padding: 2.5px 8px;
+  margin: 0px 5px;
+}
+```
+
+#### [周记模板](../Pub/Template/周记模板.md)
+
+
+
+<br />
+
+### templater
+
+> 目前我只用它**识别和展示** <% %> 包裹的变量，完成 dataviewjs 事件
 
 <br />
 
@@ -126,3 +196,14 @@ Wiki 链接普通的 markdown 编辑器（例如 typora）无法识别，同时�
 <br />
 
 ![](asset/Pasted%20image%2020231024164300.png)
+
+有点类似 github 的贴砖记录图，点击 MEMO 😉 能返回首页
+
+![](asset/Pasted%20image%2020231025000350.png)
+![](asset/Pasted%20image%2020231025000639.png)
+
+### Calendar
+
+> 一款日历插件，插件默认在右上方展示，点击日期会跳转到该日期对应的日报，如果日报未创建会弹出是否进行创建，一般创建日报对应日期下方会有白点小标志，直观清晰
+
+![](asset/Pasted%20image%2020231025001002.png)
