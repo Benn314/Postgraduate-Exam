@@ -88,20 +88,28 @@
     }
   ],
   "editor:delete-paragraph": [],
-  "outline:open": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "J"
-    }
-  ],
   "obsidian-tasks-plugin:edit-task": [
     {
       "modifiers": [
         "Alt"
       ],
       "key": "C"
+    }
+  ],
+  "editor:open-search-replace": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ],
+  "outline:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "J"
     }
   ]
 }
