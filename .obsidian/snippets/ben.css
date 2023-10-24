@@ -1,0 +1,10 @@
+/* 更改加粗样式 */
+.cm-strong{
+  font-weight: bold;
+  color: #fff !important;
+  background-color: #2ea44f;
+  border-radius: 6px;
+  line-height: 1.7;
+  padding: 2.5px 8px;
+  margin: 0px 5px;
+}

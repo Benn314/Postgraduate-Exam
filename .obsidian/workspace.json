@@ -8,55 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ef80a6d8f5f566a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pub/Template/日记模板.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19ab1e3195bcf71a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pub/Template/日记模板.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a328bc5a22a85543",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pub/Template/日记模板.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43cb99fcb88ded46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pub/Template/日记模板.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95e733158f74cd54",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "1e8ba7d19cd01d2b",
@@ -233,11 +185,20 @@
   },
   "active": "552ce1d43f17d816",
   "lastOpenFiles": [
-    "学习日报/Day/2023-10-24.md",
-    "Pub/Template/日记模板.md",
-    "Pub/Template/周记模板.md",
-    "学习日报/Week/2023年10月-第43周.md",
+    "学习日报/asset/Pasted image 20231024234748.png",
+    "学习日报/Week/2023年10月-第43周1.md",
     "学习日报/Obsidian工作流.md",
+    "学习日报/Week/2023年10月-第43周.md",
+    "学习日报/Day/2023-10-24.md",
+    "学习日报/Week/2023-10-25.md",
+    "学习日报/asset/Pasted image 20231024233857.png",
+    "Pub/Template/日记模板.md",
+    "Pub/Capture/Begin-write/介绍 Obsidian 用法.md",
+    "Pub/Capture/writing.md",
+    "学习日报/asset/Pasted image 20231024211338.png",
+    "学习日报/asset/Pasted image 20231024211222.png",
+    "学习日报/asset/Pasted image 20231024210450.png",
+    "Pub/Template/周记模板.md",
     "Pub/Template/daily-原生日报模板.md",
     "学习日报/Day/2023-10-25.md",
     "学习日报/Day/10月21日.md",
@@ -251,7 +212,6 @@
     "学习日报/Week/2023-10-24.md",
     "学习日报/Week/20231023.md",
     "学习日报/Week/20231024.md",
-    "Pub/Capture/writing.md",
     "Pub/Template/Taskido/README.md",
     "Pub/Template/Taskido/demo_file.md",
     "学习日报/Week",
@@ -259,8 +219,6 @@
     "学习日报/Day/asset/Pasted image 20231023001901.png",
     "学习日报/Day/10月21日.assets/image-20231022104910817.png",
     "学习日报/Day/10月21日.assets/image-20231022104248927.png",
-    "学习日报/Day/10月21日.assets/image-20231022104028746.png",
-    "学习日报/Day/10月21日.assets/image-20231022001140782.png",
     "学习日报/Day/asset",
     "学习日报/Day/10月21日.assets",
     "学习日报/Day",
@@ -268,16 +226,11 @@
     "学习日报/day/2023-10-23.md",
     "学习日报/day/10月21日.md",
     "学习日报/2023-10-24.md",
-    "学习日报/day/asset/Pasted image 20231023164103.png",
-    "学习日报/day/asset/Pasted image 20231023001901.png",
     "学习日报/day/asset",
     "学习日报/day/10月21日.assets",
     "学习日报/week",
     "学习日报/新建文件夹",
     "学习日报/day",
-    "学习日报/2023-10-23.md",
-    "学习日报/20231023.md",
-    "学习日报/delete.md",
     "未命名.canvas"
   ]
 }

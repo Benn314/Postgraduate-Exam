@@ -3,6 +3,7 @@
   "theme": "obsidian",
   "translucency": true,
   "enabledCssSnippets": [
-    "【日记】timeline"
+    "【日记】timeline",
+    "ben"
   ]
 }
