@@ -83,7 +83,7 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "学习日报"
+          "学习日报/Day"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
@@ -97,6 +97,34 @@
       },
       "openFile": true,
       "openFileInMode": "source",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "84fa098d-88a2-45c5-88fd-90a0b80a2e11",
+      "name": "🌳Record weekly",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Pub/Template/周记模板.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default",
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
     }
