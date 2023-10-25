@@ -167,11 +167,13 @@
       "command-palette:打开命令面板": false,
       "templater-obsidian:Templater": false,
       "daily-notes:打开/创建今天的日记": false,
-      "obsidian-memos:Memos": false
+      "obsidian-memos:Memos": false,
+      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "b12d66223dba8752",
+  "active": "08d83ca18249a722",
   "lastOpenFiles": [
+    "Pub/Hypo",
     "学习日报/Day/2023-10-25.md",
     "Pub/Capture/Tasks.md",
     "学习日报/Obsidian工作流.md",
@@ -210,7 +212,6 @@
     "学习日报/Week/2023-10-24.md",
     "学习日报/Week/20231023.md",
     "学习日报/Week/20231024.md",
-    "Pub/Template/Taskido/README.md",
     "学习日报/Week",
     "学习日报/Day/asset",
     "学习日报/Day/10月21日.assets",
