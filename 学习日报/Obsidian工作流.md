@@ -174,8 +174,98 @@ strong {
 }
 ```
 
+> 下面代码为原作者未完成任务的数据汇集代码，我的日记模板则删除了 hide 的部分
+
+```html
+### 未完成任务
+
+```dataviewjs
+function callout(text, type) {
+    const allText = `> [!${type}]\n` + text;
+    const lines = allText.split('\n');
+    return lines.join('\n> ') + '\n'
+}
+const query = `
+((created on {{DATE:YYYY-MM-DD}}) AND (done after {{DATE:YYYY-MM-DD}})) OR ((created on {{DATE:YYYY-MM-DD}}) AND (not done))
+path includes 学习日报/Day
+
+hide backlink
+hide created date
+`;
+```
+
 #### [周记模板](../Pub/Template/周记模板.md)
 
+> 无论日记模板还是周记模板，使用下面代码收集记录 `未完成任务` 都需要带上创建时间
+
+```dataviewjs
+function callout(text, type) {
+    const allText = `> [!${type}]\n` + text;
+    const lines = allText.split('\n');
+    return lines.join('\n> ') + '\n'
+}
+const query = `
+((created on 2023-10-25) AND (done after 2023-10-25)) OR ((created on 2023-10-25) AND (not done))
+path includes 学习日报/Day
+
+hide backlink
+hide created date
+`;
+
+dv.paragraph('```tasks\n' + query + '\n```', 'todo');
+```
+> 下面代码为原作者 `任务总结` 的数据汇集代码，我的周记模板则删除了 hide 的部分
+
+```txt
+## 任务总结
+
+### 本周已完成
+
+```dataviewjs
+function callout(text, type) {
+    const allText = `> [!${type}]\n` + text;
+    const lines = allText.split('\n');
+    return lines.join('\n> ') + '\n'
+}
+
+const query = `
+created (before, after) <% tp.date.weekday("YYYY-MM-DD", 0) %> <% tp.date.weekday("YYYY-MM-DD", 6) %>
+done (before, after) <% tp.date.weekday("YYYY-MM-DD", 0) %> <% tp.date.weekday("YYYY-MM-DD", 6) %>
+path includes 学习日报/Day
+group by created
+hide backlink
+hide created date
+hide due date
+hide start date
+`;
+
+dv.paragraph('```tasks\n' + query + '\n```', 'done');
+
+--------------------------------------------
+
+### 本周未完成
+
+```dataviewjs
+function callout(text, type) {
+    const allText = `> [!${type}]\n` + text;
+    const lines = allText.split('\n');
+    return lines.join('\n> ') + '\n'
+}
+
+const query = `
+created (before, after) <% tp.date.weekday("YYYY-MM-DD", 0) %> <% tp.date.weekday("YYYY-MM-DD", 6) %>
+((done after <% tp.date.weekday("YYYY-MM-DD", 7) %>) OR (not done))
+
+path includes 学习日报/Day
+group by created
+hide backlink
+hide created date
+hide due date
+hide start date
+`;
+
+dv.paragraph('```tasks\n' + query + '\n```', 'todo');
+```
 
 
 <br />
