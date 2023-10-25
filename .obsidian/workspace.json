@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7c46abc8b1c9dff6",
+            "id": "b12d66223dba8752",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pub/Template/日记模板.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "416ee27695a02844",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pub/Template/日记模板.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec31c02527233dbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pub/Template/write.md",
+                "file": "Pub/Capture/Tasks.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Template/write.md",
+                "file": "Pub/Capture/Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Template/write.md",
+                "file": "Pub/Capture/Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pub/Template/write.md"
+                "file": "Pub/Capture/Tasks.md"
               }
             }
           },
@@ -195,22 +170,26 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "ec31c02527233dbd",
+  "active": "b12d66223dba8752",
   "lastOpenFiles": [
-    "Pub/Capture/Begin-write/介绍 Obsidian 用法.md",
+    "学习日报/Day/2023-10-25.md",
+    "Pub/Capture/Tasks.md",
+    "学习日报/Obsidian工作流.md",
+    "学习日报/Week/2023年10月-第43周.md",
     "Pub/Capture/writing.md",
+    "学习日报/Day/2023-10-24.md",
+    "学习日报/Day/delete.md",
     "Pub/Template/write.md",
+    "Pub/Capture/Begin-write/HHH.md",
+    "Pub/Capture/Begin-write/HH.md",
+    "Pub/Capture/Begin-write/介绍 Obsidian 用法.md",
+    "Pub/Capture/Begin-write/介绍 Obsidian 用法123.md",
     "Pub/Template/周记模板.md",
     "Pub/Template/日记模板.md",
-    "学习日报/Obsidian工作流.md",
-    "学习日报/Day/2023-10-25.md",
-    "学习日报/Day/2023-10-24.md",
     "学习日报/Day/10月21日.md",
-    "学习日报/Day/delete.md",
     "学习日报/Day/2023-10-26.md",
     "未命名.canvas",
     "2023-10-23.md",
-    "学习日报/Week/2023年10月-第43周.md",
     "学习日报/asset/Pasted image 20231025005957.png",
     "学习日报/asset/Pasted image 20231025005228.png",
     "学习日报/asset/Pasted image 20231025005136.png",
@@ -232,14 +211,10 @@
     "学习日报/Week/20231023.md",
     "学习日报/Week/20231024.md",
     "Pub/Template/Taskido/README.md",
-    "Pub/Template/Taskido/demo_file.md",
     "学习日报/Week",
     "学习日报/Day/asset",
     "学习日报/Day/10月21日.assets",
     "学习日报/Day",
-    "学习日报/day/2023-10-24.md",
-    "学习日报/day/2023-10-23.md",
-    "学习日报/day/10月21日.md",
     "学习日报/day/asset",
     "学习日报/day/10月21日.assets",
     "学习日报/week",

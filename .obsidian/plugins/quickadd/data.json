@@ -71,7 +71,7 @@
       "type": "Capture",
       "command": true,
       "appendLink": false,
-      "captureTo": "Pub/Capture/Begin-write/{{VALUE}}",
+      "captureTo": "Pub/Capture/Begin-write/{{NAME}}",
       "captureToActiveFile": false,
       "createFileIfItDoesntExist": {
         "enabled": true,
@@ -84,7 +84,7 @@
       },
       "insertAfter": {
         "enabled": false,
-        "after": "",
+        "after": "# {{name}}",
         "insertAtEnd": false,
         "considerSubsections": false,
         "createIfNotFound": false,

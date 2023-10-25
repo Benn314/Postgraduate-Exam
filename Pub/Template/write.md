@@ -4,10 +4,8 @@
 Author: Ben
 Date: {{DATE:YYYY-MM-DD HH:mm:ss}}
 pub_link :
-pub_tag :
+pub_tags :
 ```
 
----
 
-
-
+# <% tp.file.title %>
