@@ -274,6 +274,10 @@ dv.paragraph('```tasks\n' + query + '\n```', 'todo');
 
 > 目前我只用它**识别和展示** <% %> 包裹的变量，完成 dataviewjs 事件
 
+#### Bug
+
+发现 templater 插件和 Obsidian 有时不能实时渲染的问题，提示 templater 解析失败，实际上是因为没有联网的原因，只需要联网后就可以实时渲染了
+
 <br />
 
 ### Memos
