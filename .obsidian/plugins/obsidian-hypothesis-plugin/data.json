@@ -3,14 +3,23 @@
   "user": "acct:ben43@hypothes.is",
   "highlightsFolder": "Pub/Hypo",
   "isConnected": true,
-  "template": "{% if is_new_article %}\n# {{title}}\n\n## Metadata\n{% if author %}- Author: [{{author}}]({{authorUrl}}){% endif %}\n- Title: {{title}}\n{% if url %}- Reference: {{url}}{% endif %}\n- Category: #article\n{% endif %}\n\n{%- if is_new_article %}\n## Page Notes\n{% for highlight in page_notes -%}\n{{highlight.annotation}}\n{%- if highlight.tags | length %}\nTags: {% for tag in highlight.tags -%} #{{tag | replace(\" \", \"-\")+\" \"}}{%- endfor %}\n{% endif %}\n{% endfor %}\n{%- endif -%}\n\n{%- if is_new_article -%}\n## Highlights\n{% for highlight in highlights -%}\n- {{highlight.text}} — [Updated on {{highlight.updated}}]({{highlight.incontext}})\n{%- if 'Private' != highlight.group %} — Group: #{{highlight.group | replace(\" \", \"-\")}}{% endif %}\n{% if highlight.tags | length %}    - Tags: {% for tag in highlight.tags %} #{{tag | replace(\" \", \"-\")+\" \"}}{% endfor %}\n{% endif -%}\n{% if highlight.annotation %}    - Annotation: {{highlight.annotation}}{% endif %}\n{% endfor %}\n{% endif %}\n",
+  "template": "{% if is_new_article %}\n# {{title}}\n\n## Metadata\n{% if author %}- Author: [{{author}}]({{authorUrl}}){% endif %}\n- Title: {{title}}\n{% if url %}- Reference: {{url}}{% endif %}\n- Category: #article\n{% endif %}\n\n{%- if is_new_article %}\n## Page Notes\n{% for highlight in page_notes -%}\n{{highlight.annotation}}\n{%- if highlight.tags | length %}\nTags: {% for tag in highlight.tags -%} #{{tag | replace(\" \", \"-\")+\" \"}}{%- endfor %}\n{% endif %}\n{% endfor %}\n{%- endif -%}\n\n{%- if is_new_article -%}\n## Highlights\n{% for highlight in highlights -%}\n- {{highlight.text}} — [Updated on {{highlight.updated}}]({{highlight.incontext}})\n{%- if 'Private' != highlight.group %} — Group: #{{highlight.group | replace(\" \", \"-\")}}{% endif %}\n{% if highlight.tags | length %}    - Tags: {% for tag in highlight.tags %} #{{tag | replace(\" \", \"-\")+\" \"}}{% endfor %}\n{% endif -%}\n{% if highlight.annotation %}   \n- Annotation:\n{{highlight.annotation}}{% endif %}\n{% endfor %}\n{% endif %}",
   "syncOnBoot": true,
   "autoSyncInterval": 3,
   "dateTimeFormat": "YYYY-MM-DD HH:mm:ss",
   "history": {
-    "totalArticles": 0,
-    "totalHighlights": 0
+    "totalArticles": 4,
+    "totalHighlights": 9
   },
-  "groups": [],
-  "useDomainFolders": false
+  "groups": [
+    {
+      "id": "__world__",
+      "name": "Public",
+      "public": true,
+      "type": "open",
+      "selected": true
+    }
+  ],
+  "useDomainFolders": false,
+  "lastSyncDate": "2023-10-25T12:50:33.342Z"
 }

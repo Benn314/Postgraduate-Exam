@@ -127,5 +127,15 @@
       ],
       "key": "ArrowLeft"
     }
-  ]
+  ],
+  "file-explorer:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+  "easy-typing-obsidian:easy-typing-format-selection": []
 }

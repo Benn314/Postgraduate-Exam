@@ -40,6 +40,12 @@ Wiki 链接普通的 markdown 编辑器（例如 typora）无法识别，同时�
 > 
 > 引用字段下面的内容多段换行无效，换行加 Tab 无效，需要用 `<br />` 来控制换行
 
+#### 外观
+
+- 将大纲视图从右侧移动到左侧，右上方现在主要展示日历，右下方是 MEMOS
+	- ![](asset/Pasted%20image%2020231025204035.png)
+- 扩展 ben.css 文件
+
 
 <br />
 
@@ -68,6 +74,8 @@ Wiki 链接普通的 markdown 编辑器（例如 typora）无法识别，同时�
 
 > 首先需要你当前文件夹已经有 `.git` 文件，与远程仓库进行绑定，`obsidian git` 会根据你所设置的时间间隔当文件内容发生改变时，定时提交并推送到远程，提交的信息由你设定（默认是采用时间变量等上传信息）
 
+![](asset/Pasted%20image%2020231025204647.png)
+
 ​	
 
 ### Easy Typing
@@ -88,7 +96,7 @@ Wiki 链接普通的 markdown 编辑器（例如 typora）无法识别，同时�
 
 ### Various Complements
 
-> 智能补全插件，可以自己设置一个 `conf/word.md` 的文件放到插件配置中（例如一些专业名词等），目前前期用不到这个，先禁用
+> 智能补全插件，可以自己设置一个字典 `conf/word.md` 的文件放到插件配置中（例如一些专业名词等），目前前期用不到这个，先禁用
 
 ​	
 
@@ -129,8 +137,8 @@ Wiki 链接普通的 markdown 编辑器（例如 typora）无法识别，同时�
  > 快捷创建任务：`Alt+C`
  > 输入任务内容后单空格能选择各类时间（开始、计划开始、截止时间等）或者触发关键字 `created`、`today`、`monday`等
  > 
-> Tasks 的查询管理任务列表查看文件 [Tasks](../Pub/Capture/Tasks.md)（这个很有用）
-    查询文档请前往 [这里](https://publish.obsidian.md/tasks/Queries/Sorting#Sorting)
+> Tasks 的查询管理任务列表查看文件 [Tasks](../Pub/Capture/Tasks.md)（这个很有用，我可以把 tasks 散落在各地，只需要一个文档用 tasks 语法进行汇总就好了，直观清晰， Tasks 还有循环重复的功能，任务完成后在规定时间内可再次生成一个一模一样的 tasks，使用场景比如现实生活中定期发生的事情，发工资或提醒 XX 事情等等）
+    Tasks Queries 查询语句，请前往文档 [这里](https://publish.obsidian.md/tasks/Queries/Sorting#Sorting)
 
 在这里补充一点：
 
@@ -309,3 +317,53 @@ dv.paragraph('```tasks\n' + query + '\n```', 'todo');
 > 一款日历插件，插件默认在右上方展示，点击日期会跳转到该日期对应的日报，如果日报未创建会弹出是否进行创建，一般创建日报对应日期下方会有白点小标志，直观清晰 
 
 ![](asset/Pasted%20image%2020231025001002.png)
+
+
+### Hypothes.is
+
+> 分享 `网页标注` 文章阅读心得，通过浏览器插件 `Hypothesis` 进行网页标注，高亮或注释某一段文章或语句等，并在语句下方进行评论，Obsidian 端下载 Hypothes.is 插件并绑定你的账号 token，设置好同步拉取时间，Obsidian 会定时拉取你在浏览器标注的网页内容和评论到指定文件夹（我指定在 `Pub/Hypo` 目录下，将拉取内容生成文档放到此目录中），然后一般评论我会以任务列表的形式并在任务描述后面加上 `#share` 标签，这样我在 Obsidian 中的 writing 文件设置 tasks 收集带`#share` 标签的任务，可以让我更方便的回顾网页标注的内容、访问原网页和写心得，减少像放到收藏夹吃灰的现象，打通输入（看的信息，例如资讯等）输出（写心得、文章、重新思考的过程）
+
+下面是插件配置格式：
+
+```
+{% if is_new_article %}
+# {{title}}
+
+## Metadata
+{% if author %}- Author: [{{author}}]({{authorUrl}}){% endif %}
+- Title: {{title}}
+{% if url %}- Reference: {{url}}{% endif %}
+- Category: #article
+{% endif %}
+
+{%- if is_new_article %}
+## Page Notes
+{% for highlight in page_notes -%}
+{{highlight.annotation}}
+{%- if highlight.tags | length %}
+Tags: {% for tag in highlight.tags -%} #{{tag | replace(" ", "-")+" "}}{%- endfor %}
+{% endif %}
+{% endfor %}
+{%- endif -%}
+
+{%- if is_new_article -%}
+## Highlights
+{% for highlight in highlights -%}
+- {{highlight.text}} — [Updated on {{highlight.updated}}]({{highlight.incontext}})
+{%- if 'Private' != highlight.group %} — Group: #{{highlight.group | replace(" ", "-")}}{% endif %}
+{% if highlight.tags | length %}    - Tags: {% for tag in highlight.tags %} #{{tag | replace(" ", "-")+" "}}{% endfor %}
+{% endif -%}
+{% if highlight.annotation %}   
+- Annotation:
+{{highlight.annotation}}{% endif %}
+{% endfor %}
+{% endif %}
+```
+
+![](asset/Pasted%20image%2020231025203129.png)
+
+> 当然了，你也可以在命令面板或者左侧栏同步标志手动执行同步
+
+![](asset/Pasted%20image%2020231025203227.png)
+![](asset/Pasted%20image%2020231025203749.png)
+

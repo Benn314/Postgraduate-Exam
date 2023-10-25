@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pub/Capture/Tasks.md",
+                "file": "学习日报/Obsidian工作流.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,12 +43,22 @@
             }
           },
           {
+            "id": "bab1ee54f95f0c5d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "学习日报/Obsidian工作流.md"
+              }
+            }
+          },
+          {
             "id": "dadcb7842738521c",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "write",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Capture/Tasks.md",
+                "file": "学习日报/Obsidian工作流.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Capture/Tasks.md",
+                "file": "学习日报/Obsidian工作流.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,16 +126,6 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "bab1ee54f95f0c5d",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Pub/Capture/Tasks.md"
               }
             }
           },
@@ -173,13 +173,31 @@
   },
   "active": "08d83ca18249a722",
   "lastOpenFiles": [
-    "Pub/Hypo",
-    "学习日报/Day/2023-10-25.md",
-    "Pub/Capture/Tasks.md",
-    "学习日报/Obsidian工作流.md",
-    "学习日报/Week/2023年10月-第43周.md",
+    "asset/aText/AutoBackup-2023-10-25-20-51-02.atext",
+    "asset/aText",
+    "asset/新建文件夹",
+    "asset/MouseInc/MouseInc.Settings.zip",
+    "asset/MouseInc/MouseInc.json",
+    "asset/MouseInc/MouseInc.exe",
+    "asset/MouseInc",
+    "asset",
+    "新建文件夹",
+    "MouseInc/MouseInc.Settings.zip",
+    "MouseInc/MouseInc.json",
+    "学习日报/asset/Pasted image 20231025204647.png",
+    "Pub/Hypo/我的 Obsidian 使用经验  程序员的喵.md",
     "Pub/Capture/writing.md",
+    "学习日报/Obsidian工作流.md",
+    "学习日报/asset/Pasted image 20231025204035.png",
+    "学习日报/Day/2023-10-25.md",
     "学习日报/Day/2023-10-24.md",
+    "学习日报/asset/Pasted image 20231025203749.png",
+    "学习日报/asset/Pasted image 20231025203227.png",
+    "学习日报/asset/Pasted image 20231025203129.png",
+    "Pub/Hypo/程序员使用 Obsidian 的经验 --- 我的工作流_哔哩哔哩_bilibili.md",
+    "Pub/Template/日记模板.md",
+    "Pub/Capture/Tasks.md",
+    "学习日报/Week/2023年10月-第43周.md",
     "学习日报/Day/delete.md",
     "Pub/Template/write.md",
     "Pub/Capture/Begin-write/HHH.md",
@@ -187,7 +205,6 @@
     "Pub/Capture/Begin-write/介绍 Obsidian 用法.md",
     "Pub/Capture/Begin-write/介绍 Obsidian 用法123.md",
     "Pub/Template/周记模板.md",
-    "Pub/Template/日记模板.md",
     "学习日报/Day/10月21日.md",
     "学习日报/Day/2023-10-26.md",
     "未命名.canvas",
@@ -195,30 +212,13 @@
     "学习日报/asset/Pasted image 20231025005957.png",
     "学习日报/asset/Pasted image 20231025005228.png",
     "学习日报/asset/Pasted image 20231025005136.png",
-    "24考研报名信息/PDF_443996949.pdf",
     "学习日报/asset/Pasted image 20231025003952.png",
     "学习日报/asset/Pasted image 20231025003823.png",
-    "学习日报/asset/Pasted image 20231025001002.png",
-    "学习日报/asset/Pasted image 20231025000639.png",
-    "学习日报/asset/Pasted image 20231025000350.png",
-    "学习日报/asset/Pasted image 20231025000217.png",
-    "学习日报/asset/Pasted image 20231024234748.png",
     "学习日报/Week/2023年10月-第43周1.md",
     "学习日报/Week/2023-10-25.md",
     "Pub/Template/daily-原生日报模板.md",
-    "学习日报/asset",
     "学习日报/Day/2023102415130049.md",
     "学习日报/Day/2023-10-23.md",
-    "学习日报/Week/2023-10-24.md",
-    "学习日报/Week/20231023.md",
-    "学习日报/Week/20231024.md",
-    "学习日报/Week",
-    "学习日报/Day/asset",
-    "学习日报/Day/10月21日.assets",
-    "学习日报/Day",
-    "学习日报/day/asset",
-    "学习日报/day/10月21日.assets",
-    "学习日报/week",
-    "学习日报/新建文件夹"
+    "学习日报/Week/2023-10-24.md"
   ]
 }
