@@ -71,6 +71,7 @@ Wiki 链接普通的 markdown 编辑器（例如 typora）无法识别，同时�
 - `Ctrl+K` ：打开/创建今日日记
 - `Ctrl+Shift+L` ：打开文件列表
 - `Ctrl+0` ：打开 Tasks 汇集文档
+- `Ctrl+M` ：打开当前文档 Mind Map 思维导图
 
 <br />
 
@@ -312,7 +313,7 @@ dv.paragraph('```tasks\n' + query + '\n```', 'todo');
 
 #### Bug
 
-发现 templater 插件和 Obsidian 有时不能实时渲染的问题，提示 templater 解析失败，实际上是因为没有联网的原因，只需要联网后就可以实时渲染了
+- 发现 templater 插件和 Obsidian 有时不能实时渲染的问题，提示 templater 解析失败，实际上是因为没有联网的原因，只需要联网后就可以实时渲染了
 
 <br />
 
@@ -448,4 +449,59 @@ Tags: {% for tag in highlight.tags -%} #{{tag | replace(" ", "-")+" "}}{%- endfo
 ![](asset/Pasted%20image%2020231026172047.png)
 
 > Tasks 文档是我每天必看的（看看有什么任务没完成），所以在这里添加打开操作的快捷键
+
+
+<br />
+
+### Excalidraw
+
+> 一个手绘风格的绘画插件
+> 
+> 新版本更新缺少 `main.js` 文件无法启动，需要去 github 主页的 release 下载
+
+![](asset/Pasted%20image%2020231026181632.png)
+
+![](asset/Pasted%20image%2020231026182054.png)
+
+<br />
+
+### Map Mind
+
+> 根据当前 markdown 的大纲视图生成思维导图的工具
+> 
+> 自定义快捷打开：`Ctrl+M`
+
+<br />
+
+### Obsidian 插件开发
+
+> 教学链接：[程序员高效使用 Obsidian -- 插件开发\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1rL4y1F7h5/?spm_id_from=333.788&vd_source=1f9072e850dde202d6ddd4c60d9d334d)
+> 
+> 即使不开发也可以了解一下，可以帮助更全面了解 Obsidian，像下面的 `main.js` 是 `main.ts` 通过 `npm run build` 打包编译而来的入口文件
+> - **mainifest.json** 记录 Obsidian 元数据
+> - **main.js** 记录所有处理逻辑
+> - **style.css** 是样式文件
+
+![](asset/Pasted%20image%2020231026185254.png)
+
+如果遇到插件（重启还）打不开的情况，可以进入控制台查看 error 报错
+
+![](asset/Pasted%20image%2020231026185310.png)
+
+#### Obsidian42 - BRAT
+
+> 当你的插件没有发布时，可以通过 `brat` 插件分享 BETA 版本的插件仓库地址给你指定的人内测
+
+<br />
+
+#### 开发相关资料
+
+![](asset/Pasted%20image%2020231026190439.png)
+
+![](asset/Pasted%20image%2020231026190548.png)
+
+![](asset/Pasted%20image%2020231026190637.png)
+
+
+
 
