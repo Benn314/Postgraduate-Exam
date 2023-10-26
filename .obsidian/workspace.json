@@ -88,7 +88,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,14 +187,15 @@
   },
   "active": "cbf9d9a213d6e0c6",
   "lastOpenFiles": [
-    "Pub/Capture/read.md",
-    "学习日报/Obsidian工作流.md",
-    "学习日报/asset/Pasted image 20231025213334.png",
-    "学习日报/Day/2023-10-25.md",
-    "Pub/Template/日记模板.md",
     "学习日报/Day/2023-10-26.md",
-    "Pub/Capture/writing.md",
     "Pub/Capture/Tasks.md",
+    "学习日报/Obsidian工作流.md",
+    "学习日报/Day/delete.md",
+    "学习日报/Day/2023-10-25.md",
+    "Pub/Capture/read.md",
+    "学习日报/asset/Pasted image 20231025213334.png",
+    "Pub/Template/日记模板.md",
+    "Pub/Capture/writing.md",
     "Pub/Capture/().md",
     "Pub/Capture/url.md",
     "asset/aText/AutoBackup-2023-10-25-20-51-02.atext",
@@ -215,7 +217,6 @@
     "学习日报/asset/Pasted image 20231025203129.png",
     "Pub/Hypo/程序员使用 Obsidian 的经验 --- 我的工作流_哔哩哔哩_bilibili.md",
     "学习日报/Week/2023年10月-第43周.md",
-    "学习日报/Day/delete.md",
     "Pub/Template/write.md",
     "Pub/Capture/Begin-write/HHH.md",
     "Pub/Capture/Begin-write/HH.md",

@@ -326,6 +326,10 @@ dv.paragraph('```tasks\n' + query + '\n```', 'todo');
 ![](asset/Pasted%20image%2020231025000350.png)
 ![](asset/Pasted%20image%2020231025000639.png)
 
+> MEMOS 删除的任务列表在这里→ [delete](Day/delete.md)
+
+<br />
+
 ### Calendar
 
 > 一款日历插件，插件默认在右上方展示，点击日期会跳转到该日期对应的日报，如果日报未创建会弹出是否进行创建，一般创建日报对应日期下方会有白点小标志，直观清晰 
@@ -381,3 +385,18 @@ Tags: {% for tag in highlight.tags -%} #{{tag | replace(" ", "-")+" "}}{%- endfo
 ![](asset/Pasted%20image%2020231025203227.png)
 ![](asset/Pasted%20image%2020231025203749.png)
 
+### [ObWeb](https://github.com/chenyukang/obweb)
+
+> chenyukang 作者研究的一款 Obsidian 移动端同步自动化开源项目，但对我目前来说，关系不大，先跳过
+
+<br />
+
+### Auto Link Title
+
+> 自动插入链接和标题的插件，Obsidian 自带的插入链接不好用，无法识别剪切板并粘贴链接，这一插件能插入链接的同时，读取链接的第一级标题，填充到说明文字中，上面的 ObWeb 标题链接则是通过这一插件来完成的
+
+<br />
+
+### 幻灯片
+
+> Obsidian 自带的核心插件，可以将文档当成幻灯片讲解，通过 `---` 分割每一页幻灯片

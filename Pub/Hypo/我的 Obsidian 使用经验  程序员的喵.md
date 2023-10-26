@@ -16,5 +16,5 @@ url: 'https://catcoding.me/p/obsidian-for-programmer/'
 -  — [Updated on 2023-10-25 20:10:09](https://hyp.is/Nv3zElE-Ee6ifFds94wtvQ/catcoding.me/p/obsidian-for-programmer/) — Group: #Public
    
 - Annotation:
-- [ ] 再测试一下Hypo格式 #share
+- [x] 再测试一下Hypo格式 #share ✅ 2023-10-26
 

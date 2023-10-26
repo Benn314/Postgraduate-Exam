@@ -7,5 +7,6 @@
   "templater-obsidian",
   "obsidian-memos",
   "calendar",
-  "obsidian-hypothesis-plugin"
+  "obsidian-hypothesis-plugin",
+  "obsidian-auto-link-title"
 ]

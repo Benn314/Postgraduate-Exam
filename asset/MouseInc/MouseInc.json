@@ -742,6 +742,13 @@
 			"Name": "展开/收起左侧边栏",
 			"Sign": "LEFT-RIGHT",
 			"Valid": true
+		}, {
+			"Valid": true,
+			"Sign": "RIGHT",
+			"Name": "插入链接max",
+			"Actions": [
+				["SendKeys", "Ctrl+Shift+E"]
+			]
 		}],
 		"Match": ["Obsidian.exe"],
 		"Name": "Obsidian"
