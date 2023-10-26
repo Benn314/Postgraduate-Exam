@@ -29,7 +29,6 @@ sort by due
 not done
 no due date
 sort by path
-description does not include #write
 ```
 
 ## 已完成

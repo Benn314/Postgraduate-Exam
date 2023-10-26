@@ -8,5 +8,8 @@
   "obsidian-memos",
   "calendar",
   "obsidian-hypothesis-plugin",
-  "obsidian-auto-link-title"
+  "obsidian-auto-link-title",
+  "cmenu-plugin",
+  "remember-cursor-position",
+  "obsidian-hotkeys-for-specific-files"
 ]

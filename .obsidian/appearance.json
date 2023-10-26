@@ -1,9 +1,10 @@
 {
   "accentColor": "",
-  "theme": "obsidian",
+  "theme": "system",
   "translucency": true,
   "enabledCssSnippets": [
     "【日记】timeline",
     "ben"
-  ]
+  ],
+  "cssTheme": ""
 }

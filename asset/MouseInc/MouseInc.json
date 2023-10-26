@@ -743,12 +743,12 @@
 			"Sign": "LEFT-RIGHT",
 			"Valid": true
 		}, {
-			"Valid": true,
-			"Sign": "RIGHT",
-			"Name": "插入链接max",
 			"Actions": [
-				["SendKeys", "Ctrl+Shift+E"]
-			]
+				["SendKeys", "Ctrl+J"]
+			],
+			"Name": "打开大纲",
+			"Sign": "RIGHT",
+			"Valid": true
 		}],
 		"Match": ["Obsidian.exe"],
 		"Name": "Obsidian"

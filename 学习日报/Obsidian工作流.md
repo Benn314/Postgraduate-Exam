@@ -10,7 +10,8 @@
 
 > 自定义专属 Obsidian 的特定手势动作
 
-![](asset/Pasted%20image%2020231025005957.png)
+![](asset/Pasted%20image%2020231026155905.png)
+
 
 ### aText
 
@@ -67,6 +68,9 @@ Wiki 链接普通的 markdown 编辑器（例如 typora）无法识别，同时�
 - `Ctrl+Shift+I` ：打开控制台
 - `Ctrl+,` ：打开设置
 - `Ctrl+G` ：打开关系图谱
+- `Ctrl+K` ：打开/创建今日日记
+- `Ctrl+Shift+L` ：打开文件列表
+- `Ctrl+0` ：打开 Tasks 汇集文档
 
 <br />
 
@@ -124,7 +128,7 @@ Wiki 链接普通的 markdown 编辑器（例如 typora）无法识别，同时�
 
 3. 🍰Ready to read，主要通过 tasks 收集日报中待看文章标题下的任务列表（通过标签 `#read` 来收集），用于记录自己待看文章和已读文章，待看文章的任务可以散落在各个日报中
 
-![](asset/Pasted%20image%2020231025213334.png)
+![](asset/Pasted%20image%2020231026141047.png)
 
 > capture format ：`[{{value}}](url) -- {{DATE:}} #read`
 
@@ -303,6 +307,8 @@ dv.paragraph('```tasks\n' + query + '\n```', 'todo');
 ### templater
 
 > 目前我只用它**识别和展示** <% %> 包裹的变量，完成 dataviewjs 事件
+> 
+> 但它也可以用来插入指定的文件模板，跟 Obsidian 核心插件 `模板` 是差不多的
 
 #### Bug
 
@@ -393,10 +399,53 @@ Tags: {% for tag in highlight.tags -%} #{{tag | replace(" ", "-")+" "}}{%- endfo
 
 ### Auto Link Title
 
-> 自动插入链接和标题的插件，Obsidian 自带的插入链接不好用，无法识别剪切板并粘贴链接，这一插件能插入链接的同时，读取链接的第一级标题，填充到说明文字中，上面的 ObWeb 标题链接则是通过这一插件来完成的
+> 自动插入链接和标题的插件，Obsidian 自带的插入链接不好用，无法识别剪切板内容并粘贴链接，这一插件能直接通过粘贴来插入链接的同时，读取链接的第一级标题，并填充到说明文字中，上面的 ObWeb 标题链接则是通过这一插件来完成的
 
 <br />
 
 ### 幻灯片
 
 > Obsidian 自带的核心插件，可以将文档当成幻灯片讲解，通过 `---` 分割每一页幻灯片
+
+
+<br />
+
+### Automatically Reveal Active File
+
+> Obsidian 的索引有一个小缺陷，就是切换文件的时候（例如 `Ctrl+O`）大纲无法精准定位（虽然 已经 高亮 到新文件了，但无法展示被文件夹隐藏的文件，需要手动打开才能看到，同时如果目标文件超过大纲当前视图区域，也需要你手动去找目标文件，这样很不优雅，`Automatically Reveal Active File` 可以快速定位并高亮目标文件）
+
+#### Bug
+
+>  `Automatically Reveal Active File` 高亮定位插件跟 `Remember cursor position` 保存光标定位插件冲突，根据自身需求，我暂时先选择后者插件
+
+<br />
+
+### Remember cursor position
+
+> 通过保存文档滚动条高度以及光标位置来保存当前文档观看进度，以便切换文件的时候文档不会从头开始，同时文档位置信息保存在本地插件目录中，即使关闭 Obsidian 编辑器，下次打开该文档，依然会跳转到当前观看进度
+
+#### Bug
+
+> 发现一个小 Bug，虽然 `Remember cursor position` 会本地化保存文档进度（也就是关闭编辑器打开仍然是跳转到上一次编辑的进度），但是由于 Obsidian 本身的机制，打开 Obsidian 默认是打开上次编辑文件的位置（估计源代码是默认从头开始展示，因为它自身也没有保存文档观看进度的功能，这是第三方插件集成的功能）
+> 
+> 所以，你需要 Obsidian 默认打开的是你的目标文档，需要先点击其他文档，再点击回你的目标文档，才能跳转到上次观看进度的位置，这个有点小不方便
+
+
+<br />
+
+### Better Command Palette
+
+> 增强的命令面板，我暂时不需要
+
+
+<br />
+
+### Hotkeys for specific files
+
+> 实现为指定文件绑定快捷键打开
+
+![](asset/Pasted%20image%2020231026172003.png)
+![](asset/Pasted%20image%2020231026172047.png)
+
+> Tasks 文档是我每天必看的（看看有什么任务没完成），所以在这里添加打开操作的快捷键
+
