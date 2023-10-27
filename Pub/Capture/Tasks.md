@@ -28,7 +28,7 @@ sort by due
 ```tasks
 not done
 no due date
-sort by path
+sort by path reverse
 ```
 
 ## 已完成
