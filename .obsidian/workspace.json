@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6c391cdf5aa41383",
+        "id": "8262140ba6720ea8",
         "type": "tabs",
         "children": [
           {
-            "id": "b12d66223dba8752",
+            "id": "8468198e1669eb00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "学习日报/Obsidian工作流.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2bf4b28a4a2c8d11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学习日报/Day/delete.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,16 +169,23 @@
       "templater-obsidian:Templater": false,
       "daily-notes:打开/创建今天的日记": false,
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
-      "obsidian-memos:Memos": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-memos:Memos": false
     }
   },
-  "active": "b12d66223dba8752",
+  "active": "5caa33d6a0a1bf57",
   "lastOpenFiles": [
+    "学习日报/asset/Pasted image 20231027003442.png",
+    "学习日报/asset/Pasted image 20231026232156.png",
+    "学习日报/Obsidian工作流.md",
+    "学习日报/Day/2023-10-26.md",
+    "学习日报/Day/2023-10-25.md",
+    "学习日报/Day/2023-10-24.md",
+    "Pub/Capture/Tasks.md",
+    "学习日报/Day/asset/Pasted image 20231026230359.png",
     "学习日报/asset/Pasted image 20231026190637.png",
     "学习日报/asset/Pasted image 20231026190548.png",
     "学习日报/Week/2023年10月-第43周.md",
-    "学习日报/Obsidian工作流.md",
     "学习日报/asset/Pasted image 20231026190439.png",
     "学习日报/asset/Pasted image 20231026185310.png",
     "学习日报/asset/Pasted image 20231026185254.png",
@@ -209,16 +205,9 @@
     "Pub/Draw/未命名.canvas",
     "Pub/Draw",
     "学习日报/asset/Pasted image 20231026172047.png",
-    "学习日报/asset/Pasted image 20231026172003.png",
-    "学习日报/Day/2023-10-26.md",
-    "Pub/Capture/Tasks.md",
-    "学习日报/Day/2023-10-25.md",
-    "学习日报/Day/2023-10-24.md",
     "Pub/Template/日记模板.md",
     "Pub/Hypo/我的 Obsidian 使用经验  程序员的喵.md",
-    "学习日报/asset/Pasted image 20231026155905.png",
     "Pub/Template/write.md",
-    "学习日报/asset/Pasted image 20231026141047.png",
     "Pub/Capture/read.md",
     "Pub/Capture/url.md",
     "Pub/Capture/().md",

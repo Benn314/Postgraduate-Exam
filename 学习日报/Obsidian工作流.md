@@ -473,6 +473,32 @@ Tags: {% for tag in highlight.tags -%} #{{tag | replace(" ", "-")+" "}}{%- endfo
 
 <br />
 
+### Stack tab groups 堆栈选项卡组
+
+> 您可以堆叠选项卡以将其滑动到同一选项卡组中的其他选项卡上。若要堆叠笔记，请选择选项卡组右上角的向下箭头，然后选择 堆叠笔记。
+
+![](asset/Pasted%20image%2020231026232156.png)
+
+<br />
+
+### Day Planner
+
+> 记录日程安排，在侧边栏中会生成纵向时间线，文档顶部还会生成甘特图，当设置时间到来时，它会调用系统自带的通知
+
+![](asset/Pasted%20image%2020231027003442.png)
+
+<br />
+
+
+### Kanban
+
+> 看板插件能更直观的地管理项目工程，添加卡片、移动卡片、完成卡片、插入图片，同时也能使用双链和其他文档进行联动，例如设置 30 天后的任务，日志面板会在 30 天会有一个任务记录
+
+
+<br />
+
+
+
 ### Obsidian 插件开发
 
 > 教学链接：[程序员高效使用 Obsidian -- 插件开发\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1rL4y1F7h5/?spm_id_from=333.788&vd_source=1f9072e850dde202d6ddd4c60d9d334d)
