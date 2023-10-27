@@ -749,6 +749,13 @@
 			"Name": "打开大纲",
 			"Sign": "RIGHT",
 			"Valid": true
+		}, {
+			"Actions": [
+				["Execute", "notepad.exe", "wait"]
+			],
+			"Name": "打开记事本",
+			"Sign": "C",
+			"Valid": true
 		}],
 		"Match": ["Obsidian.exe"],
 		"Name": "Obsidian"

@@ -341,6 +341,23 @@ dv.paragraph('```tasks\n' + query + '\n```', 'todo');
 > 但它也可以用来插入指定的文件模板，跟 Obsidian 核心插件 `模板` 是差不多的
 > 它可以给指定文件夹绑定指定模板，使用文件夹下创建的文件统一使用统一模板管理，
 
+> [Johnny学OB 第45集 分享OB必用插件Templater的两个懒人用法，看不懂没关系，放到模板下面就可以用\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1RR4y1x7S8/?spm_id_from=333.788.recommend_more_video.-1&vd_source=1f9072e850dde202d6ddd4c60d9d334d)
+> 
+> 演示代码：[Airtable - Grid view](https://airtable.com/app3mrMDDf1UIQeUB/shrqmxUIfUg8Y0ca8/tblpzHoW1lmd2FSGk)
+
+```txt
+1. 将使用当前模板创建的笔记，自动移动到制定文件夹，如果文件没有提前命名,则弹出命名窗口
+把这个代码片段放到任何模板的后面，使用时讲“目标文件夹"修改成你想要制定的文件夹
+
+<% await tp.file.move("/目标文件夹/" + ((tp.file.title.includes("未命名") || tp.file.title.toLowerCase().includes("untitled"))  ? (await tp.system.prompt("请输入要创建的文件名")) : tp.file.title)) %>
+
+---
+
+2. 使用Templater新建文件时，自动加上当前所在的文件夹名称
+
+<% await tp.file.rename(tp.file.path(true).split('/')[tp.file.path(true).split('/').length-2] + " " + ((tp.file.title.includes("未命名") || tp.file.title.toLowerCase().includes("untitled")) ? (await tp.system.prompt("请输入要创建的文件名")) : tp.file.title)) %>
+```
+
 #### Bug
 
 - 发现 templater 插件和 Obsidian 有时不能实时渲染的问题，提示 templater 解析失败，实际上是因为没有联网的原因，只需要联网后就可以实时渲染了
@@ -548,6 +565,9 @@ type: pdf/epub
 > 以上语法设置了 `quickadd` 的 template，修改了 Annotator 创建文件时默认用 markdown 形式打开而不是 annotate，只需要再填充 url 然后点击右上角 `···` 的 annotate 打开即可
 > 
 > **需求**：我希望能在模板中创建一个 url 变量，再 quickadd 创建模板文件的时候，除了自定义名字还能自定义 url 地址，这样的话我就可以直接默认 annotate 模式打开了，减少繁琐步骤
+> **解决**：之前以为 value 值只能是标题的值，没想到只需要在模板中设置 `{{VALUE:自定义输入文字}}` 即可创建多个 value 值并在使用 quickadd 创建文件的时候提前自定义好 各个 value 值
+
+^j0cbvb
 
 点击 Annotations 注释还能跳转到标注时的位置并高亮
 
@@ -669,5 +689,42 @@ bestFitNumber: 0
 ![](asset/Pasted%20image%2020231026190637.png)
 
 
+### obsidian to anki
 
+> 背诵卡片
+> 
+> 实用性 `obsidian to anki` 和 `Spaced Repetition` 待测试
+
+<br />
+
+### Spaced Repetition
+
+> 也是背诵卡片
+> 
+> [无需 Anki 直接在 Obsidian 里面背卡片 | 笔记神器 Obsidian 完全指南\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1ho4y127nW/?spm_id_from=333.999.0.0&vd_source=1f9072e850dde202d6ddd4c60d9d334d)
+
+<br />
+
+
+### Obsidian 仓库多端同步
+
+<br />
+
+
+### Copy Block Link
+
+> 快速复制块链接，提升操作体验
+> [几招教你提高 Obsidian 中块引用的操作体验 - 知乎](https://zhuanlan.zhihu.com/p/411484717)
+---
+> 相信有不少从 Roam 转移到 Obsidian 的用户会特别怀念它的 Ctrl+Shift+C 来复制当前行的块引用字符串，或者怀念它支持右键直接复制当前的块链接，而 Obsidian 中却刚好有这样一个插件支持了几乎一模一样的操作。
+> 
+> 这就是由 Kanban 插件的作者开发的一款微型插件（下载链接：[obsidian-copy-block-link](https://link.zhihu.com/?target=https%3A//github.com/mgmeyers/obsidian-copy-block-link)），虽然他开发过很多其它的微型插件，但是这款应该是我最为喜欢的插件。
+> 
+> 你在当前段直接右键点击就会有熟悉的 Copy Block Link 以及 Copy Embed Link 两个选项，如下图所示：
+> 
+> 这里分别有内嵌型和引用型
+> ![](asset/Pasted%20image%2020231027171713.png)
+> 
+> 点击 Copy Block Link 就可以将当前块的链接复制到粘贴板，然后你就可以去到你想要粘贴的地方进行粘贴了。而 Copy Embed Link 也类似，粘贴出来的会是块嵌入效果。
+> ![](asset/Pasted%20image%2020231027171725.png)
 
