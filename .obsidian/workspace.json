@@ -181,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5,
-    "collapsed": true
+    "width": 335.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,21 +194,28 @@
       "daily-notes:打开/创建今天的日记": false,
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "obsidian-memos:Memos": false,
-      "workspaces:管理工作区布局": false
+      "workspaces:管理工作区布局": false,
+      "obsidian-memos:Memos": false
     }
   },
   "active": "2b3373f251b67197",
   "lastOpenFiles": [
+    "学习日报/asset/Pasted image 20231027154033.png",
+    "学习日报/asset/Pasted image 20231027153956.png",
+    "学习日报/asset/Pasted image 20231027153825.png",
+    "学习日报/asset/Pasted image 20231027153454.png",
+    "学习日报/asset/Pasted image 20231027153310.png",
+    "学习日报/asset/Pasted image 20231027153056.png",
+    "学习日报/asset/Pasted image 20231027153047.png",
+    "学习日报/asset/Pasted image 20231027152758.png",
     "学习日报/Obsidian工作流.md",
-    "学习日报/asset/Pasted image 20231027122232.png",
+    "学习日报/asset/Pasted image 20231027150836.png",
+    "学习日报/asset/Pasted image 20231027150021.png",
+    "学习日报/asset/Pasted image 20231027150009.png",
     "Pub/PDF-Annotator/Test-本地附件链接.md",
     "Pub/PDF-Annotator/测试一下-2023-10-27.md",
     "Pub/PDF-Annotator/Test-网络附件链接.md",
-    "学习日报/asset/Pasted image 20231027121257.png",
     "学习日报/Day/2023-10-27.md",
-    "学习日报/asset/Pasted image 20231027120801.png",
-    "学习日报/asset/Pasted image 20231027120504.png",
     "Pub/Capture/Tasks.md",
     "Pub/PDF-Annotator",
     "Pub/PDF&Epub-Annotator/Test-本地附件链接.md",
@@ -228,14 +234,8 @@
     "24考研报名信息/PDF_443996949.pdf",
     "学习日报/Week/2023年10月-第43周.md",
     "Pub/Template/周记模板.md",
-    "学习日报/asset/Pasted image 20231027003442.png",
-    "学习日报/asset/Pasted image 20231026232156.png",
     "学习日报/Day/2023-10-25.md",
     "学习日报/Day/2023-10-24.md",
-    "学习日报/Day/asset/Pasted image 20231026230359.png",
-    "学习日报/asset/Pasted image 20231026190637.png",
-    "学习日报/asset/Pasted image 20231026190548.png",
-    "学习日报/asset/Pasted image 20231026190439.png",
     "Pub/Capture/writing.md",
     "Pub/Draw/Drawing 2023-10-26 18.10.05.excalidraw.md",
     "Pub/Draw/Drawing 2023-10-26 18.12.56.excalidraw.md",
