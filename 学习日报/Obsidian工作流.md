@@ -8,7 +8,7 @@
 
 ### MouseInc
 
-> 自定义专属 Obsidian 的特定手势动作
+> 	自定义专属 Obsidian 的特定手势动作
 
 ![](asset/Pasted%20image%2020231026155905.png)
 
@@ -46,6 +46,7 @@ Wiki 链接普通的 markdown 编辑器（例如 typora）无法识别，同时�
 - 将大纲视图从右侧移动到左侧，右上方现在主要展示日历，右下方是 MEMOS
 	- ![](asset/Pasted%20image%2020231025204035.png)
 - 扩展 ben.css 文件
+- 打开核心插件：工作区布局管理
 
 
 <br />
@@ -149,6 +150,12 @@ Wiki 链接普通的 markdown 编辑器（例如 typora）无法识别，同时�
 5. 🌳Record weekly，记录周报，通过它能快速生成当周周报模板
 ![](asset/Pasted%20image%2020231024234748.png)
 
+6. 🤔PDF Annotator，基于 Annotator 插件来快速创建 PDF 注释文档模板，使我能编辑记录指定 PDF 的内容和笔记
+
+> Annotator，一款比 Obsidian 自带 PDF 阅读器更强大的注释阅读器（插件），下面有介绍具体介绍 [Annotator](#Annotator)  插件
+
+![](asset/Pasted%20image%2020231027122232.png)
+
 ### Tasks
 
  > 增强版的任务列表，可以快速配置开始时间、截止时间等，搭配 dataview 插件和 Memos 插件使用
@@ -171,6 +178,11 @@ Wiki 链接普通的 markdown 编辑器（例如 typora）无法识别，同时�
 
 一定要打开 JavaScript Queries
 ![](asset/Pasted%20image%2020231025000217.png)
+
+> **讲一下 Tasks 跟 dataview 的区别**
+> 
+> Tasks 主要是用来汇集各个文档的任务列表部分，dataview 是用来汇集各个文档
+> 当然了，Tasks 能做的事情，dataview 也能完成
 
 #### [日记模板](../Pub/Template/日记模板.md)
 
@@ -310,6 +322,7 @@ dv.paragraph('```tasks\n' + query + '\n```', 'todo');
 > 目前我只用它**识别和展示** <% %> 包裹的变量，完成 dataviewjs 事件
 > 
 > 但它也可以用来插入指定的文件模板，跟 Obsidian 核心插件 `模板` 是差不多的
+> 它可以给指定文件夹绑定指定模板，使用文件夹下创建的文件统一使用统一模板管理，
 
 #### Bug
 
@@ -498,6 +511,42 @@ Tags: {% for tag in highlight.tags -%} #{{tag | replace(" ", "-")+" "}}{%- endfo
 <br />
 
 
+### 读书笔记
+
+#深度阅读 #PDF批注 #串联笔记
+
+#### Annotator
+
+> 一款 支持本地和在线的 PDF 以及 Epub 的阅读注释器
+
+##### 语法
+
+```txt
+---
+annotation-target: 本地附件链接/在线链接
+type: pdf/epub
+---
+```
+
+> 以上语法设置了 `quickadd` 的 template，修改了 Annotator 创建文件时默认用 markdown 形式打开而不是 annotate，只需要再填充 url 然后点击右上角 `···` 的 annotate 打开即可
+> 
+> **需求**：我希望能在模板中创建一个 url 变量，再 quickadd 创建模板文件的时候，除了自定义名字还能自定义 url 地址，这样的话我就可以直接默认 annotate 模式打开了，减少繁琐步骤
+
+点击 Annotations 注释还能跳转到标注时的位置并高亮
+
+![](asset/Pasted%20image%2020231027120504.png)
+
+> 在阅读模式下，可以清楚的看到在该附件（PDF）中标注了哪些内容和记下哪些笔记，同时可以双向链接其他文档
+
+![](asset/Pasted%20image%2020231027121257.png)
+
+![](asset/Pasted%20image%2020231027120801.png)
+
+> 小结：Annotator 插件确实也不错，够用，有点是能集成在 Obsidian，便于管理和知识循环。如果你想要一款功能更丰富的 PDF 阅读注释器，我推荐 Xodo APP
+> 
+> 基于 quickadd 创建的 Annotation template 文件，之后根据考研需要再更改模板文件名的格式和归类
+
+<br />
 
 ### Obsidian 插件开发
 

@@ -140,15 +140,6 @@
   "easy-typing-obsidian:easy-typing-format-selection": [],
   "obsidian-auto-link-title:auto-link-title-normal-paste": [],
   "easy-typing-obsidian:easy-typing-insert-codeblock": [],
-  "daily-notes": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "K"
-    }
-  ],
-  "editor:insert-link": [],
   "obsidian-auto-link-title:enhance-url-with-title": [],
   "easy-typing-obsidian:easy-typing-format-switch": [],
   "obsidian-hotkeys-for-specific-files:Pub/Capture/Tasks.md": [
@@ -157,6 +148,12 @@
         "Mod"
       ],
       "key": "0"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "X"
     }
   ],
   "obsidian-mind-map:app:markmap-preview": [
@@ -166,5 +163,17 @@
       ],
       "key": "M"
     }
-  ]
+  ],
+  "editor:save-file": [],
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Z"
+    }
+  ],
+  "easy-typing-obsidian:easy-typing-delete-blank-line": [],
+  "obsidian-excalidraw-plugin:insert-link-to-element": [],
+  "obsidian-excalidraw-plugin:insert-link": []
 }

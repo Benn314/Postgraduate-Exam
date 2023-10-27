@@ -36,6 +36,36 @@
       "openFileInMode": "source"
     },
     {
+      "id": "3123fea0-d119-4369-ba87-303afc62f10f",
+      "name": "🤔PDF Annotator",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Pub/Template/pdf-annotator.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{value}}-{{DATE:}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Pub/PDF-Annotator"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "source",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
       "id": "9d7ca2e3-303a-42dd-85dc-0cd176b3e9af",
       "name": "🌱Record daily",
       "type": "Template",
