@@ -11,11 +11,9 @@
             "id": "a8e18be017fb71cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "dataloom",
               "state": {
-                "file": "学习日报/Day/2023-10-28.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.loom"
               }
             }
           }
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习日报/Day/2023-10-28.md",
+                "file": "Untitled.loom",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习日报/Day/2023-10-28.md",
+                "file": "Untitled.loom",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,9 +133,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "7893efd9f6c838d8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "1e8ba7d19cd01d2b",
@@ -159,6 +165,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "notion-like-tables:Create loom": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -174,8 +182,9 @@
   },
   "active": "a8e18be017fb71cf",
   "lastOpenFiles": [
-    "学习日报/Day/2023-10-26.md",
     "学习日报/Day/2023-10-28.md",
+    "Untitled.loom",
+    "学习日报/Day/2023-10-26.md",
     "学习日报/Obsidian工作流.md",
     "学习日报/asset/Pasted image 20231028163058.png",
     "Pub/Capture/Tasks.md",
@@ -219,7 +228,6 @@
     "Pub/Draw/test.excalidraw",
     "Pub/Draw/新建 RTF 文档.rtf",
     "Pub/Draw/未命名.canvas",
-    "Pub/Draw",
     "未命名.canvas"
   ]
 }
