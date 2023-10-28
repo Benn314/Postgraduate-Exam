@@ -33,3 +33,29 @@ body {
   background-size: cover;
   opacity: 0.85; /* 这个透明度对我来说目前刚好 */
 }
+
+.workspace-tab-header-inner {
+  position: relative;
+  overflow: hidden;
+}
+
+.workspace-tab-header-inner::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 0;
+  height: 100%;
+  background-color: #252b2b; /* 选中颜色 */
+  transition: width 0.3s ease-in-out; /* 调整过渡时间和动画效果 */
+
+  z-index: -1; /* 使伪元素在文本下面 */
+}
+
+.workspace-tab-header-inner.active::before {
+  width: 100%; /* 扩散到两边 */
+  left: 0;
+  transform: none;
+}
+
