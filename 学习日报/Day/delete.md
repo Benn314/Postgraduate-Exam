@@ -9,3 +9,4 @@
 - 2023102711500049 有一个需求是 annotator 插件，我想在 quickadd 创建一个 template，然后可以在自定义文件名后再自定义一个变量，使我可以输入要打开附件（pdf）的链接，回车确认创建文件使可以正确进入 annotator 的编辑页面，也不是报错退出到 markdown 页面输入正确的 url 再跳转 ➕ 2023-10-27 （更新：annotator 插件设置中可以更改默认打开方式，以 annotate 或 markdown 的形式打开，所以现在只剩下 如何设置 url 变量并在文档中展示的问题） deletedAt: 202310271150159
 - 2023102711500049 有一个需求是 annotator 插件，我想在 quickadd 创建一个 template，然后可以在自定义文件名后再自定义一个变量，使我可以输入要打开附件（pdf）的链接，回车确认创建文件使可以正确进入 annotator 的编辑页面，也不是报错退出到 markdown 页面输入正确的 url 再跳转 ➕ 2023-10-27 （更新：annotator 插件设置中可以更改默认打开方式，以 annotate 或 markdown 的形式打开，所以现在只剩下 如何设置 url 变量并在文档中展示的问题） deletedAt: 2023102711505110
 - 2023102721550049 https://zhuanlan.zhihu.com/p/513335445 deletedAt: 2023102721554611
+- 2023102816350054 12 deletedAt: 2023102816354712

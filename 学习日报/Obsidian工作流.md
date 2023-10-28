@@ -757,3 +757,15 @@ bestFitNumber: 0
 
 ![](asset/Pasted%20image%2020231028115037.png)
 
+<br />
+
+### Quiet Outline
+
+> 一个大纲插件，相对于 Obsidian 原生自带的 Outline，它提升了以下几点：
+
+- ​目录能跟随当前文本移动并切换相应标题（**痛点**）
+- 自带搜索标题功能
+- 能规定展开标题级数
+- 美化界面
+
+![](asset/Pasted%20image%2020231028163058.png)
