@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a096e2aef7fddd69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pub/Capture/Tasks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习日报/Obsidian工作流.md"
+                "file": "Pub/Capture/Tasks.md"
               }
             }
           },
@@ -75,7 +88,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习日报/Obsidian工作流.md",
+                "file": "Pub/Capture/Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习日报/Obsidian工作流.md",
+                "file": "Pub/Capture/Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -174,15 +188,19 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "a8e18be017fb71cf",
+  "active": "a096e2aef7fddd69",
   "lastOpenFiles": [
+    "学习日报/Day/2023-10-28.md",
     "学习日报/Day/2023-10-27.md",
+    "Pub/Capture/writing.md",
     "学习日报/Obsidian工作流.md",
+    "asset/img/Obsidian-bg2-7z.png",
+    "asset/img",
+    "asset/新建文件夹",
     "Pub/Capture/Tasks.md",
     "学习日报/Day/2023-10-26.md",
     "学习日报/asset/Pasted image 20231027212713.png",
     "学习日报/asset/Pasted image 20231027211634.png",
-    "Pub/Capture/writing.md",
     "学习日报/asset/Pasted image 20231027210322.png",
     "学习日报/asset/Pasted image 20231027171725.png",
     "学习日报/asset/Pasted image 20231027171713.png",
@@ -197,7 +215,6 @@
     "学习日报/asset/Pasted image 20231027154033.png",
     "学习日报/asset/Pasted image 20231027153956.png",
     "学习日报/asset/Pasted image 20231027153825.png",
-    "学习日报/asset/Pasted image 20231027153454.png",
     "Pub/PDF-Annotator/测试一下-2023-10-27.md",
     "Pub/PDF-Annotator",
     "Pub/PDF&Epub-Annotator/Test-本地附件链接.md",
@@ -220,8 +237,6 @@
     "Pub/Draw/新建 RTF 文档.rtf",
     "Pub/Draw/未命名.canvas",
     "Pub/Draw",
-    "asset/aText/AutoBackup-2023-10-25-20-51-02.atext",
-    "asset/aText",
     "未命名.canvas"
   ]
 }
