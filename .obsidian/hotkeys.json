@@ -88,14 +88,6 @@
     }
   ],
   "editor:delete-paragraph": [],
-  "obsidian-tasks-plugin:edit-task": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "C"
-    }
-  ],
   "editor:open-search-replace": [
     {
       "modifiers": [
@@ -145,12 +137,6 @@
   "obsidian-hotkeys-for-specific-files:Pub/Capture/Tasks.md": [
     {
       "modifiers": [
-        "Mod"
-      ],
-      "key": "0"
-    },
-    {
-      "modifiers": [
         "Alt"
       ],
       "key": "X"
@@ -175,5 +161,21 @@
   ],
   "easy-typing-obsidian:easy-typing-delete-blank-line": [],
   "obsidian-excalidraw-plugin:insert-link-to-element": [],
-  "obsidian-excalidraw-plugin:insert-link": []
+  "obsidian-excalidraw-plugin:insert-link": [],
+  "obsidian-hotkeys-for-specific-files:Pub/Capture/read.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
+  ],
+  "obsidian-tasks-plugin:edit-task": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "V"
+    }
+  ]
 }

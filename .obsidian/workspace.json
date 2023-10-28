@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pub/Capture/Tasks.md",
+                "file": "学习日报/Obsidian工作流.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pub/Capture/Tasks.md"
+                "file": "学习日报/Obsidian工作流.md"
               }
             }
           },
@@ -88,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Capture/Tasks.md",
+                "file": "学习日报/Obsidian工作流.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Capture/Tasks.md",
+                "file": "学习日报/Obsidian工作流.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -190,15 +189,18 @@
   },
   "active": "a096e2aef7fddd69",
   "lastOpenFiles": [
+    "Pub/Capture/read.md",
     "学习日报/Day/2023-10-28.md",
     "学习日报/Day/2023-10-27.md",
-    "Pub/Capture/writing.md",
+    "Pub/Capture/Tasks.md",
+    "学习日报/Day/2023-10-26.md",
     "学习日报/Obsidian工作流.md",
+    "学习日报/asset/Pasted image 20231028115037.png",
+    "Pub/Template/日记模板.md",
+    "Pub/Capture/writing.md",
     "asset/img/Obsidian-bg2-7z.png",
     "asset/img",
     "asset/新建文件夹",
-    "Pub/Capture/Tasks.md",
-    "学习日报/Day/2023-10-26.md",
     "学习日报/asset/Pasted image 20231027212713.png",
     "学习日报/asset/Pasted image 20231027211634.png",
     "学习日报/asset/Pasted image 20231027210322.png",
@@ -214,14 +216,12 @@
     "Pub/PDF-Annotator/Test-网络附件链接.md",
     "学习日报/asset/Pasted image 20231027154033.png",
     "学习日报/asset/Pasted image 20231027153956.png",
-    "学习日报/asset/Pasted image 20231027153825.png",
     "Pub/PDF-Annotator/测试一下-2023-10-27.md",
     "Pub/PDF-Annotator",
     "Pub/PDF&Epub-Annotator/Test-本地附件链接.md",
     "Pub/PDF&Epub-Annotator/Test-网络附件链接.md",
     "Test-网络附件链接.md",
     "Test-本地附件链接.md",
-    "Pub/Template/日记模板.md",
     "Pub/PDF&Epub-Annotator/测试一下-2023-10-27.md",
     "未命名 1.md",
     "Pub/Template/write.md",
@@ -231,7 +231,6 @@
     "24考研报名信息/PDF_443996949.pdf",
     "学习日报/Week/2023年10月-第43周.md",
     "Pub/Template/周记模板.md",
-    "学习日报/Day/2023-10-25.md",
     "Draw",
     "Pub/Draw/test.excalidraw",
     "Pub/Draw/新建 RTF 文档.rtf",

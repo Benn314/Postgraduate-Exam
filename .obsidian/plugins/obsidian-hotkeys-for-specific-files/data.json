@@ -3,6 +3,10 @@
     {
       "useMoment": false,
       "file": "Pub/Capture/Tasks.md"
+    },
+    {
+      "useMoment": false,
+      "file": "Pub/Capture/read.md"
     }
   ],
   "useExistingPane": true,
