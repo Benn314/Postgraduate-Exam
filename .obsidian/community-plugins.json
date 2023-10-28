@@ -17,9 +17,8 @@
   "media-extended",
   "mx-bili-plugin",
   "obsidian-charts",
-  "obsidian-day-planner",
-  "obsidian-kanban",
   "obsidian-annotator",
   "obsidian-copy-block-link",
-  "obsidian-hover-editor"
+  "obsidian-hover-editor",
+  "obsidian-quiet-outline"
 ]
