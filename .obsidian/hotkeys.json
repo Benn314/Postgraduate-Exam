@@ -177,5 +177,15 @@
       ],
       "key": "V"
     }
+  ],
+  "notion-like-tables:create": [],
+  "notion-like-tables:create-and-embed": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "="
+    }
   ]
 }

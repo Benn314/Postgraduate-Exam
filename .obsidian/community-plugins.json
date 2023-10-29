@@ -19,8 +19,8 @@
   "obsidian-charts",
   "obsidian-annotator",
   "obsidian-copy-block-link",
-  "obsidian-hover-editor",
   "obsidian-quiet-outline",
   "table-editor-obsidian",
-  "notion-like-tables"
+  "notion-like-tables",
+  "obsidian-hover-editor"
 ]

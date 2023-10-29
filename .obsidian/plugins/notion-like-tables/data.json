@@ -1,14 +1,14 @@
 {
   "shouldDebug": false,
   "createAtObsidianAttachmentFolder": false,
-  "customFolderForNewFiles": "",
+  "customFolderForNewFiles": "asset/looms",
   "removeMarkdownOnExport": true,
   "defaultEmbedWidth": "100%",
-  "defaultEmbedHeight": "340px",
+  "defaultEmbedHeight": "600px",
   "hasMigratedTo800": true,
   "showWelcomeModal": false,
   "showSupportModal": true,
   "showWhatsNewModal": true,
-  "defaultFrozenColumnCount": 1,
+  "defaultFrozenColumnCount": 3,
   "pluginVersion": "8.7.2"
 }

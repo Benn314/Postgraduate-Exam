@@ -8,12 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a8e18be017fb71cf",
+            "id": "01a79546d889c2f9",
             "type": "leaf",
             "state": {
-              "type": "dataloom",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.loom"
+                "file": "学习日报/Day/2023-10-28.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -71,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -92,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.loom",
+                "file": "学习日报/Day/2023-10-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.loom",
+                "file": "学习日报/Day/2023-10-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +136,7 @@
             }
           },
           {
-            "id": "7893efd9f6c838d8",
+            "id": "42f1c650f9f335ca",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -180,10 +181,26 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "a8e18be017fb71cf",
+  "active": "01a79546d889c2f9",
   "lastOpenFiles": [
+    "学习日报/Day/delete.md",
     "学习日报/Day/2023-10-28.md",
+    "学习日报/Day/asset/Obsidian-bg2-7z 1.png",
+    "asset/looms/Test1.loom",
+    "asset/looms/Untitled.loom.md",
+    "asset/looms/Untitled.loom",
+    "asset/looms/Untitled 1.loom",
+    "asset/looms/Untitled 2.loom",
+    "asset/looms/Untitled 3.loom",
+    "asset/looms/Untitled 4.loom",
+    "asset/looms/Untitled 5.loom",
+    "学习日报/Day/asset/72C87F290CCCB728321E43F145649118.png",
+    "学习日报/Day/asset/Obsidian-bg2-7z.png",
+    "Pub/Template/Loom.loom",
     "Untitled.loom",
+    "学习日报/Attachments",
+    "学习日报/Day/Untitled.loom.md",
+    "asset/img/Obsidian-bg2-7z.png",
     "学习日报/Day/2023-10-26.md",
     "学习日报/Obsidian工作流.md",
     "学习日报/asset/Pasted image 20231028163058.png",
@@ -194,15 +211,9 @@
     "学习日报/asset/Pasted image 20231028115037.png",
     "Pub/Template/日记模板.md",
     "Pub/Capture/writing.md",
-    "asset/img/Obsidian-bg2-7z.png",
-    "asset/img",
-    "asset/新建文件夹",
     "学习日报/asset/Pasted image 20231027212713.png",
     "学习日报/asset/Pasted image 20231027211634.png",
     "学习日报/asset/Pasted image 20231027210322.png",
-    "学习日报/asset/Pasted image 20231027171725.png",
-    "学习日报/asset/Pasted image 20231027171713.png",
-    "学习日报/asset/Pasted image 20231027171250.png",
     "Pub/PDF-Annotator/Test-本地附件链接.md",
     "学习日报/Day/^^632ee6.md",
     "Pub/Hypo/我的 Obsidian 使用经验  程序员的喵.md",
@@ -211,22 +222,12 @@
     "Pub/PDF-Annotator/侧石-2023-10-27.md",
     "Pub/PDF-Annotator/Test-网络附件链接.md",
     "Pub/PDF-Annotator/测试一下-2023-10-27.md",
-    "Pub/PDF-Annotator",
     "Pub/PDF&Epub-Annotator/Test-本地附件链接.md",
     "Pub/PDF&Epub-Annotator/Test-网络附件链接.md",
     "Test-网络附件链接.md",
     "Test-本地附件链接.md",
     "Pub/PDF&Epub-Annotator/测试一下-2023-10-27.md",
     "未命名 1.md",
-    "Pub/Template/write.md",
-    "Pub/PDF&Epub-Annotator",
-    "未命名.md",
-    "24考研报名信息/预报名表格@空卡.pdf",
-    "24考研报名信息/PDF_443996949.pdf",
-    "学习日报/Week/2023年10月-第43周.md",
-    "Draw",
-    "Pub/Draw/test.excalidraw",
-    "Pub/Draw/新建 RTF 文档.rtf",
     "Pub/Draw/未命名.canvas",
     "未命名.canvas"
   ]
