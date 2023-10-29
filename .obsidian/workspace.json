@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2f66c00c65d2bc70",
+        "id": "c31979ae6ba32a5a",
         "type": "tabs",
         "children": [
           {
-            "id": "01a79546d889c2f9",
+            "id": "63144bd57ceda5a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习日报/Day/2023-10-28.md",
-                "mode": "source",
+                "file": "学习日报/Obsidian工作流.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "write",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习日报/Day/2023-10-28.md",
+                "file": "学习日报/Obsidian工作流.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习日报/Day/2023-10-28.md",
+                "file": "学习日报/Obsidian工作流.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -166,8 +166,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "notion-like-tables:Create loom": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "notion-like-tables:Create loom": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -181,12 +181,23 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "01a79546d889c2f9",
+  "active": "63144bd57ceda5a6",
   "lastOpenFiles": [
-    "学习日报/Day/delete.md",
-    "学习日报/Day/2023-10-28.md",
-    "学习日报/Day/asset/Obsidian-bg2-7z 1.png",
+    "学习日报/asset/Hover Editor.gif",
+    "学习日报/Obsidian工作流.md",
+    "学习日报/Day/asset/Obsidian-bg2-7z.png",
     "asset/looms/Test1.loom",
+    "学习日报/Day/2023-10-28.md",
+    "学习日报/Day/delete.md",
+    "学习日报/Day/2023-10-29.md",
+    "学习日报/asset/Pasted image 20231029120303.png",
+    "学习日报/Day/asset/Obsidian-bg2-7z 1.png",
+    "学习日报/Day/asset/Pasted image 20231028162601.png",
+    "学习日报/asset/Pasted image 20231029115641.png",
+    "学习日报/asset/Pasted image 20231029115336.png",
+    "学习日报/asset/Pasted image 20231029113856.png",
+    "Pub/Capture/Tasks.md",
+    "学习日报/Day/2023-10-26.md",
     "asset/looms/Untitled.loom.md",
     "asset/looms/Untitled.loom",
     "asset/looms/Untitled 1.loom",
@@ -195,25 +206,15 @@
     "asset/looms/Untitled 4.loom",
     "asset/looms/Untitled 5.loom",
     "学习日报/Day/asset/72C87F290CCCB728321E43F145649118.png",
-    "学习日报/Day/asset/Obsidian-bg2-7z.png",
     "Pub/Template/Loom.loom",
     "Untitled.loom",
     "学习日报/Attachments",
     "学习日报/Day/Untitled.loom.md",
     "asset/img/Obsidian-bg2-7z.png",
-    "学习日报/Day/2023-10-26.md",
-    "学习日报/Obsidian工作流.md",
-    "学习日报/asset/Pasted image 20231028163058.png",
-    "Pub/Capture/Tasks.md",
-    "学习日报/Day/asset/Pasted image 20231028162601.png",
     "学习日报/Day/2023-10-27.md",
     "Pub/Capture/read.md",
-    "学习日报/asset/Pasted image 20231028115037.png",
     "Pub/Template/日记模板.md",
     "Pub/Capture/writing.md",
-    "学习日报/asset/Pasted image 20231027212713.png",
-    "学习日报/asset/Pasted image 20231027211634.png",
-    "学习日报/asset/Pasted image 20231027210322.png",
     "Pub/PDF-Annotator/Test-本地附件链接.md",
     "学习日报/Day/^^632ee6.md",
     "Pub/Hypo/我的 Obsidian 使用经验  程序员的喵.md",
@@ -227,7 +228,6 @@
     "Test-网络附件链接.md",
     "Test-本地附件链接.md",
     "Pub/PDF&Epub-Annotator/测试一下-2023-10-27.md",
-    "未命名 1.md",
     "Pub/Draw/未命名.canvas",
     "未命名.canvas"
   ]

@@ -368,7 +368,7 @@ dv.paragraph('```tasks\n' + query + '\n```', 'todo');
 
 #### Bug
 
-- 发现 templater 插件和 Obsidian 有时不能实时渲染的问题，提示 templater 解析失败，实际上是因为没有联网的原因，只需要联网后就可以实时渲染了
+- 发现 templater 插件和 Obsidian 有时不能实时渲染的问题，提示 templater 解析失败，实际上是因为没有联网的原因（因为日报里的天气模板信息是调取天气网页接口获取当天实时天气信息的），需要联网后才能实时渲染 ^1nb0af
 
 <br />
 
@@ -749,6 +749,18 @@ bestFitNumber: 0
 
 ![](asset/Pasted%20image%2020231027211634.png)
 
+![](asset/Pasted%20image%2020231029120303.png)
+
+#### Snap to edges 示例
+
+[Hover Editor](asset/Hover%20Editor.gif)
+
+![](asset/Hover%20Editor.gif)
+
+#### 一个小知识点
+
+> `()[]` 展示的是链接，需要窗口预览，`![]()` 展示的是附件，直接将该附件嵌入到当前文档的
+
 <br />
 
 ### 定时切换主题颜色（日出日落）
@@ -769,3 +781,45 @@ bestFitNumber: 0
 - 美化界面
 
 ![](asset/Pasted%20image%2020231028163058.png)
+
+<br />
+
+### Advanced Tables
+
+> Advanced Tables 是一款贴合 Markdown 语法的表格插件，可通过 `Tab` 来新增列数，通过 `Enter` 来新增行数，我把表格编辑菜单放到右上角里，该插件相比于 DataLoom 插件最大的特点是可进行排版布局显示（例如居中显示）
+
+![](asset/Pasted%20image%2020231029113856.png)
+
+#### 使用场景
+
+> 考研学习的话，更适合纯文字的表格制作比对，由于很少用源码来编写表格制作，所以前期可能不太习惯，之前使用 Typora 是会直接渲染成表格进行编辑的；如果表格中需要插入图片或更多功能选项（例如计算等），推荐使用 DataLoom
+
+#### Demo
+
+首选你需要先书写标题来创建表格，类似 `| 标题1 | 标题2 |` 并按下回车创建原生表格
+
+| test  |               te               |   d    |                          [delete](delete.md)                          |     |
+| ----- |:------------------------------:|:------:|:---------------------------------------------------:| --- |
+| fhdis |            dhsiafh             | fcndsj |         ![](asset/Obsidian-bg2-7z%201.png)          |     |
+| 123   |              4567              | a54352 |                                                     |     |
+| - [x] | ![](asset/Obsidian-bg2-7z.png) |        | 难受![](asset/72C87F290CCCB728321E43F145649118.png) |     |
+
+> markdown 原生表格插入图片进行编辑很难受，因此并不推荐
+
+<br />
+
+### DataLoom
+
+> 一款类似 Notion Table 的表格插件，对于非纯文本的表格比对，推荐使用该插件，DataLoom 表格创建是会生成专属的 Loom 文件，可通过命令面板或输入快捷键 `Ctrl+Shift+=` 创建文件并嵌入到当前编辑文档中（嵌入超链接，可以通过 Ctrl 点击跳转到该 loom 文件）已统一将 loom 文件放到 `asset/looms` 进行管理，嵌入高度设置为 600px
+> 
+> 编辑或阅读都可以前往该 loom 文件中进行观看，效果更佳
+
+![](asset/Pasted%20image%2020231029115336.png)
+
+#### Demo
+
+> 编辑模式下才能看到嵌入 loom 表格内容，预览模式下只显示文件跳转链接
+![](../../asset/looms/Test1.loom)
+<br />
+
+> 小结：两款插件相辅相成，各自有各自的优点和使用场景，所以两个都保留，如果哪一天 DataLoom 更新了 align 布局（居左/中/右显示）同时我又 All in one Obsidian，那么我会只选择 DataLoom，但考虑到 DataLoom 制作的表格在其他 markdown 编辑器无法展示，so 纯文本的表格可选择 Advanced tables 制作，包含附件的表格可以选择 DataLoom
