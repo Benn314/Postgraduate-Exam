@@ -823,3 +823,30 @@ bestFitNumber: 0
 <br />
 
 > 小结：两款插件相辅相成，各自有各自的优点和使用场景，所以两个都保留，如果哪一天 DataLoom 更新了 align 布局（居左/中/右显示）同时我又 All in one Obsidian，那么我会只选择 DataLoom，但考虑到 DataLoom 制作的表格在其他 markdown 编辑器无法展示，so 纯文本的表格可选择 Advanced tables 制作，包含附件的表格可以选择 DataLoom
+
+<br />
+
+### Commander
+
+
+<br />
+
+### Icon Shortcodes
+
+
+<br />
+
+### Weread
+
+
+<br />
+
+### Mousewheel Image zoom
+
+> 一款能通过键盘控制键（Ctrl/Shift/Alt）+鼠标滚轮控制 Obsidian 中图片显示大小的插件，其原理跟 Obsidian 原生显示控制图片大小的方式一样，参考：[2023-10-29](学习日报/Day/2023-10-29.md#^bceuun)
+
+<br />
+
+### Image Toolkit
+
+> 一款能点击预览图片的插件，目前已知出来 Loom 文件表格的图片无法点击预览外，其他都可以

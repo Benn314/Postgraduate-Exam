@@ -709,9 +709,9 @@
 			"Valid": true
 		}, {
 			"Actions": [
-				["SendKeys", "Ctrl+J"]
+				["SendKeys", "ESC"]
 			],
-			"Name": "打开大纲",
+			"Name": "ESC 退出",
 			"Sign": "UP-DOWN",
 			"Valid": true
 		}, {
@@ -755,6 +755,13 @@
 			],
 			"Name": "打开记事本",
 			"Sign": "C",
+			"Valid": true
+		}, {
+			"Actions": [
+				["SendKeys", "Ctrl+O"]
+			],
+			"Name": "打开最近文件",
+			"Sign": "O",
 			"Valid": true
 		}],
 		"Match": ["Obsidian.exe"],
@@ -865,7 +872,7 @@
 		],
 		"Name": "贴图",
 		"Sign": "SQUARE",
-		"Valid": true
+		"Valid": false
 	}, {
 		"Actions": [
 			["Screenshot", "OCR"]
