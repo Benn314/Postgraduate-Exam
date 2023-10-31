@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习日报/Obsidian工作流.md",
+                "file": "学习日报/Day/2023-10-31.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6f2c9bdbbc316a36",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习日报/Obsidian工作流.md",
+                "file": "学习日报/Day/2023-10-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习日报/Obsidian工作流.md",
+                "file": "学习日报/Day/2023-10-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -159,9 +158,17 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "9d8d091b024926ab",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "1e8ba7d19cd01d2b",
@@ -181,7 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "学习日报/Obsidian工作流.md",
+                "file": "学习日报/Day/2023-10-31.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -228,6 +235,7 @@
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "workspaces:管理工作区布局": false,
+      "obsidian-spaced-repetition:复习卡片": false,
       "daily-notes:打开/创建今天的日记": false,
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
       "obsidian-memos:Memos": false
@@ -235,16 +243,20 @@
   },
   "active": "20e73395c14efffa",
   "lastOpenFiles": [
+    "学习日报/Day/asset/Pasted image 20231031215229.png",
+    "学习日报/Obsidian工作流.md",
+    "Pub/Flashcards/卡片Demo.md",
+    "Pub/Flashcards",
     "学习日报/Day/2023-10-31.md",
+    "Pub/Capture/read.md",
+    "学习日报/Day/asset/Pasted image 20231031194025.png",
     "学习日报/Day/asset/Pasted image 20231031181625.png",
     "学习日报/Day/asset/Pasted image 20231031180853.png",
-    "Pub/Capture/read.md",
     "学习日报/Day/2023-10-29.md",
     "学习日报/Day/asset/Pasted image 20231031175558.png",
     "学习日报/Day/asset/Pasted image 20231031175019.png",
     "学习日报/Day/asset/Pasted image 20231031174744.png",
     "学习日报/Day/asset/Pasted image 20231031174145.png",
-    "学习日报/Obsidian工作流.md",
     "学习日报/asset/Pasted image 20231031172549.png",
     "学习日报/Day/2023-10-30.md",
     "学习日报/Day/2023-10-27.md",
@@ -253,7 +265,6 @@
     "学习日报/Day/2023-10-25.md",
     "学习日报/Day/asset/Pasted image 20231031164907.png",
     "学习日报/Day/asset/Pasted image 20231031163436.png",
-    "学习日报/asset/Pasted image 20231031161358.png",
     "学习日报/Day/2023-10-28.md",
     "Pub/Template/日记模板.md",
     "学习日报/Day/2023-10-32.md",
@@ -271,7 +282,6 @@
     "asset/looms/Untitled 5.loom",
     "Pub/Template/Loom.loom",
     "Untitled.loom",
-    "学习日报/Attachments",
     "学习日报/Day/Untitled.loom.md",
     "Pub/Capture/writing.md",
     "Pub/PDF-Annotator/Test-本地附件链接.md",
@@ -279,7 +289,6 @@
     "Pub/Hypo/我的 Obsidian 使用经验  程序员的喵.md",
     "Pub/PDF-Annotator/预报名表格@空卡-2023-10-27.md",
     "Pub/Template/pdf-annotator.md",
-    "Pub/PDF-Annotator/侧石-2023-10-27.md",
     "Pub/Draw/未命名.canvas",
     "未命名.canvas"
   ]

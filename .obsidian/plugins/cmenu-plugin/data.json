@@ -45,11 +45,16 @@
       "id": "cmenu-plugin:editor:toggle-blockquote",
       "name": "cMenu: Toggle blockquote",
       "icon": "quote-glyph"
+    },
+    {
+      "id": "editor:toggle-highlight",
+      "name": "高亮/取消高亮",
+      "icon": "lucide-highlighter"
     }
   ],
   "appendMethod": "workspace",
   "shouldShowMenuOnSelect": false,
   "cMenuVisibility": true,
   "cMenuBottomValue": 4.25,
-  "cMenuNumRows": 9
+  "cMenuNumRows": 10
 }
