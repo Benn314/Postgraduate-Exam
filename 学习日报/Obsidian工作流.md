@@ -19,6 +19,29 @@
 
 ![](asset/Pasted%20image%2020231025003952.png)
 
+### uTools
+
+[uTools官网 - 新一代效率工具平台](https://www.u.tools/)
+
+通过 `Alt+空格` 呼出搜索框，目前主要用来快速搜索网页，减去先打开谷歌浏览器的这一操作，当然你也可以根据自己  `网页快开` 中自定义的网页，先打出他们的标签名再搜索内容，那么就是在谷歌浏览器中先打开该官网，并且在该官网中搜索内容（后面的搜索内容相当于 url 后面的 query 参数）
+
+![](asset/Pasted%20image%2020231031160438.png)
+
+本地搜索是基于 everything 软件进行搜索的，可通过先输入 find 标签页，可不写。
+
+![](asset/Pasted%20image%2020231031160932.png)
+
+	
+### 网易有道词典
+
+> uTools 上的易翻词典用不惯，免费的谷歌翻译网太慢了，索性直接设置有道的 mini 窗口（可钉住）快捷键启动 `Alt+A`，更改微信的截图快捷键先，不然热键冲突
+> 
+> 最常用的是截图翻译
+
+### 鼠标外设
+
+> 拥有 11 个自定义编程键的雷蛇 v2 和罗技 G502Hero，大大提升我的工作效率
+
 ## Edit
 
 > Obsidian 的配置存储在根目录下的 `.obsidian` 目录中，快速配置另一个仓库的 Obsidian 插件信息的话直接复制粘贴过去即可
@@ -79,7 +102,8 @@ Wiki 链接普通的 markdown 编辑器（例如 typora）无法识别，同时�
 - `Ctrl+H` ：查找并替换
 - `Ctrl+Shift+I` ：打开控制台
 - `Ctrl+,` ：打开设置
-- `Ctrl+G` ：打开关系图谱
+- `Ctrl+G` ：打开全局关系图谱
+- `Ctrl+Shift+G` ：打开局部关系图谱
 - `Ctrl+K` ：插入链接（现有 `Auto Link Title` 插件代替，直接粘贴即链接格式）
 - `Ctrl+Shift+L` ：打开文件列表（MouseInc 手势）
 - `Ctrl+M` ：打开当前文档 Mind Map 思维导图
@@ -204,11 +228,10 @@ Wiki 链接普通的 markdown 编辑器（例如 typora）无法识别，同时�
 
 ![](asset/Pasted%20image%2020231025005228.png)
 
-目前我所设置的自定义样式 `ben.css` 只包含对预览/编辑模式-加粗样式的调整，后续会持续更新，代码如下：
+目前我所设置的自定义样式 `ben.css` 只包含对预览/编辑模式-加粗样式的调整，后续会持续更新（***已更新***），代码如下：
 
 ```css
 /* 更改加粗样式 */
-
 .cm-strong {
   font-weight: bold;
   color: #fff !important;
@@ -217,10 +240,9 @@ Wiki 链接普通的 markdown 编辑器（例如 typora）无法识别，同时�
   line-height: 1.7;
   padding: 2.5px 8px;
   margin: 0px 5px;
-
 }
-
 strong {
+
   font-weight: bold;
   color: #fff !important;
   background-color: #2ea44f;
@@ -228,6 +250,29 @@ strong {
   line-height: 1.7;
   padding: 2.5px 8px;
   margin: 0px 5px;
+}
+
+/* 使图片居中显示并设置圆角 */
+img {
+  border-radius: 30px;
+}
+.internal-embed.media-embed.image-embed.is-loaded {
+  text-align: center;
+}
+
+/* 修改默认主题的背景样式 压缩图片+转化base64格式*/
+body {
+  background-image: url(base64); /* 这里base64值太长，就省略了*/
+  background-size: cover;
+  opacity: 0.89; /* 这个透明度对我来说目前刚好 */
+}
+
+/* 给标签页添加选中过渡动画和修改选中背景色 */
+.workspace-tab-header {
+  transition: box-shadow 0.2s ease-in-out, color 0.2s ease-in-out, background-color 0.2s ease-in-out; /* 添加过渡动画 */
+}
+.workspace-tab-header.is-active {
+  background-color: #000000; /* 选中时的颜色 */
 }
 ```
 
@@ -850,3 +895,15 @@ bestFitNumber: 0
 ### Image Toolkit
 
 > 一款能点击预览图片的插件，目前已知出来 Loom 文件表格的图片无法点击预览外，其他都可以
+
+<br />
+
+### Citations
+
+![](asset/Pasted%20image%2020231031161358.png)
+
+### Recent Files
+
+> 显示最近打开文件，已经布局到界面左下方
+
+![](asset/Pasted%20image%2020231031172549.png)

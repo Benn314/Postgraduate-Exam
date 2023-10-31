@@ -3,7 +3,7 @@
 ```tasks
 not done
 description includes #read
-sort by path
+sort by path reverse
 ```
 
 

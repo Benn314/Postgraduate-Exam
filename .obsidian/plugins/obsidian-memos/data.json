@@ -1,6 +1,6 @@
 {
   "StartDate": "Sunday",
-  "InsertAfter": "## 日志",
+  "InsertAfter": "### MEMOS",
   "UserName": "MEMO 😉",
   "ProcessEntriesBelow": "",
   "Language": "en",
@@ -8,7 +8,7 @@
   "SaveMemoButtonIcon": "✍️",
   "ShareFooterStart": "{MemosNum} Memos {UsedDay} Day",
   "ShareFooterEnd": "✍️ by {UserName}",
-  "DefaultPrefix": "Task",
+  "DefaultPrefix": "List",
   "UseDailyOrPeriodic": "Daily",
   "InsertDateFormat": "Tasks",
   "DefaultEditorLocation": "Top",
