@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Obsidian工作流",
+      "path": "学习日报/Obsidian工作流.md"
+    },
+    {
+      "basename": "2023-11-01",
+      "path": "学习日报/Day/2023-11-01.md"
+    },
+    {
       "basename": "2023-10-31",
       "path": "学习日报/Day/2023-10-31.md"
     },
@@ -9,15 +17,23 @@
       "path": "Pub/Flashcards/卡片Demo.md"
     },
     {
-      "basename": "Obsidian工作流",
-      "path": "学习日报/Obsidian工作流.md"
+      "basename": "Phase 1",
+      "path": "Pub/Flashcards/Phase 1.md"
     },
     {
       "basename": "read",
       "path": "Pub/Capture/read.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Pub/Capture/Tasks.md"
+    },
+    {
+      "basename": "2023-10-29",
+      "path": "学习日报/Day/2023-10-29.md"
     }
   ],
   "omittedPaths": [],
-  "maxLength": null,
+  "maxLength": 20,
   "openType": "tab"
 }

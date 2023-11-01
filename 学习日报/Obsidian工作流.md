@@ -79,6 +79,15 @@ Wiki 链接普通的 markdown 编辑器（例如 typora）无法识别，同时�
 	- ![](asset/Pasted%20image%2020231026230359.png)
 - Obsidian 开启透明效果，拖拽窗口会延迟卡顿，跟 electron 底层实现有关系
 
+#### 打开标签页方式
+
+无论阅读视图还是编辑视图中，打开当前文档中的双链方式：
+
+- `鼠标左键`：在当前标签页跳转链接
+- `Ctrl+鼠标左键`：打开链接到新标签页（tab）
+- `Ctrl+Alt+鼠标左键`：打开链接到新面板（pane）
+- `Ctrl+Shift+Alt+鼠标左键`：打开链接到新窗口（window）
+- 鼠标右键点击链接也可选择
 
 <br />
 
@@ -504,6 +513,8 @@ Tags: {% for tag in highlight.tags -%} #{{tag | replace(" ", "-")+" "}}{%- endfo
 > 一个快捷工具栏，方便阅读时只使用鼠标操作，尽量不用键盘，提升阅读体验
 > 自定义：新增行数和增加高亮，方便下面 Spaced Repetition 插件制作 Anki 卡片
 
+![](asset/Pasted%20image%2020231101113323.png)
+
 ### Auto Link Title
 
 > 自动插入链接和标题的插件，Obsidian 自带的插入链接不好用，无法识别剪切板内容并粘贴链接，这一插件能直接通过粘贴来插入链接的同时，读取链接的第一级标题，并填充到说明文字中，上面的 ObWeb 标题链接则是通过这一插件来完成的
@@ -589,17 +600,52 @@ Tags: {% for tag in highlight.tags -%} #{{tag | replace(" ", "-")+" "}}{%- endfo
 
 ### Day Planner
 
+> 简易教学：[用Obsidian+Day Planner做日程管理\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1t14y1P7Rv/?spm_id_from=333.337.search-card.all.click&vd_source=1f9072e850dde202d6ddd4c60d9d334d)
+> 
 > 记录日程安排，在侧边栏中会生成纵向时间线，文档顶部还会生成甘特图，当设置时间到来时，它会调用系统自带的通知
 
 ![](asset/Pasted%20image%2020231027003442.png)
+
+#### 讲一下目前 Day Planner 的现状和看法
+```mermaid
+gantt
+    dateFormat  HH-mm
+    axisFormat %H:%M
+    %% Current Time: 下午5:19:46
+    section Tasks
+    Setup for work     :10-10, 10mm
+    Review notes from yesterday     :10-20, 10mm
+    Create new notes for dailyplanner review     :10-30, 110mm
+    Eating Dinner     :13-00, 20mm
+    Reading     :13-20, 40mm
+    Afternoon Work     :14-00, 0mm
+    Review notes and update daily note [[2022-07-14]]     :14-00, 15mm
+    Work     :14-15, 185mm
+    Go for a walk     :17-20, 30mm
+    Prep for meetings     :17-50, 10mm
+    join meeting & review daily note[[2022-07-14]]     :18-00, 30mm
+    Prepare what to do tonight after work     :18-30, 0mm
+    section Breaks
+    BREAK     :12-20, 0mm
+    BREAK     :12-20, 40mm
+```
+相对于竖屏的 Timeline 我更喜欢甘特图这一个进度显示的，同时设置中原本能根据进度调用系统的通知来提醒进入下一阶段任务，搭配日报 template，多美妙的想法！但后期作者已经删除了甘特图同时通知也失效了，很遗憾，可能是 bug 太多了，所以我决定还是关闭 day planner 插件的使用，它于我而言只是锦上添花的作用
+
+- [GitHub - ivan-lednev/obsidian-day-planner: An Obsidian plugin for day planning and managing pomodoro timers from a task list in a Markdown note.](https://github.com/ivan-lednev/obsidian-day-planner)
+- ![](asset/Pasted%20image%2020231101113100.png)
+- [更新到1.0后，第三方插件DayPlanner甘特图的条状图变透明 - 疑问解答 - Obsidian 中文论坛](https://forum-zh.obsidian.md/t/topic/11830/3)
+- [你真的需要Day Planner吗? - 经验分享 - Obsidian 中文论坛](https://forum-zh.obsidian.md/t/topic/297)
 
 <br />
 
 
 ### Kanban
 
+> 简易教学：[看板插件（Kanba插件介绍） | 软通达](https://cyddgh.github.io/post/202104222356/)
+> 
 > 看板插件能更直观的地管理项目工程，添加卡片、移动卡片、完成卡片、插入图片，同时也能使用双链和其他文档进行联动，例如设置 30 天后的任务，日志面板会在 30 天会有一个任务记录
 
+[2023-11-01](学习日报/Day/2023-11-01.md#^38sksi)
 
 <br />
 
@@ -656,6 +702,8 @@ type: pdf/epub
 
 - **Media Extended**
 - **Media Extended Bilibili**（更新版本，使用 `Media Extend` 本地播放 Bilibili 视频需要搭配 `Media Extended Bilibili`并开启高级功能进行）
+
+> 暂时先关闭，有需要再启动这两个插件
 
 > ![](asset/Pasted%20image%2020231027150836.png)
 
@@ -762,16 +810,20 @@ bestFitNumber: 0
 
 #### 语法
 
-[卡片Demo](../Pub/Flashcards/卡片Demo.md)
+> 示例：[卡片Demo](../Pub/Flashcards/卡片Demo.md)
 
+设置卡片的文档需要纯净版的并加上对应的标签（标签组的标签需要在`Spaced Repetition`的插件设置中自定义添加，默认为 #flashcards） 
+
+通过空格可以快速显示答案和选择简单天数跳过，背诵完卡片后会生成时间标记，这时如果想再次背诵需要删除标记才能继续，不然需要等待背诵点击的天数过后才能继续
 
 <br />
 
 
 ### Obsidian 仓库多端同步
 
-<br />
+> 借助 Remotely Save 插件，网上很多教程（onedrive、坚果云同步等等），目前暂无需求，待探索
 
+<br />
 
 ### Copy Block Link
 
@@ -805,7 +857,7 @@ bestFitNumber: 0
 
 ![](asset/Pasted%20image%2020231029120303.png)
 
-#### Snap to edges 示例
+#### Snap to edges 功能示例
 
 [Hover Editor](asset/Hover%20Editor.gif)
 
@@ -819,7 +871,9 @@ bestFitNumber: 0
 
 ### 定时切换主题颜色（日出日落）
 
-> 之前 Obsidian 社区有一款 `system dark mode` 可以定时设置时间或获取当地日出日落时间来切换主题颜色（例如白天白色，晚上切换成黑色），但这款主题现在在 win10 上不好用，Obsidian 原生更新了跟随系统切换，也就是说你可以设置系统主题间接设置 Obsidian 主题颜色切换，Windows 上有一款桌面应用 `auto dark mode` 可以设置切换主题，但我很喜欢自己当前的微软主题设置，并不想切换，后来通过自定义 Obsidian 原生背景图，达到中性主题的效果，便不想去折腾这个插件了，下面看看我当前的主题样式
+> 之前 Obsidian 社区有一款 `system dark mode` 可以定时设置时间或获取当地日出日落时间来切换主题颜色（例如白天白色，晚上切换成黑色），但这款主题现在在 win10 上不好用，Obsidian 原生更新了跟随系统切换，也就是说你可以设置系统主题间接设置 Obsidian 主题颜色切换，Windows 上有一款桌面应用 `auto dark mode` 可以设置切换主题，但我很喜欢自己当前的微软主题设置，并不想切换
+> 
+> **后来通过自定义 Obsidian 原生背景图，达到中性主题的效果，便不想去折腾这个插件了，下面看看我当前的主题样式**
 
 ![](asset/Pasted%20image%2020231028115037.png)
 
@@ -835,6 +889,7 @@ bestFitNumber: 0
 - 美化界面
 
 ![](asset/Pasted%20image%2020231028163058.png)
+![|375](asset/Pasted%20image%2020231101094217.png)
 
 <br />
 
@@ -882,16 +937,26 @@ bestFitNumber: 0
 
 ### Commander
 
+> 用于添加快捷键（或命令面板）中所有命令到某一布局中（包括已设置快捷键和未设置快捷键），如下图所示
+
+![](asset/Pasted%20image%2020231101093551.png)
+![](asset/Pasted%20image%2020231101095351.png)
+
 
 <br />
 
 ### Icon Shortcodes
+
+> 快速打出关联表情的插件，比如 打出😃我们不需要通过 `win+.` 去查找表情，而是通过 `:` 加上相应的英文即可快速关联，比如`:smile` → 😃
+
+![](asset/Pasted%20image%2020231101114006.png)
 
 
 <br />
 
 ### Weread
 
+> 微信读书插件，应该是同步微信读书的数据到 Obsidian（例如书摘、书评、高亮等）待探索
 
 <br />
 
@@ -903,16 +968,18 @@ bestFitNumber: 0
 
 ### Image Toolkit
 
-> 一款能点击预览图片的插件，目前已知出来 Loom 文件表格的图片无法点击预览外，其他都可以
+> 一款能点击预览图片的插件，目前已知出来 Loom 文件表格的图片无法点击预览外，其他都可以，由于该插件妨碍到我点击图片显示链接的快捷，暂时关闭
 
 <br />
 
 ### Citations
 
+> 跟论文文献相关的，暂时无需求，等考上研究生再看看
+
 ![](asset/Pasted%20image%2020231031161358.png)
 
 ### Recent Files
 
-> 显示最近打开文件，已经布局到界面左下方
+> 显示最近打开文件，已经布局到界面左下方，默认列表显示 50 个，我设置为 20
 
 ![](asset/Pasted%20image%2020231031172549.png)

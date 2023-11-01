@@ -1,6 +1,41 @@
 {
   "choices": [
     {
+      "id": "0cd1fea0-fd63-47da-bf6a-b89cd76670a0",
+      "name": "🦢Anki Anki",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "Pub/Flashcards/Phase 1.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "{{VALUE:请输入问题（正面内容）}}\n?\n{{VALUE:请输入答案（反面内容）}}"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": true,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "source"
+    },
+    {
       "id": "7c040deb-ed90-40d5-97ba-ee59531dd5d4",
       "name": "🤪Immediate Todo",
       "type": "Capture",

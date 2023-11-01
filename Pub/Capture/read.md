@@ -12,6 +12,5 @@ sort by path reverse
 ```tasks
 done
 description includes #read
-sort by done
+sort by done reverse
 ```
-

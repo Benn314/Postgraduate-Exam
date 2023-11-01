@@ -2,13 +2,27 @@
   "confirmDeletion": true,
   "showAddCommand": true,
   "debug": false,
-  "editorMenu": [],
+  "editorMenu": [
+    {
+      "id": "obsidian-spaced-repetition:srs-review-flashcards-in-note",
+      "icon": "battery-charging",
+      "name": "复习此笔记中的卡片",
+      "mode": "any"
+    }
+  ],
   "fileMenu": [],
   "leftRibbon": [],
   "rightRibbon": [],
   "titleBar": [],
   "statusBar": [],
-  "pageHeader": [],
+  "pageHeader": [
+    {
+      "id": "obsidian-mind-map:app:markmap-preview",
+      "icon": "align-end-horizontal",
+      "name": "Preview the current note as a Mind Map",
+      "mode": "any"
+    }
+  ],
   "macros": [],
   "explorer": [],
   "hide": {
