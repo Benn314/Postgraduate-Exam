@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6f2c9bdbbc316a36",
@@ -241,18 +242,21 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "08d83ca18249a722",
+  "active": "5317084c12f4dab0",
   "lastOpenFiles": [
+    "前期准备/前期准备.md",
+    "408",
+    "新建文件夹",
+    "英语一",
+    "数学一",
+    "学习日报/Day/2023-11-01.md",
     "前期准备/24考研报名信息/网上个人报名信息.pdf",
     "前期准备/24考研报名信息/预报名表格@空卡.pdf",
     "前期准备/24考研报名信息/PDF_443996949.pdf",
     "前期准备/24考研报名信息",
     "前期准备",
-    "新建文件夹",
     "asset/aText/AutoBackup-2023-11-01-16-00-27.atext",
-    "asset/aText/AutoBackup-2023-11-01-16-00-15.atext",
     "Pub/Capture/Tasks.md",
-    "学习日报/Day/2023-11-01.md",
     "学习日报/Obsidian工作流.md",
     "学习日报/asset/Pasted image 20231101144344.png",
     "学习日报/asset/Pasted image 20231101144053.png",
@@ -272,7 +276,6 @@
     "学习日报/asset/Pasted image 20231101094217.png",
     "学习日报/asset/Pasted image 20231101093551.png",
     "学习日报/Day/asset/Pasted image 20231031215229.png",
-    "Pub/Flashcards",
     "学习日报/Day/2023-10-30.md",
     "学习日报/Day/2023-10-24.md",
     "学习日报/Day/2023-10-25.md",
@@ -282,13 +285,10 @@
     "Pub/Template/write.md",
     "学习日报/Day/delete.md",
     "学习日报/Day/未命名看板.md",
-    "asset/looms/Test1.loom",
     "asset/looms/Untitled.loom.md",
-    "asset/looms/Untitled.loom",
     "学习日报/Day/Untitled.loom.md",
     "Pub/Capture/writing.md",
     "Pub/PDF-Annotator/Test-本地附件链接.md",
-    "学习日报/Day/^^632ee6.md",
     "Pub/Draw/未命名.canvas",
     "未命名.canvas"
   ]

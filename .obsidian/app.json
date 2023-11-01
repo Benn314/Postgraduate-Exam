@@ -9,5 +9,12 @@
   "readableLineLength": true,
   "showLineNumber": false,
   "livePreview": true,
-  "focusNewTab": true
+  "focusNewTab": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
