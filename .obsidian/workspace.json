@@ -13,18 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习日报/Obsidian工作流.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1bada8366f2f7c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "学习日报/Day/2023-11-01.md",
                 "mode": "source",
                 "source": false
@@ -86,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6f2c9bdbbc316a36",
@@ -122,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习日报/Obsidian工作流.md",
+                "file": "学习日报/Day/2023-11-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习日报/Obsidian工作流.md",
+                "file": "学习日报/Day/2023-11-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "1e8ba7d19cd01d2b",
@@ -193,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "学习日报/Obsidian工作流.md",
+                "file": "学习日报/Day/2023-11-01.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -254,20 +241,31 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "5317084c12f4dab0",
+  "active": "08d83ca18249a722",
   "lastOpenFiles": [
-    "学习日报/asset/Pasted image 20231101114006.png",
+    "前期准备/24考研报名信息/网上个人报名信息.pdf",
+    "前期准备/24考研报名信息/预报名表格@空卡.pdf",
+    "前期准备/24考研报名信息/PDF_443996949.pdf",
+    "前期准备/24考研报名信息",
+    "前期准备",
+    "新建文件夹",
+    "asset/aText/AutoBackup-2023-11-01-16-00-27.atext",
+    "asset/aText/AutoBackup-2023-11-01-16-00-15.atext",
+    "Pub/Capture/Tasks.md",
     "学习日报/Day/2023-11-01.md",
     "学习日报/Obsidian工作流.md",
+    "学习日报/asset/Pasted image 20231101144344.png",
+    "学习日报/asset/Pasted image 20231101144053.png",
+    "学习日报/asset/Pasted image 20231101143633.png",
+    "Pub/Flashcards/卡片Demo.md",
+    "学习日报/asset/Pasted image 20231101114006.png",
     "学习日报/asset/Pasted image 20231101113323.png",
     "学习日报/asset/Pasted image 20231101113100.png",
     "学习日报/Day/2023-10-31.md",
-    "Pub/Flashcards/卡片Demo.md",
     "Pub/Flashcards/Phase 1.md",
     "学习日报/Day/2023-10-27.md",
     "Pub/Capture/read.md",
     "Pub/Capture/未命名看板.md",
-    "Pub/Capture/Tasks.md",
     "学习日报/Day/2023-10-29.md",
     "学习日报/Day/2023-10-26.md",
     "学习日报/asset/Pasted image 20231101095351.png",
@@ -275,10 +273,6 @@
     "学习日报/asset/Pasted image 20231101093551.png",
     "学习日报/Day/asset/Pasted image 20231031215229.png",
     "Pub/Flashcards",
-    "学习日报/Day/asset/Pasted image 20231031194025.png",
-    "学习日报/Day/asset/Pasted image 20231031181625.png",
-    "学习日报/Day/asset/Pasted image 20231031180853.png",
-    "学习日报/Day/asset/Pasted image 20231031175558.png",
     "学习日报/Day/2023-10-30.md",
     "学习日报/Day/2023-10-24.md",
     "学习日报/Day/2023-10-25.md",
@@ -291,13 +285,6 @@
     "asset/looms/Test1.loom",
     "asset/looms/Untitled.loom.md",
     "asset/looms/Untitled.loom",
-    "asset/looms/Untitled 1.loom",
-    "asset/looms/Untitled 2.loom",
-    "asset/looms/Untitled 3.loom",
-    "asset/looms/Untitled 4.loom",
-    "asset/looms/Untitled 5.loom",
-    "Pub/Template/Loom.loom",
-    "Untitled.loom",
     "学习日报/Day/Untitled.loom.md",
     "Pub/Capture/writing.md",
     "Pub/PDF-Annotator/Test-本地附件链接.md",

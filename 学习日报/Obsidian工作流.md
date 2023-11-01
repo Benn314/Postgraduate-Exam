@@ -184,17 +184,20 @@ Wiki 链接普通的 markdown 编辑器（例如 typora）无法识别，同时�
 
 > 暂定将待看文章系统的排序整理是在日报中手动整理（缩进，优先级前后，递进关系等等），[read](../Pub/Capture/read.md) 只能起到汇总，如果要整理排序汇总，查询语句可能较复杂（反正我暂时不会也不想学 2023-10-25）
 
+4. 🤪Immediate Todo，快速在当天日报的 `### 今日任务` 下生成 todo，但目前已经有 tasks 自定义快捷键 `Alt+V` 生成带日期的插件和也可以 `Alt+Z` 打开当天日报手动定位，所以 quickadd 的 🤪Immediate Todo 会用得比较少，适合纯文本的任务记录
+5. 🦢Anki Anki，是类似 Anki 卡片的快速背诵，通过 [Obsidian工作流--Spaced Repetition](学习日报/Obsidian工作流.md#Spaced%20Repetition) 插件来实现，语法请查考：[卡片Demo](../Pub/Flashcards/卡片Demo.md)，这一 capture 可以帮助我们快速记录想闪念背诵的东西，并可通过命令面板来做相应其操作（快捷键就不设了，太多了）![](asset/Pasted%20image%2020231101143633.png)
+
 <br />
 
 #### Template 模板
 
-4. 🌱Record daily，主要用于生成日报，同时在核心插件-日记也进行了配置，用哪个插件都行，后续可以用左侧核心插件-日记进行当天日报的跳转，或者是在 Calendar 插件显示的右侧日历，基于点击的日期跳转到指定日报文件（可以是当天也可以是其他天数，未创建时会询问是否创建）
+5. 🌱Record daily，主要用于生成日报，同时在核心插件-日记也进行了配置，用哪个插件都行，后续可以用左侧核心插件-日记进行当天日报的跳转，或者是在 Calendar 插件显示的右侧日历，基于点击的日期跳转到指定日报文件（可以是当天也可以是其他天数，未创建时会询问是否创建）
 ![](asset/Pasted%20image%2020231024210450.png)
 
-5. 🌳Record weekly，记录周报，通过它能快速生成当周周报模板
+6. 🌳Record weekly，记录周报，通过它能快速生成当周周报模板
 ![](asset/Pasted%20image%2020231024234748.png)
 
-6. 🤔PDF Annotator，基于 Annotator 插件来快速创建 PDF 注释文档模板，使我能编辑记录指定 PDF 的内容和笔记
+7. 🤔PDF Annotator，基于 Annotator 插件来快速创建 PDF 注释文档模板，使我能编辑记录指定 PDF 的内容和笔记
 
 > Annotator，一款比 Obsidian 自带 PDF 阅读器更强大的注释阅读器（插件），下面有介绍具体介绍 [Annotator](#Annotator)  插件
 
@@ -891,6 +894,14 @@ bestFitNumber: 0
 ![](asset/Pasted%20image%2020231028163058.png)
 ![|375](asset/Pasted%20image%2020231101094217.png)
 
+reset 是重置当前打开的标题层级，默认值可在设置中自定义
+
+![](asset/Pasted%20image%2020231101144053.png)
+
+#### Bug
+
+`quiet-outline` 在大纲搜索框搜索后，重置大纲会有延迟，需要等待一会后才能重新显示
+
 <br />
 
 ### Advanced Tables
@@ -983,3 +994,10 @@ bestFitNumber: 0
 > 显示最近打开文件，已经布局到界面左下方，默认列表显示 50 个，我设置为 20
 
 ![](asset/Pasted%20image%2020231031172549.png)
+
+
+### [obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin)
+
+> 突然被 Obsidian 的设计哲学所吸引，所有插件都来自 `Obsidian-sample-plugin` 所以底层通用的东西的一样的，大家开发出来的插件扩展只需要打包和配置在 `data.json`、`main.js`、`manifest.json`和开发者自定义的 json 文件中即可，优雅，太优雅了！
+
+![](asset/Pasted%20image%2020231101144344.png)
