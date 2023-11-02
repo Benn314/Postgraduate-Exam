@@ -758,9 +758,10 @@
 			"Valid": true
 		}, {
 			"Actions": [
-				["SendKeys", "Ctrl+O"]
+				["SendKeys"],
+				["Execute", "calc.exe"]
 			],
-			"Name": "打开最近文件",
+			"Name": "打开计算器",
 			"Sign": "O",
 			"Valid": true
 		}],
