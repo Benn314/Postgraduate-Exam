@@ -217,6 +217,15 @@ Wiki 链接普通的 markdown 编辑器（例如 typora）无法识别，同时�
 
 [Tasks](../Pub/Capture/Tasks.md) 中已完成标题下的排序除了用 `sort by path reverse` 还可以用 `sort by done`
 
+未排程 Tasks 语法查询语句：
+
+```txt
+not done
+no due date
+description does not include #read
+sort by path reverse
+```
+
 <br />
 
 ### Dataview

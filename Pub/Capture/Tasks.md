@@ -28,6 +28,7 @@ sort by due
 ```tasks
 not done
 no due date
+description does not include #read
 sort by path reverse
 ```
 
@@ -35,5 +36,5 @@ sort by path reverse
 
 ```tasks
 done
-sort by path reverse
+sort by done reverse
 ```
