@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前期准备/前期准备.md",
+                "file": "学习日报/Day/2023-11-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "6f2c9bdbbc316a36",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前期准备/前期准备.md",
+                "file": "学习日报/Day/2023-11-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前期准备/前期准备.md",
+                "file": "学习日报/Day/2023-11-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "前期准备/前期准备.md",
+                "file": "学习日报/Day/2023-11-02.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -244,21 +244,26 @@
   },
   "active": "5317084c12f4dab0",
   "lastOpenFiles": [
+    "Pub/Capture/Tasks.md",
+    "学习日报/Day/2023-10-29.md",
+    "Pub/Capture/read.md",
+    "学习日报/Day/2023-10-31.md",
+    "前期准备/前期准备.md",
     "学习日报/Day/2023-11-02.md",
+    "复试/简历/复试简历模板.jpg",
+    "复试/简历/复试简历模板.jpg.crdownload",
+    "复试/简历",
+    "复试/新建文件夹",
+    "复试",
+    "新建文件夹",
+    "前期准备/asset/Pasted image 20231102160751.png",
+    "前期准备/asset",
     "学习日报/Day/2023-11-01.md",
     "学习日报/Day/2023-10-28.md",
-    "前期准备/前期准备.md",
     "408",
-    "新建文件夹",
     "英语一",
     "数学一",
     "前期准备/24考研报名信息/网上个人报名信息.pdf",
-    "前期准备/24考研报名信息/预报名表格@空卡.pdf",
-    "前期准备/24考研报名信息/PDF_443996949.pdf",
-    "前期准备/24考研报名信息",
-    "前期准备",
-    "asset/aText/AutoBackup-2023-11-01-16-00-27.atext",
-    "Pub/Capture/Tasks.md",
     "学习日报/Obsidian工作流.md",
     "学习日报/asset/Pasted image 20231101144344.png",
     "学习日报/asset/Pasted image 20231101144053.png",
@@ -267,17 +272,12 @@
     "学习日报/asset/Pasted image 20231101114006.png",
     "学习日报/asset/Pasted image 20231101113323.png",
     "学习日报/asset/Pasted image 20231101113100.png",
-    "学习日报/Day/2023-10-31.md",
     "Pub/Flashcards/Phase 1.md",
     "学习日报/Day/2023-10-27.md",
-    "Pub/Capture/read.md",
     "Pub/Capture/未命名看板.md",
-    "学习日报/Day/2023-10-29.md",
     "学习日报/Day/2023-10-26.md",
     "学习日报/asset/Pasted image 20231101095351.png",
     "学习日报/asset/Pasted image 20231101094217.png",
-    "学习日报/asset/Pasted image 20231101093551.png",
-    "学习日报/Day/asset/Pasted image 20231031215229.png",
     "学习日报/Day/2023-10-30.md",
     "学习日报/Day/2023-10-24.md",
     "学习日报/Day/2023-10-25.md",
@@ -289,7 +289,6 @@
     "asset/looms/Untitled.loom.md",
     "学习日报/Day/Untitled.loom.md",
     "Pub/Capture/writing.md",
-    "Pub/PDF-Annotator/Test-本地附件链接.md",
     "Pub/Draw/未命名.canvas",
     "未命名.canvas"
   ]
