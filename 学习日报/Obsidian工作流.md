@@ -15,8 +15,21 @@
 
 > 自定义专属 Obsidian 的特定手势动作
 
-![](asset/Pasted%20image%2020231026155905.png)
+<center><strong>Obsidian</strong></center>
 
+![](asset/Pasted%20image%2020231109153812.png)
+
+ <center><strong>浏览器</strong></center>
+
+![](asset/Pasted%20image%2020231109153709.png)
+
+<center><strong>Chrome</strong></center>
+
+![](asset/Pasted%20image%2020231109153913.png)
+
+<center><strong>vscode</strong></center>
+
+![](asset/Pasted%20image%2020231109153955.png)
 
 ### aText
 
@@ -62,6 +75,7 @@
 - `F3` ：贴图/恢复贴图
 - `space` ：空格启动编辑视图
 - 鼠标滚轮可缩放贴图大小
+- 鼠标左键双击贴图为关闭贴图
 
 ## Edit
 

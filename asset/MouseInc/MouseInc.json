@@ -504,7 +504,7 @@
 			],
 			"Name": "页面底部",
 			"Sign": "DOWN",
-			"Valid": false
+			"Valid": true
 		}, {
 			"Actions": [
 				["SendKeys", "Ctrl+R"]
@@ -592,7 +592,7 @@
 				["SendKeys", "Ctrl+F"]
 			],
 			"Name": "查找",
-			"Sign": "DOWN",
+			"Sign": "\\ UP",
 			"Valid": true
 		}],
 		"Match": ["Chrome.exe"],
@@ -730,14 +730,14 @@
 			"Valid": true
 		}, {
 			"Actions": [
-				["SendKeys", "Ctrl+Right"]
+				["SendKeys", "Ctrl+Shift+Right"]
 			],
 			"Name": "展开/收起右侧边栏",
 			"Sign": "RIGHT-LEFT",
 			"Valid": true
 		}, {
 			"Actions": [
-				["SendKeys", "Ctrl+Left"]
+				["SendKeys", "Ctrl+Shift+Left"]
 			],
 			"Name": "展开/收起左侧边栏",
 			"Sign": "LEFT-RIGHT",
@@ -889,10 +889,12 @@
 		"Sign": "W",
 		"Valid": true
 	}, {
-		"Actions": [],
-		"Name": "test",
+		"Actions": [
+			["SendKeys", "Alt+Tab"]
+		],
+		"Name": "切换应用",
 		"Sign": "Z",
-		"Valid": false
+		"Valid": true
 	}, {
 		"Actions": [
 			["Internal", "Settings"]
