@@ -34,10 +34,10 @@ body {
   opacity: 0.89; /* 这个透明度对我来说目前刚好 */
 }
 
-/* 给标签页添加选中过渡动画和修改选中背景色 */
-.workspace-tab-header {
-  transition: box-shadow 0.2s ease-in-out, color 0.2s ease-in-out, background-color 0.2s ease-in-out; /* 添加过渡动画 */
-}
+/* 给标签页添加选中过渡动画和修改选中背景色 （注：由于插件增多和增加背景图的原因导致obsidian的性能下降很多，增加动画体验不好，故此先注释）*/
+/* .workspace-tab-header {
+  transition: box-shadow 0.2s ease-in-out, color 0.2s ease-in-out, background-color 0.2s ease-in-out; /* 添加过渡动画 
+} */
 .workspace-tab-header.is-active {
   background-color: #000000; /* 选中时的颜色 */
 }
