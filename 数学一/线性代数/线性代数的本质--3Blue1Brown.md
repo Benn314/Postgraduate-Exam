@@ -137,3 +137,75 @@ OK，想到了一个很关键的问题，投影矩阵投影到一维空间中，
 
 ### 09-基变换
 
+基向量始终都是（1，0）和（0，1），相对于你自己的坐标系（坐标轴方向和网格间距可能有所不同）而言，同时所有基向量都拥有同一个原点（0，0），基向量 1 可能在基向量 2 的坐标描述会有所不同
+![](asset/Pasted%20image%2020231110145041.png)
+![](asset/Pasted%20image%2020231110145657.png)
+
+---
+
+**难点**：下图的抽象理论不太理解了（==懂了==）
+补充：
+- 任何一个新基的描述都需要借助一个基本基
+- 矩阵看出汇率，向量看出欧元和人民币，进行换算
+- 用我们的坐标系语言去模拟 Jennifer 的坐标系语言基向量
+![](asset/Pasted%20image%2020231110152345.png)
+![](asset/Pasted%20image%2020231110150800.png) ![](asset/Pasted%20image%2020231110150816.png)
+
+---
+
+基变换矩阵这一部分精彩 [09-基变换\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1ib411t7YR?p=13&spm_id_from=pageDriver&vd_source=1f9072e850dde202d6ddd4c60d9d334d) 11:00 时间处
+![](asset/Pasted%20image%2020231110155301.png)
+![](asset/Pasted%20image%2020231110155406.png)
+![](asset/Pasted%20image%2020231110155503.png)
+首先应用基变换，然后应用线性变换，最后应用基变换的逆，得到 Jennifer 描述的语言的向量
+![](asset/Pasted%20image%2020231110155556.png)它接受用 Jennifer 语言描述的向量，并输出 Jennifer 语言描述的变换后的向量
+
+![](asset/Pasted%20image%2020231110155927.png)结果就是在她的坐标系中描述的该向量旋转 90° 的结果
+
+![](asset/Pasted%20image%2020231110160045.png)中间的矩阵代表一种你所见的变换，而外侧两个矩阵代表着转移作用，也就是视角上的转化，矩阵乘积仍然代表着同一种变换，只不过从其他人的视角来看
+
+### 10-特征向量与特征值
+
+![](asset/Pasted%20image%2020231110160719.png)
+![](asset/Pasted%20image%2020231110161038.png)
+![](asset/Pasted%20image%2020231110161259.png)
+![](asset/Pasted%20image%2020231110161455.png)
+特征值：即衡量特征向量在变换中拉伸或压缩比例的因子
+
+特征向量的话是线性变换后不离开其张成空间位置的向量，只在原方向伸缩
+举个例子：一个立方体旋转 30°，那么旋转轴就相当于特征向量，因为只有它旋转后没离开它所在的张成空间
+
+求解 A 的特征向量和特征值
+![](asset/Pasted%20image%2020231110162922.png)
+![](asset/Pasted%20image%2020231110163116.png)
+![](asset/Pasted%20image%2020231110163245.png)
+![](asset/Pasted%20image%2020231110163555.png)
+![](asset/Pasted%20image%2020231110163621.png)
+
+![](asset/Pasted%20image%2020231110163828.png)
+![](asset/Pasted%20image%2020231110163843.png)
+![](asset/Pasted%20image%2020231110163934.png)
+动画解析请见 [10-特征向量与特征值\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1ib411t7YR/?p=14&spm_id_from=pageDriver&vd_source=1f9072e850dde202d6ddd4c60d9d334d) 08:00 处
+
+![](asset/Pasted%20image%2020231110164211.png)
+![](asset/Pasted%20image%2020231110164705.png)
+![](asset/Pasted%20image%2020231110164745.png)
+
+![](asset/Pasted%20image%2020231110165257.png)
+![](asset/Pasted%20image%2020231110165302.png)
+
+特征基➡如果基向量都是特征向量
+
+对角矩阵的幂运算比非对角矩阵的幂运算要方便快速很多，所以一般非对焦矩阵都是化成对角矩阵进行计算为宜
+
+用特征基的好处：
+![](asset/Pasted%20image%2020231110170822.png)这是因为它所处的坐标系的基向量在变换中只进行了缩放
+
+> 所以说，如果你要计算这个矩阵的 100 次幂，一种更容易的做法是先变换到特征基，在那个坐标系中计算 100 次幂，然后再转换回标准坐标系
+
+![](asset/Pasted%20image%2020231110171209.png)
+比如说剪切变换，它的特征向量不够多，并不能张成全空间，但是如果你能找到一组特征基，矩阵运算就会变得非常轻松
+
+### 11-抽象向量空间
+
+![](asset/Pasted%20image%2020231110172153.png)

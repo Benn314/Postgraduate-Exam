@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "7302b3cf19ddabd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学习日报/Day/2023-11-10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b7ec97738c0a8275",
             "type": "leaf",
             "state": {
@@ -247,7 +259,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 334.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,23 +282,24 @@
   },
   "active": "5317084c12f4dab0",
   "lastOpenFiles": [
-    "数学一/线性代数/asset/Pasted image 20231110093813.png",
-    "数学一/线性代数/asset/Pasted image 20231110093729.png",
-    "数学一/线性代数/asset/Pasted image 20231110093149.png",
-    "数学一/线性代数/asset/Pasted image 20231110093115.png",
-    "数学一/线性代数/asset/Pasted image 20231110093035.png",
-    "数学一/线性代数/asset/Pasted image 20231110092852.png",
-    "数学一/线性代数/asset/Pasted image 20231110092206.png",
-    "数学一/线性代数/asset/Pasted image 20231110092143.png",
+    "数学一/线性代数/asset/Pasted image 20231110172153.png",
+    "数学一/线性代数/asset/Pasted image 20231110171209.png",
+    "数学一/线性代数/asset/Pasted image 20231110170822.png",
+    "数学一/线性代数/asset/Pasted image 20231110165302.png",
+    "数学一/线性代数/asset/Pasted image 20231110165257.png",
+    "数学一/线性代数/asset/Pasted image 20231110164745.png",
+    "数学一/线性代数/asset/Pasted image 20231110164705.png",
+    "数学一/线性代数/asset/Pasted image 20231110164211.png",
+    "数学一/线性代数/asset/Pasted image 20231110163934.png",
+    "数学一/线性代数/asset/Pasted image 20231110163843.png",
+    "数学一/线性代数/asset/Pasted image 20231110163828.png",
+    "学习日报/Day/2023-11-10.md",
+    "数学一/线性代数/线性代数的本质--3Blue1Brown.md",
+    "Pub/Capture/Tasks.md",
+    "学习日报/Day/2023-10-31.md",
     "学习日报/Obsidian工作流.md",
     "学习日报/Day/2023-11-09.md",
-    "数学一/线性代数/线性代数的本质--3Blue1Brown.md",
-    "数学一/线性代数/asset/Pasted image 20231109172217.png",
-    "数学一/线性代数/asset/Pasted image 20231109172020.png",
-    "数学一/线性代数/asset/Pasted image 20231109171911.png",
-    "学习日报/Day/2023-10-31.md",
     "学习日报/Day/2023-11-02.md",
-    "Pub/Capture/Tasks.md",
     "Pub/Capture/read.md",
     "学习日报/Day/2023-11-01.md",
     "学习日报/Day/2023-11-03.md",
@@ -314,7 +328,6 @@
     "学习日报/Day/2023-10-32.md",
     "Pub/Template/write.md",
     "学习日报/Day/delete.md",
-    "学习日报/Day/未命名看板.md",
     "Pub/Draw/未命名.canvas",
     "未命名.canvas"
   ]
