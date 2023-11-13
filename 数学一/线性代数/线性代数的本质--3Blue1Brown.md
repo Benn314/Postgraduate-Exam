@@ -209,3 +209,47 @@ OK，想到了一个很关键的问题，投影矩阵投影到一维空间中，
 ### 11-抽象向量空间
 
 ![](asset/Pasted%20image%2020231110172153.png)
+
+![](asset/Pasted%20image%2020231111094807.png)
+
+线性组合的线性变换 == 线性变换的线性组合
+线性变换保持向量加法运算和数乘运算
+
+![](asset/Pasted%20image%2020231111095201.png)
+![](asset/Pasted%20image%2020231111095346.png)
+![](asset/Pasted%20image%2020231111095447.png)
+
+[11-抽象向量空间\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1ib411t7YR/?p=15&vd_source=1f9072e850dde202d6ddd4c60d9d334d) 09:00后是通过例子来求函数矩阵的解的过程，可以看看
+![](asset/Pasted%20image%2020231111100045.png)
+
+![](asset/Pasted%20image%2020231111100216.png)
+
+矩阵向量乘法和求导是一家人
+![](asset/Pasted%20image%2020231111100517.png)
+
+![](asset/Pasted%20image%2020231111100621.png)
+
+只要你处理的对象集具有合理的数乘和相加概念，不管是空间中的箭头、一组数、函数的集合
+![](asset/Pasted%20image%2020231111100811.png)
+线性代数中所有关于向量、线性变换和其他的概念都应该适用于它
+
+![](asset/Pasted%20image%2020231111100925.png)
+
+![](asset/Pasted%20image%2020231111101338.png)这些规则被称为公理（Axioms）
+
+![](asset/Pasted%20image%2020231111101543.png)
+
+![](asset/Pasted%20image%2020231111101825.png)
+
+![](asset/Pasted%20image%2020231111102021.png)
+
+它可以是任何东西
+![](asset/Pasted%20image%2020231111102045.png)
+
+![](asset/Pasted%20image%2020231111102204.png)
+
+### 12-克莱姆法则，几何解释
+
+没听懂
+
+[2023-11-11#克莱姆法则](学习日报/Day/2023-11-11.md#克莱姆法则)

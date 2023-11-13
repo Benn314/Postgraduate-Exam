@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学一/线性代数/线性代数的本质--3Blue1Brown.md",
+                "file": "数学一/高等数学/微积分的本质--3Blue1Brown.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习日报/Day/2023-11-10.md",
+                "file": "Pub/Capture/Tasks.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习日报/Day/2023-11-09.md",
+                "file": "学习日报/Day/2023-11-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,8 +110,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6f2c9bdbbc316a36",
@@ -146,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学一/线性代数/线性代数的本质--3Blue1Brown.md",
+                "file": "数学一/高等数学/微积分的本质--3Blue1Brown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学一/线性代数/线性代数的本质--3Blue1Brown.md",
+                "file": "数学一/高等数学/微积分的本质--3Blue1Brown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -209,7 +208,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "数学一/线性代数/线性代数的本质--3Blue1Brown.md",
+                "file": "数学一/高等数学/微积分的本质--3Blue1Brown.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -259,8 +258,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5,
-    "collapsed": true
+    "width": 334.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -282,31 +280,34 @@
   },
   "active": "5317084c12f4dab0",
   "lastOpenFiles": [
-    "数学一/线性代数/asset/Pasted image 20231110172153.png",
-    "数学一/线性代数/asset/Pasted image 20231110171209.png",
-    "数学一/线性代数/asset/Pasted image 20231110170822.png",
-    "数学一/线性代数/asset/Pasted image 20231110165302.png",
-    "数学一/线性代数/asset/Pasted image 20231110165257.png",
-    "数学一/线性代数/asset/Pasted image 20231110164745.png",
-    "数学一/线性代数/asset/Pasted image 20231110164705.png",
-    "数学一/线性代数/asset/Pasted image 20231110164211.png",
-    "数学一/线性代数/asset/Pasted image 20231110163934.png",
-    "数学一/线性代数/asset/Pasted image 20231110163843.png",
-    "数学一/线性代数/asset/Pasted image 20231110163828.png",
-    "学习日报/Day/2023-11-10.md",
+    "学习日报/Day/2023-11-11.md",
+    "数学一/高等数学/微积分的本质--3Blue1Brown.md",
     "数学一/线性代数/线性代数的本质--3Blue1Brown.md",
-    "Pub/Capture/Tasks.md",
-    "学习日报/Day/2023-10-31.md",
-    "学习日报/Obsidian工作流.md",
+    "数学一/高等数学/未命名",
+    "数学一/高等数学",
     "学习日报/Day/2023-11-09.md",
+    "Pub/Capture/Tasks.md",
+    "前期准备/前期准备.md",
+    "学习日报/Obsidian工作流.md",
+    "学习日报/Day/asset/Pasted image 20231111105624.png",
+    "学习日报/Day/2023-11-01.md",
+    "学习日报/Day/2023-11-10.md",
+    "学习日报/Day/asset/Pasted Image 20231111102305.png",
+    "数学一/线性代数/asset/Pasted image 20231111102204.png",
+    "数学一/线性代数/asset/Pasted image 20231111102045.png",
+    "数学一/线性代数/asset/Pasted image 20231111102021.png",
+    "数学一/线性代数/asset/Pasted image 20231111101825.png",
+    "数学一/线性代数/asset/Pasted image 20231111101543.png",
+    "数学一/线性代数/asset/Pasted image 20231111101338.png",
+    "数学一/线性代数/asset/Pasted image 20231111100925.png",
+    "数学一/线性代数/asset/Pasted image 20231111100811.png",
+    "学习日报/Day/2023-10-31.md",
     "学习日报/Day/2023-11-02.md",
     "Pub/Capture/read.md",
-    "学习日报/Day/2023-11-01.md",
     "学习日报/Day/2023-11-03.md",
     "数学一/线性代数/asset",
     "数学一/线性代数",
     "学习日报/Day/2023-10-29.md",
-    "前期准备/前期准备.md",
     "复试/简历/复试简历模板.jpg.crdownload",
     "复试/简历",
     "复试/新建文件夹",
@@ -314,8 +315,6 @@
     "新建文件夹",
     "前期准备/asset",
     "学习日报/Day/2023-10-28.md",
-    "408",
-    "英语一",
     "Pub/Flashcards/卡片Demo.md",
     "Pub/Flashcards/Phase 1.md",
     "学习日报/Day/2023-10-27.md",
@@ -327,7 +326,6 @@
     "Pub/Template/日记模板.md",
     "学习日报/Day/2023-10-32.md",
     "Pub/Template/write.md",
-    "学习日报/Day/delete.md",
     "Pub/Draw/未命名.canvas",
     "未命名.canvas"
   ]
