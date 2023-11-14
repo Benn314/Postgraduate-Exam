@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "微积分的本质--3Blue1Brown",
+      "path": "数学一/高等数学/微积分的本质--3Blue1Brown.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
     {
-      "basename": "微积分的本质--3Blue1Brown",
-      "path": "数学一/高等数学/微积分的本质--3Blue1Brown.md"
+      "basename": "2023-11-14",
+      "path": "学习日报/Day/2023-11-14.md"
+    },
+    {
+      "basename": "线性代数的本质--3Blue1Brown",
+      "path": "数学一/线性代数/线性代数的本质--3Blue1Brown.md"
+    },
+    {
+      "basename": "read",
+      "path": "Pub/Capture/read.md"
+    },
+    {
+      "basename": "2023-10-31",
+      "path": "学习日报/Day/2023-10-31.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Pub/Capture/Tasks.md"
+    },
+    {
+      "basename": "2023-10-28",
+      "path": "学习日报/Day/2023-10-28.md"
+    },
+    {
+      "basename": "2023-10-26",
+      "path": "学习日报/Day/2023-10-26.md"
+    },
+    {
+      "basename": "2023-11-01",
+      "path": "学习日报/Day/2023-11-01.md"
     },
     {
       "basename": "前期准备",
@@ -15,10 +47,6 @@
     {
       "basename": "2023-11-13",
       "path": "学习日报/Day/2023-11-13.md"
-    },
-    {
-      "basename": "线性代数的本质--3Blue1Brown",
-      "path": "数学一/线性代数/线性代数的本质--3Blue1Brown.md"
     },
     {
       "basename": "日记模板",
@@ -37,16 +65,8 @@
       "path": "学习日报/Day/2023-11-09.md"
     },
     {
-      "basename": "Tasks",
-      "path": "Pub/Capture/Tasks.md"
-    },
-    {
       "basename": "Obsidian工作流",
       "path": "学习日报/Obsidian工作流.md"
-    },
-    {
-      "basename": "read",
-      "path": "Pub/Capture/read.md"
     },
     {
       "basename": "2023-11-03",
@@ -59,22 +79,6 @@
     {
       "basename": "2023-10-29",
       "path": "学习日报/Day/2023-10-29.md"
-    },
-    {
-      "basename": "2023-10-31",
-      "path": "学习日报/Day/2023-10-31.md"
-    },
-    {
-      "basename": "2023-11-01",
-      "path": "学习日报/Day/2023-11-01.md"
-    },
-    {
-      "basename": "卡片Demo",
-      "path": "Pub/Flashcards/卡片Demo.md"
-    },
-    {
-      "basename": "Phase 1",
-      "path": "Pub/Flashcards/Phase 1.md"
     }
   ],
   "omittedPaths": [],

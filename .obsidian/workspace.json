@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学一/高等数学/微积分的本质--3Blue1Brown.md",
+                "file": "学习日报/Day/2023-11-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "数学一/高等数学/微积分的本质--3Blue1Brown.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pub/Capture/Tasks.md",
+                "file": "学习日报/Day/2023-11-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6f2c9bdbbc316a36",
@@ -158,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "数学一/高等数学/微积分的本质--3Blue1Brown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "数学一/高等数学/微积分的本质--3Blue1Brown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -221,7 +222,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "数学一/高等数学/微积分的本质--3Blue1Brown.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -293,27 +294,35 @@
   },
   "active": "c2f1e911f04af0db",
   "lastOpenFiles": [
-    "前期准备/前期准备.md",
-    "README.md",
+    "数学一/高等数学/asset/Pasted image 20231114161816.png",
+    "数学一/高等数学/asset/Pasted image 20231114160852.png",
+    "数学一/高等数学/asset/Pasted image 20231114160647.png",
+    "学习日报/Day/2023-11-14.md",
     "数学一/高等数学/微积分的本质--3Blue1Brown.md",
+    "README.md",
+    "学习日报/Day/2023-10-31.md",
+    "数学一/高等数学/asset/Pasted image 20231114152603.png",
+    "数学一/高等数学/asset/Pasted image 20231114151329.png",
+    "数学一/高等数学/asset/Pasted image 20231114151200.png",
+    "数学一/线性代数/线性代数的本质--3Blue1Brown.md",
+    "学习日报/Day/2023-11-01.md",
+    "Pub/Capture/read.md",
+    "Pub/Capture/Tasks.md",
+    "学习日报/Day/2023-10-28.md",
+    "学习日报/Day/2023-10-26.md",
+    "学习日报/Day/asset/4279a58e65ee1b5211e2ca86be683f8.jpg",
+    "学习日报/Day/asset/Pasted image 20231114144630.png",
+    "前期准备/前期准备.md",
     "数学一/高等数学/asset/Pasted image 20231114143809.png",
     "数学一/高等数学/asset/Pasted image 20231114143243.png",
     "数学一/高等数学/asset/Pasted image 20231114143139.png",
-    "数学一/高等数学/asset/Pasted image 20231114143028.png",
-    "数学一/高等数学/asset/Pasted image 20231114142938.png",
-    "数学一/高等数学/asset/Pasted image 20231114142736.png",
-    "数学一/高等数学/asset/Pasted image 20231114142230.png",
-    "数学一/高等数学/asset/Pasted image 20231114142218.png",
     "前期准备/24考研报名信息/~$农业大学计算机考研考纲.docx",
-    "前期准备/asset/Pasted image 20231114100545.png",
     "前期准备/24考研报名信息/华南农业大学计算机考研考纲.docx",
     "前期准备/24考研报名信息/暨南大学计算机考研/848计算机基础综合2024.pdf",
     "前期准备/24考研报名信息/暨南大学计算机考研/848 计算机基础综合.doc",
     "前期准备/24考研报名信息/暨南大学计算机考研",
-    "前期准备/asset/Pasted image 20231114093542.png",
     "学习日报/Day/2023-11-13.md",
     "asset/aText/AutoBackup-2023-11-13-16-06-57.atext",
-    "数学一/线性代数/线性代数的本质--3Blue1Brown.md",
     "Pub/Template/日记模板.md",
     "学习日报/Day/2023-11-10.md",
     "学习日报/Day/2023-11-11.md",
@@ -321,24 +330,16 @@
     "数学一/高等数学/未命名",
     "数学一/高等数学",
     "学习日报/Day/2023-11-09.md",
-    "Pub/Capture/Tasks.md",
     "学习日报/Obsidian工作流.md",
-    "学习日报/Day/2023-11-01.md",
-    "学习日报/Day/2023-10-31.md",
     "学习日报/Day/2023-11-02.md",
-    "Pub/Capture/read.md",
     "学习日报/Day/2023-11-03.md",
     "数学一/线性代数/asset",
     "学习日报/Day/2023-10-29.md",
-    "学习日报/Day/2023-10-28.md",
     "Pub/Flashcards/卡片Demo.md",
     "Pub/Flashcards/Phase 1.md",
     "学习日报/Day/2023-10-27.md",
     "Pub/Capture/未命名看板.md",
-    "学习日报/Day/2023-10-26.md",
     "学习日报/Day/2023-10-30.md",
-    "学习日报/Day/2023-10-24.md",
-    "学习日报/Day/2023-10-25.md",
     "Pub/Draw/未命名.canvas",
     "未命名.canvas"
   ]
