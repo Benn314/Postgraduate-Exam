@@ -110,7 +110,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6f2c9bdbbc316a36",
@@ -258,7 +259,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 340.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -280,27 +281,32 @@
   },
   "active": "5317084c12f4dab0",
   "lastOpenFiles": [
-    "学习日报/Day/2023-11-11.md",
+    "数学一/高等数学/asset/Pasted image 20231113171013.png",
+    "数学一/高等数学/asset/Pasted image 20231113170949.png",
+    "数学一/高等数学/asset/Pasted image 20231113170913.png",
+    "数学一/高等数学/asset/Pasted image 20231113170854.png",
+    "数学一/高等数学/asset/Pasted image 20231113165014.png",
+    "数学一/高等数学/asset/Pasted image 20231113164833.png",
+    "数学一/高等数学/asset/Pasted image 20231113164646.png",
+    "数学一/高等数学/asset/Pasted image 20231113164251.png",
+    "数学一/高等数学/asset/Pasted image 20231113164230.png",
+    "数学一/高等数学/asset/Pasted image 20231113164018.png",
+    "数学一/高等数学/asset/Pasted image 20231113162251.png",
+    "学习日报/Day/2023-11-13.md",
     "数学一/高等数学/微积分的本质--3Blue1Brown.md",
+    "asset/aText/AutoBackup-2023-11-13-16-06-57.atext",
     "数学一/线性代数/线性代数的本质--3Blue1Brown.md",
+    "Pub/Template/日记模板.md",
+    "学习日报/Day/2023-11-10.md",
+    "学习日报/Day/2023-11-11.md",
+    "数学一/高等数学/asset",
     "数学一/高等数学/未命名",
     "数学一/高等数学",
     "学习日报/Day/2023-11-09.md",
     "Pub/Capture/Tasks.md",
     "前期准备/前期准备.md",
     "学习日报/Obsidian工作流.md",
-    "学习日报/Day/asset/Pasted image 20231111105624.png",
     "学习日报/Day/2023-11-01.md",
-    "学习日报/Day/2023-11-10.md",
-    "学习日报/Day/asset/Pasted Image 20231111102305.png",
-    "数学一/线性代数/asset/Pasted image 20231111102204.png",
-    "数学一/线性代数/asset/Pasted image 20231111102045.png",
-    "数学一/线性代数/asset/Pasted image 20231111102021.png",
-    "数学一/线性代数/asset/Pasted image 20231111101825.png",
-    "数学一/线性代数/asset/Pasted image 20231111101543.png",
-    "数学一/线性代数/asset/Pasted image 20231111101338.png",
-    "数学一/线性代数/asset/Pasted image 20231111100925.png",
-    "数学一/线性代数/asset/Pasted image 20231111100811.png",
     "学习日报/Day/2023-10-31.md",
     "学习日报/Day/2023-11-02.md",
     "Pub/Capture/read.md",
@@ -312,8 +318,6 @@
     "复试/简历",
     "复试/新建文件夹",
     "复试",
-    "新建文件夹",
-    "前期准备/asset",
     "学习日报/Day/2023-10-28.md",
     "Pub/Flashcards/卡片Demo.md",
     "Pub/Flashcards/Phase 1.md",
@@ -323,9 +327,6 @@
     "学习日报/Day/2023-10-30.md",
     "学习日报/Day/2023-10-24.md",
     "学习日报/Day/2023-10-25.md",
-    "Pub/Template/日记模板.md",
-    "学习日报/Day/2023-10-32.md",
-    "Pub/Template/write.md",
     "Pub/Draw/未命名.canvas",
     "未命名.canvas"
   ]
