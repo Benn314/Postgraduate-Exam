@@ -1045,3 +1045,7 @@ bestFitNumber: 0
 > 突然被 Obsidian 的设计哲学所吸引，所有插件都来自 `Obsidian-sample-plugin` 所以底层通用的东西的一样的，大家开发出来的插件扩展只需要打包和配置在 `data.json`、`main.js`、`manifest.json`和开发者自定义的 json 文件中即可，优雅，太优雅了！
 
 ![](asset/Pasted%20image%2020231101144344.png)
+
+### [Obsidian 内容引用](学习日报/Day/2023-11-14.md#Obsidian%20内容引用)
+
+> 由于改了 wiki 双链的格式，所以直接在 `[ 显示文本 ]()` 中修改显示文本即可
