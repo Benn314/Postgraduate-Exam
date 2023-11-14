@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "c2f1e911f04af0db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数学一/高等数学/微积分的本质--3Blue1Brown.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7302b3cf19ddabd2",
             "type": "leaf",
             "state": {
@@ -122,8 +110,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6f2c9bdbbc316a36",
@@ -291,22 +278,32 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "4bc172454fbd6b16",
+  "active": "5317084c12f4dab0",
   "lastOpenFiles": [
-    "学习日报/Day/asset/Pasted Image 20231114201500.png",
-    "数学一/高等数学/微积分的本质--3Blue1Brown.md",
-    "数学一/高等数学/asset/Pasted image 20231114201237.png",
-    "数学一/高等数学/asset/Pasted image 20231114201104.png",
-    "数学一/高等数学/asset/Pasted image 20231114201004.png",
-    "数学一/高等数学/asset/Pasted image 20231114200200.png",
+    "408/00丨开篇词丨从今天起，跨过“数据结构与算法”这道坎.pdf",
     "学习日报/Day/2023-11-14.md",
-    "数学一/高等数学/asset/Pasted image 20231114195249.png",
+    "前期准备/前期准备.md",
+    "408/81-浏览器工作原理与实践/01-开篇词 (1讲)/00开篇词丨参透了浏览器的工作原理，你就能解决80%的前端难题【 微信号：itcodeba 】.mp4",
+    "408/81-浏览器工作原理与实践/01-开篇词 (1讲)/00开篇词丨参透了浏览器的工作原理，你就能解决80%的前端难题【 微信号：itcodeba 】.mp3",
+    "408/81-浏览器工作原理与实践/01-开篇词 (1讲)/00开篇词丨参透了浏览器的工作原理，你就能解决80%的前端难题【 微信号：itcodeba 】.html",
+    "408/81-浏览器工作原理与实践/02-宏观视角下的浏览器 (6讲)/01丨Chrome架构：仅仅打开了1个页面，为什么有4个进程？【 微信号：itcodeba 】.mp3",
+    "408/81-浏览器工作原理与实践/01-开篇词 (1讲)/00开篇词丨参透了浏览器的工作原理，你就能解决80%的前端难题【 微信号：itcodeba 】.pdf",
+    "408/81-浏览器工作原理与实践/01-开篇词 (1讲)/00开篇词丨参透了浏览器的工作原理，你就能解决80%的前端难题【 微信号：itcodeba 】.mp3.baiduyun.p.downloading",
+    "408/81-浏览器工作原理与实践/01-开篇词 (1讲)/00开篇词丨参透了浏览器的工作原理，你就能解决80%的前端难题【 微信号：itcodeba 】.html.baiduyun.p.downloading",
+    "408/81-浏览器工作原理与实践/01-开篇词 (1讲)/00开篇词丨参透了浏览器的工作原理，你就能解决80%的前端难题【 微信号：itcodeba 】.mp4.baiduyun.p.downloading",
+    "408/81-浏览器工作原理与实践/02-宏观视角下的浏览器 (6讲)/01丨Chrome架构：仅仅打开了1个页面，为什么有4个进程？【 微信号：itcodeba 】.html",
+    "前期准备/asset/Pasted image 20231114231937.png",
+    "数学一/高等数学/微积分的本质--3Blue1Brown.md",
+    "数学一/高等数学/asset/Pasted image 20231114205404.png",
+    "数学一/高等数学/asset/Pasted image 20231114205224.png",
+    "数学一/高等数学/asset/Pasted image 20231114204945.png",
+    "数学一/高等数学/asset/Pasted image 20231114204910.png",
+    "数学一/高等数学/asset/Pasted image 20231114204754.png",
+    "数学一/高等数学/asset/Pasted image 20231114204631.png",
+    "数学一/高等数学/asset/Pasted image 20231114204305.png",
+    "数学一/高等数学/asset/Pasted image 20231114203818.png",
+    "数学一/高等数学/asset/Pasted image 20231114202907.png",
     "学习日报/Obsidian工作流.md",
-    "学习日报/Day/asset/Pasted image 20231114163824.png",
-    "数学一/高等数学/asset/Pasted image 20231114162839.png",
-    "数学一/高等数学/asset/Pasted image 20231114161816.png",
-    "数学一/高等数学/asset/Pasted image 20231114160852.png",
-    "数学一/高等数学/asset/Pasted image 20231114160647.png",
     "README.md",
     "学习日报/Day/2023-10-31.md",
     "数学一/线性代数/线性代数的本质--3Blue1Brown.md",
@@ -315,24 +312,13 @@
     "Pub/Capture/Tasks.md",
     "学习日报/Day/2023-10-28.md",
     "学习日报/Day/2023-10-26.md",
-    "前期准备/前期准备.md",
-    "前期准备/24考研报名信息/~$农业大学计算机考研考纲.docx",
-    "前期准备/24考研报名信息/华南农业大学计算机考研考纲.docx",
-    "前期准备/24考研报名信息/暨南大学计算机考研/848计算机基础综合2024.pdf",
-    "前期准备/24考研报名信息/暨南大学计算机考研/848 计算机基础综合.doc",
-    "前期准备/24考研报名信息/暨南大学计算机考研",
     "学习日报/Day/2023-11-13.md",
-    "asset/aText/AutoBackup-2023-11-13-16-06-57.atext",
     "Pub/Template/日记模板.md",
     "学习日报/Day/2023-11-10.md",
     "学习日报/Day/2023-11-11.md",
-    "数学一/高等数学/asset",
-    "数学一/高等数学/未命名",
-    "数学一/高等数学",
     "学习日报/Day/2023-11-09.md",
     "学习日报/Day/2023-11-02.md",
     "学习日报/Day/2023-11-03.md",
-    "数学一/线性代数/asset",
     "学习日报/Day/2023-10-29.md",
     "Pub/Flashcards/卡片Demo.md",
     "Pub/Flashcards/Phase 1.md",
