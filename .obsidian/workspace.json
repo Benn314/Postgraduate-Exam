@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前期准备/前期准备.md",
+                "file": "数学一/高等数学/微积分的本质--3Blue1Brown.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2f1e911f04af0db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,8 +123,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6f2c9bdbbc316a36",
@@ -146,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前期准备/前期准备.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前期准备/前期准备.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -209,7 +221,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "前期准备/前期准备.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -279,8 +291,19 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "5317084c12f4dab0",
+  "active": "c2f1e911f04af0db",
   "lastOpenFiles": [
+    "前期准备/前期准备.md",
+    "README.md",
+    "数学一/高等数学/微积分的本质--3Blue1Brown.md",
+    "数学一/高等数学/asset/Pasted image 20231114143809.png",
+    "数学一/高等数学/asset/Pasted image 20231114143243.png",
+    "数学一/高等数学/asset/Pasted image 20231114143139.png",
+    "数学一/高等数学/asset/Pasted image 20231114143028.png",
+    "数学一/高等数学/asset/Pasted image 20231114142938.png",
+    "数学一/高等数学/asset/Pasted image 20231114142736.png",
+    "数学一/高等数学/asset/Pasted image 20231114142230.png",
+    "数学一/高等数学/asset/Pasted image 20231114142218.png",
     "前期准备/24考研报名信息/~$农业大学计算机考研考纲.docx",
     "前期准备/asset/Pasted image 20231114100545.png",
     "前期准备/24考研报名信息/华南农业大学计算机考研考纲.docx",
@@ -288,15 +311,6 @@
     "前期准备/24考研报名信息/暨南大学计算机考研/848 计算机基础综合.doc",
     "前期准备/24考研报名信息/暨南大学计算机考研",
     "前期准备/asset/Pasted image 20231114093542.png",
-    "前期准备/asset/Pasted image 20231114084004.png",
-    "数学一/高等数学/微积分的本质--3Blue1Brown.md",
-    "数学一/高等数学/asset/Pasted image 20231113171013.png",
-    "数学一/高等数学/asset/Pasted image 20231113170949.png",
-    "数学一/高等数学/asset/Pasted image 20231113170913.png",
-    "数学一/高等数学/asset/Pasted image 20231113170854.png",
-    "数学一/高等数学/asset/Pasted image 20231113165014.png",
-    "数学一/高等数学/asset/Pasted image 20231113164833.png",
-    "数学一/高等数学/asset/Pasted image 20231113164646.png",
     "学习日报/Day/2023-11-13.md",
     "asset/aText/AutoBackup-2023-11-13-16-06-57.atext",
     "数学一/线性代数/线性代数的本质--3Blue1Brown.md",
@@ -308,7 +322,6 @@
     "数学一/高等数学",
     "学习日报/Day/2023-11-09.md",
     "Pub/Capture/Tasks.md",
-    "前期准备/前期准备.md",
     "学习日报/Obsidian工作流.md",
     "学习日报/Day/2023-11-01.md",
     "学习日报/Day/2023-10-31.md",
@@ -316,7 +329,6 @@
     "Pub/Capture/read.md",
     "学习日报/Day/2023-11-03.md",
     "数学一/线性代数/asset",
-    "数学一/线性代数",
     "学习日报/Day/2023-10-29.md",
     "学习日报/Day/2023-10-28.md",
     "Pub/Flashcards/卡片Demo.md",
