@@ -13,31 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习日报/Obsidian工作流.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7ec97738c0a8275",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学习日报/Obsidian工作流.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "197834c12d296f1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学习日报/Day/2023-11-11.md",
+                "file": "数学一/高等数学/微积分的本质--3Blue1Brown.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习日报/Obsidian工作流.md",
+                "file": "数学一/高等数学/微积分的本质--3Blue1Brown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习日报/Obsidian工作流.md",
+                "file": "数学一/高等数学/微积分的本质--3Blue1Brown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -197,7 +173,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "学习日报/Obsidian工作流.md",
+                "file": "数学一/高等数学/微积分的本质--3Blue1Brown.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -269,21 +245,24 @@
   },
   "active": "7302b3cf19ddabd2",
   "lastOpenFiles": [
+    "学习日报/Day/2023-11-15.md",
+    "数学一/高等数学/微积分的本质--3Blue1Brown.md",
+    "学习日报/Day/asset/Pasted image 20231115172943.png",
+    "数学一/高等数学/asset/Pasted image 20231115172617.png",
+    "学习日报/Day/asset/Pasted image 20231115171854.png",
+    "数学一/高等数学/asset/Pasted image 20231115171512.png",
+    "数学一/高等数学/asset/Pasted image 20231115171440.png",
+    "数学一/高等数学/asset/Pasted image 20231115171305.png",
+    "数学一/高等数学/asset/Pasted image 20231115171047.png",
+    "数学一/高等数学/asset/Pasted image 20231115171021.png",
+    "数学一/高等数学/asset/Pasted image 20231115165350.png",
+    "学习日报/Obsidian工作流.md",
+    "数学一/高等数学/asset/Pasted image 20231115164501.png",
     "408/小册/README.md",
     "408/小册/新建文本文档.txt",
-    "学习日报/asset/Pasted image 20231115145515.png",
-    "数学一/高等数学/微积分的本质--3Blue1Brown.md",
-    "数学一/高等数学/asset/Pasted image 20231115145040.png",
-    "数学一/高等数学/asset/Pasted image 20231115144624.png",
-    "数学一/高等数学/asset/Pasted image 20231115144311.png",
-    "数学一/高等数学/asset/Pasted image 20231115144111.png",
-    "数学一/高等数学/asset/Pasted image 20231115144030.png",
-    "数学一/高等数学/asset/Pasted image 20231115143745.png",
-    "学习日报/Day/2023-11-15.md",
     "学习日报/Day/2023-11-14.md",
     "Pub/PDF-Annotator/Test-本地附件链接.md",
     "Pub/PDF-Annotator/Test-网络附件链接.md",
-    "学习日报/Day/asset/Pasted Image 20231115103029.png",
     "408/小册/数据结构与算法之美/00丨开篇词丨从今天起，跨过“数据结构与算法”这道坎.html",
     "408/小册/数据结构与算法之美",
     "408/小册/新建文件夹",
@@ -294,9 +273,6 @@
     "408/81-浏览器工作原理与实践/01-开篇词 (1讲)/00开篇词丨参透了浏览器的工作原理，你就能解决80%的前端难题【 微信号：itcodeba 】.mp4",
     "408/81-浏览器工作原理与实践/01-开篇词 (1讲)/00开篇词丨参透了浏览器的工作原理，你就能解决80%的前端难题【 微信号：itcodeba 】.mp3",
     "408/81-浏览器工作原理与实践/01-开篇词 (1讲)/00开篇词丨参透了浏览器的工作原理，你就能解决80%的前端难题【 微信号：itcodeba 】.html",
-    "前期准备/asset/Pasted image 20231114231937.png",
-    "数学一/高等数学/asset/Pasted image 20231114205404.png",
-    "学习日报/Obsidian工作流.md",
     "README.md",
     "学习日报/Day/2023-10-31.md",
     "数学一/线性代数/线性代数的本质--3Blue1Brown.md",
@@ -314,7 +290,6 @@
     "学习日报/Day/2023-11-03.md",
     "学习日报/Day/2023-10-29.md",
     "Pub/Flashcards/卡片Demo.md",
-    "Pub/Flashcards/Phase 1.md",
     "Pub/Draw/未命名.canvas",
     "未命名.canvas"
   ]

@@ -862,7 +862,7 @@
 		"Valid": true
 	}, {
 		"Actions": [
-			["Execute", "Calc"]
+			["Execute2", "calc.exe"]
 		],
 		"Name": "打开计算器",
 		"Sign": "O",
