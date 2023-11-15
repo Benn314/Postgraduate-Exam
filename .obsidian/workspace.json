@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5317084c12f4dab0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学习日报/Day/2023-11-14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7302b3cf19ddabd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习日报/Day/2023-11-14.md",
+                "file": "学习日报/Day/2023-11-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习日报/Day/2023-11-14.md",
+                "file": "学习日报/Day/2023-11-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习日报/Day/2023-11-14.md",
+                "file": "学习日报/Day/2023-11-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -208,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "学习日报/Day/2023-11-14.md",
+                "file": "学习日报/Day/2023-11-15.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -278,22 +266,26 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "5317084c12f4dab0",
+  "active": "7302b3cf19ddabd2",
   "lastOpenFiles": [
-    "408/00丨开篇词丨从今天起，跨过“数据结构与算法”这道坎.pdf",
     "学习日报/Day/2023-11-14.md",
+    "学习日报/Day/2023-11-15.md",
+    "Pub/PDF-Annotator/Test-本地附件链接.md",
+    "Pub/PDF-Annotator/Test-网络附件链接.md",
+    "学习日报/Day/asset/Pasted Image 20231115103029.png",
+    "数学一/高等数学/微积分的本质--3Blue1Brown.md",
+    "408/小册/数据结构与算法之美/00丨开篇词丨从今天起，跨过“数据结构与算法”这道坎.html",
+    "408/小册/数据结构与算法之美",
+    "408/小册/新建文件夹",
+    "408/小册",
+    "408/新建文件夹",
+    "408/00丨开篇词丨从今天起，跨过“数据结构与算法”这道坎.pdf",
     "前期准备/前期准备.md",
     "408/81-浏览器工作原理与实践/01-开篇词 (1讲)/00开篇词丨参透了浏览器的工作原理，你就能解决80%的前端难题【 微信号：itcodeba 】.mp4",
     "408/81-浏览器工作原理与实践/01-开篇词 (1讲)/00开篇词丨参透了浏览器的工作原理，你就能解决80%的前端难题【 微信号：itcodeba 】.mp3",
     "408/81-浏览器工作原理与实践/01-开篇词 (1讲)/00开篇词丨参透了浏览器的工作原理，你就能解决80%的前端难题【 微信号：itcodeba 】.html",
     "408/81-浏览器工作原理与实践/02-宏观视角下的浏览器 (6讲)/01丨Chrome架构：仅仅打开了1个页面，为什么有4个进程？【 微信号：itcodeba 】.mp3",
-    "408/81-浏览器工作原理与实践/01-开篇词 (1讲)/00开篇词丨参透了浏览器的工作原理，你就能解决80%的前端难题【 微信号：itcodeba 】.pdf",
-    "408/81-浏览器工作原理与实践/01-开篇词 (1讲)/00开篇词丨参透了浏览器的工作原理，你就能解决80%的前端难题【 微信号：itcodeba 】.mp3.baiduyun.p.downloading",
-    "408/81-浏览器工作原理与实践/01-开篇词 (1讲)/00开篇词丨参透了浏览器的工作原理，你就能解决80%的前端难题【 微信号：itcodeba 】.html.baiduyun.p.downloading",
-    "408/81-浏览器工作原理与实践/01-开篇词 (1讲)/00开篇词丨参透了浏览器的工作原理，你就能解决80%的前端难题【 微信号：itcodeba 】.mp4.baiduyun.p.downloading",
-    "408/81-浏览器工作原理与实践/02-宏观视角下的浏览器 (6讲)/01丨Chrome架构：仅仅打开了1个页面，为什么有4个进程？【 微信号：itcodeba 】.html",
     "前期准备/asset/Pasted image 20231114231937.png",
-    "数学一/高等数学/微积分的本质--3Blue1Brown.md",
     "数学一/高等数学/asset/Pasted image 20231114205404.png",
     "数学一/高等数学/asset/Pasted image 20231114205224.png",
     "数学一/高等数学/asset/Pasted image 20231114204945.png",
@@ -302,7 +294,6 @@
     "数学一/高等数学/asset/Pasted image 20231114204631.png",
     "数学一/高等数学/asset/Pasted image 20231114204305.png",
     "数学一/高等数学/asset/Pasted image 20231114203818.png",
-    "数学一/高等数学/asset/Pasted image 20231114202907.png",
     "学习日报/Obsidian工作流.md",
     "README.md",
     "学习日报/Day/2023-10-31.md",
@@ -323,8 +314,6 @@
     "Pub/Flashcards/卡片Demo.md",
     "Pub/Flashcards/Phase 1.md",
     "学习日报/Day/2023-10-27.md",
-    "Pub/Capture/未命名看板.md",
-    "学习日报/Day/2023-10-30.md",
     "Pub/Draw/未命名.canvas",
     "未命名.canvas"
   ]
