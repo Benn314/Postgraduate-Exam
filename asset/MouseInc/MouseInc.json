@@ -730,14 +730,14 @@
 			"Valid": true
 		}, {
 			"Actions": [
-				["SendKeys", "Ctrl+Shift+Right"]
+				["SendKeys", "Ctrl+Shift+Alt+Right"]
 			],
 			"Name": "展开/收起右侧边栏",
 			"Sign": "RIGHT-LEFT",
 			"Valid": true
 		}, {
 			"Actions": [
-				["SendKeys", "Ctrl+Shift+Left"]
+				["SendKeys", "Ctrl+Shift+Alt+Left"]
 			],
 			"Name": "展开/收起左侧边栏",
 			"Sign": "LEFT-RIGHT",

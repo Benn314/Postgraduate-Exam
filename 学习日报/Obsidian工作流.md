@@ -17,7 +17,7 @@
 
 <center><strong>Obsidian</strong></center>
 
-![](asset/Pasted%20image%2020231109153812.png)
+![](asset/Pasted%20image%2020231115145515.png)
 
  <center><strong>浏览器</strong></center>
 
