@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习日报/Day/2023-11-16.md",
+                "file": "学习日报/Day/2023-11-17.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a2d5124284e39be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学习日报/Obsidian工作流.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习日报/Day/2023-11-16.md",
+                "file": "学习日报/Day/2023-11-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习日报/Day/2023-11-16.md",
+                "file": "学习日报/Day/2023-11-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "学习日报/Day/2023-11-16.md",
+                "file": "学习日报/Day/2023-11-17.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -246,19 +258,22 @@
   "active": "7302b3cf19ddabd2",
   "lastOpenFiles": [
     "数学一/高等数学/微积分的本质--3Blue1Brown.md",
-    "数学一/高等数学/asset/Pasted image 20231116103713.png",
-    "学习日报/Day/2023-11-16.md",
-    "学习日报/Day/2023-11-15.md",
-    "学习日报/Day/asset/Pasted image 20231115172943.png",
-    "数学一/高等数学/asset/Pasted image 20231115172617.png",
-    "学习日报/Day/asset/Pasted image 20231115171854.png",
-    "数学一/高等数学/asset/Pasted image 20231115171512.png",
-    "数学一/高等数学/asset/Pasted image 20231115171440.png",
-    "数学一/高等数学/asset/Pasted image 20231115171305.png",
-    "数学一/高等数学/asset/Pasted image 20231115171047.png",
-    "数学一/高等数学/asset/Pasted image 20231115171021.png",
-    "数学一/高等数学/asset/Pasted image 20231115165350.png",
+    "学习日报/Day/2023-11-17.md",
+    "学习日报/Day/asset/Pasted Image 20231116172707.png",
+    "数学一/高等数学/asset/Pasted image 20231116172436.png",
     "学习日报/Obsidian工作流.md",
+    "学习日报/Day/2023-11-16.md",
+    "学习日报/Day/asset/Pasted Image 20231116171238.jpeg",
+    "数学一/高等数学/asset/Pasted image 20231116165315.png",
+    "数学一/高等数学/asset/Pasted image 20231116165258.png",
+    "数学一/高等数学/asset/Pasted image 20231116164601.png",
+    "数学一/高等数学/asset/Pasted image 20231116164355.png",
+    "数学一/高等数学/asset/Pasted image 20231116164237.png",
+    "数学一/高等数学/asset/Pasted image 20231116164213.png",
+    "数学一/高等数学/asset/Pasted image 20231116163951.png",
+    "数学一/线性代数/线性代数的本质--3Blue1Brown.md",
+    "学习日报/Day/2023-10-31.md",
+    "学习日报/Day/2023-11-15.md",
     "408/小册/README.md",
     "408/小册/新建文本文档.txt",
     "学习日报/Day/2023-11-14.md",
@@ -275,8 +290,6 @@
     "408/81-浏览器工作原理与实践/01-开篇词 (1讲)/00开篇词丨参透了浏览器的工作原理，你就能解决80%的前端难题【 微信号：itcodeba 】.mp3",
     "408/81-浏览器工作原理与实践/01-开篇词 (1讲)/00开篇词丨参透了浏览器的工作原理，你就能解决80%的前端难题【 微信号：itcodeba 】.html",
     "README.md",
-    "学习日报/Day/2023-10-31.md",
-    "数学一/线性代数/线性代数的本质--3Blue1Brown.md",
     "学习日报/Day/2023-11-01.md",
     "Pub/Capture/read.md",
     "Pub/Capture/Tasks.md",
