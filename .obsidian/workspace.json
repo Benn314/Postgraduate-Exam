@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习日报/Day/2023-11-17.md",
+                "file": "数学二/高等数学/微积分的本质--3Blue1Brown.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习日报/Day/2023-11-17.md",
+                "file": "数学二/高等数学/微积分的本质--3Blue1Brown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习日报/Day/2023-11-17.md",
+                "file": "数学二/高等数学/微积分的本质--3Blue1Brown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "学习日报/Day/2023-11-17.md",
+                "file": "数学二/高等数学/微积分的本质--3Blue1Brown.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -235,7 +235,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 336.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,21 +257,22 @@
   },
   "active": "7302b3cf19ddabd2",
   "lastOpenFiles": [
-    "数学一/高等数学/微积分的本质--3Blue1Brown.md",
+    "数学二/高等数学/asset/Pasted image 20231117172435.png",
+    "数学二/高等数学/asset/Pasted image 20231117172415.png",
+    "数学二/高等数学/asset/Pasted image 20231117172404.png",
+    "数学二/高等数学/asset/Pasted image 20231117172239.png",
+    "数学二/高等数学/asset/Pasted image 20231117172139.png",
+    "数学二/高等数学/asset/Pasted image 20231117172103.png",
+    "数学二/高等数学/asset/Pasted image 20231117172053.png",
+    "数学二/高等数学/asset/Pasted image 20231117171602.png",
+    "数学二/高等数学/asset/Pasted image 20231117171449.png",
+    "数学二/高等数学/asset/Pasted image 20231117171358.png",
+    "数学二/高等数学/asset/Pasted image 20231117171203.png",
+    "数学二/高等数学/微积分的本质--3Blue1Brown.md",
     "学习日报/Day/2023-11-17.md",
-    "学习日报/Day/asset/Pasted Image 20231116172707.png",
-    "数学一/高等数学/asset/Pasted image 20231116172436.png",
-    "学习日报/Obsidian工作流.md",
     "学习日报/Day/2023-11-16.md",
-    "学习日报/Day/asset/Pasted Image 20231116171238.jpeg",
-    "数学一/高等数学/asset/Pasted image 20231116165315.png",
-    "数学一/高等数学/asset/Pasted image 20231116165258.png",
-    "数学一/高等数学/asset/Pasted image 20231116164601.png",
-    "数学一/高等数学/asset/Pasted image 20231116164355.png",
-    "数学一/高等数学/asset/Pasted image 20231116164237.png",
-    "数学一/高等数学/asset/Pasted image 20231116164213.png",
-    "数学一/高等数学/asset/Pasted image 20231116163951.png",
-    "数学一/线性代数/线性代数的本质--3Blue1Brown.md",
+    "学习日报/Obsidian工作流.md",
+    "数学二/线性代数/线性代数的本质--3Blue1Brown.md",
     "学习日报/Day/2023-10-31.md",
     "学习日报/Day/2023-11-15.md",
     "408/小册/README.md",
@@ -302,7 +303,6 @@
     "学习日报/Day/2023-11-09.md",
     "学习日报/Day/2023-11-02.md",
     "学习日报/Day/2023-11-03.md",
-    "学习日报/Day/2023-10-29.md",
     "Pub/Draw/未命名.canvas",
     "未命名.canvas"
   ]
