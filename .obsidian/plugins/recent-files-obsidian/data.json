@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "note",
+      "path": "数学二/高等数学/基础/note.md"
+    },
+    {
+      "basename": "2023-11-20",
+      "path": "学习日报/Day/2023-11-20.md"
+    },
+    {
+      "basename": "README",
+      "path": "数学二/高等数学/基础/README.md"
+    },
+    {
+      "basename": "read",
+      "path": "Pub/Capture/read.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Pub/Capture/Tasks.md"
+    },
+    {
       "basename": "2023-11-19",
       "path": "学习日报/Day/2023-11-19.md"
     },
@@ -49,16 +69,8 @@
       "path": "Pub/PDF-Annotator/Test-网络附件链接.md"
     },
     {
-      "basename": "read",
-      "path": "Pub/Capture/read.md"
-    },
-    {
       "basename": "2023-10-31",
       "path": "学习日报/Day/2023-10-31.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Pub/Capture/Tasks.md"
     },
     {
       "basename": "2023-10-28",
@@ -67,18 +79,6 @@
     {
       "basename": "2023-10-26",
       "path": "学习日报/Day/2023-10-26.md"
-    },
-    {
-      "basename": "2023-11-01",
-      "path": "学习日报/Day/2023-11-01.md"
-    },
-    {
-      "basename": "2023-11-13",
-      "path": "学习日报/Day/2023-11-13.md"
-    },
-    {
-      "basename": "日记模板",
-      "path": "Pub/Template/日记模板.md"
     }
   ],
   "omittedPaths": [],
