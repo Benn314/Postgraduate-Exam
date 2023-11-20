@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-11-19",
+      "path": "学习日报/Day/2023-11-19.md"
+    },
+    {
+      "basename": "前期准备",
+      "path": "前期准备/前期准备.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "微积分的本质--3Blue1Brown",
       "path": "数学二/高等数学/微积分的本质--3Blue1Brown.md"
     },
@@ -37,14 +49,6 @@
       "path": "Pub/PDF-Annotator/Test-网络附件链接.md"
     },
     {
-      "basename": "前期准备",
-      "path": "前期准备/前期准备.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "read",
       "path": "Pub/Capture/read.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "日记模板",
       "path": "Pub/Template/日记模板.md"
-    },
-    {
-      "basename": "2023-11-10",
-      "path": "学习日报/Day/2023-11-10.md"
     }
   ],
   "omittedPaths": [],

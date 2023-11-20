@@ -487,3 +487,50 @@ sin、cos 之类的一些重要函数等价于其泰勒级数，但有的函数 
 ![](asset/Pasted%20image%2020231117172415.png)
 ![](asset/Pasted%20image%2020231117172435.png)
 这另一个点我喜欢叫是 φ 的小弟，因为 φ 有的性质 它基本都有
+
+![](asset/Pasted%20image%2020231119142257.png)
+
+初始代入负值的话
+![](asset/Pasted%20image%2020231119142426.png)
+
+![](asset/Pasted%20image%2020231119140803.png)
+
+![](asset/Pasted%20image%2020231119144559.png)
+
+![](asset/Pasted%20image%2020231119144658.png)
+
+具体图像解释 见 [11-你在微积分课上学不到的知识\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1ob411y7L9?p=12&vd_source=1f9072e850dde202d6ddd4c60d9d334d) 09:00
+
+![](asset/Pasted%20image%2020231119145408.png)
+
+![](asset/Pasted%20image%2020231119145523.png)
+
+![](asset/Pasted%20image%2020231119145555.png)
+
+我们在 φ 附近放大可以发现![](asset/Pasted%20image%2020231119145715.png)
+
+实际的导数为 -0.38![](asset/Pasted%20image%2020231119145740.png) ![](asset/Pasted%20image%2020231119145813.png)
+
+而 1/φ 附近的点放大看![](asset/Pasted%20image%2020231119145859.png)所以不动点附近的点回来离它越来越远，计算一下你还能发现每次拉伸的倍数比 2 还要大，顺便一提，由于导数为负，这些点还会正负反转 不过导数的绝对值才是映射是否稳定的决定因素
+
+![](asset/Pasted%20image%2020231119150137.png)
+![](asset/Pasted%20image%2020231119150147.png)
+所谓稳定就是即时你动那么一小下，它也会趋于回到原处 而非远离
+
+![](asset/Pasted%20image%2020231119150315.png)
+是由此时导数的绝对值是否大于 1 所决定的
+
+![](asset/Pasted%20image%2020231119150430.png)
+按照取极限的情况来说
+![](asset/Pasted%20image%2020231119150617.png)
+
+![](asset/Pasted%20image%2020231119150713.png)
+![](asset/Pasted%20image%2020231119150718.png)
+
+> 最后一期的视频为之后学习大学数学的新知识打开了思考的思路，很不错！
+
+
+
+
+
+
