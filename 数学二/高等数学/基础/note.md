@@ -31,3 +31,36 @@
 
 - 函数研究某点的极限函数跟在该点有没有定义没有关系，因为 x 取不到该点
 
+[几何平均数 - 维基百科](https://www.wikiwand.com/zh-hans/%E5%87%A0%E4%BD%95%E5%B9%B3%E5%9D%87%E6%95%B0)
+
+[算术-几何平均值不等式 - 维基百科](https://www.wikiwand.com/zh-hans/%E7%AE%97%E6%9C%AF-%E5%87%A0%E4%BD%95%E5%B9%B3%E5%9D%87%E5%80%BC%E4%B8%8D%E7%AD%89%E5%BC%8F)
+
+[均值不等式\_百度百科](https://baike.baidu.com/item/%E5%9D%87%E5%80%BC%E4%B8%8D%E7%AD%89%E5%BC%8F/8046796)
+
+![](asset/Pasted%20image%2020231121085318.png)
+
+ξ 取值不同，δ 取值也会改变，它们是对应关系
+
+[常用数学符号 markdown 语法](学习日报/Day/2023-11-21.md#常用数学符号%20markdown%20语法)
+
+![](asset/Pasted%20image%2020231121091036.png)
+
+![](asset/Pasted%20image%2020231121091231.png)
+
+[指数函数 - 维基百科](https://www.wikiwand.com/zh-hans/%E6%8C%87%E6%95%B0%E5%87%BD%E6%95%B0)
+
+> 指数函数的底数大于 1 和大于 0 小于 1 的底数，图像相反
+
+![](asset/Pasted%20image%2020231121092311.png)
+举个例子
+![](asset/Pasted%20image%2020231121092606.png)
+
+![](asset/Pasted%20image%2020231121092945.png)
+
+![|450](asset/Pasted%20image%2020231121093204.png)
+
+![|500](asset/Pasted%20image%2020231121093611.png) 因为没有影响
+
+![](asset/Pasted%20image%2020231121093848.png)
+
+
