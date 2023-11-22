@@ -9,12 +9,20 @@
       "path": "学习日报/Day/2023-11-22.md"
     },
     {
-      "basename": "Tasks",
-      "path": "Pub/Capture/Tasks.md"
-    },
-    {
       "basename": "2023-11-21",
       "path": "学习日报/Day/2023-11-21.md"
+    },
+    {
+      "basename": "24汤家凤高数辅导讲义【基础 强化 提高】【后续完整更新+VX：yxmm2024，公众号：研学木木】",
+      "path": "数学二/高等数学/基础/24汤家凤高数辅导讲义【基础 强化 提高】【后续完整更新+VX：yxmm2024，公众号：研学木木】.pdf"
+    },
+    {
+      "basename": "汤家凤：2024考研高等数学辅导讲义（零基础篇）【后续完整更新+VX：yxmm2024，公众号：研学木木】",
+      "path": "数学二/高等数学/基础/汤家凤：2024考研高等数学辅导讲义（零基础篇）【后续完整更新+VX：yxmm2024，公众号：研学木木】.pdf"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Pub/Capture/Tasks.md"
     },
     {
       "basename": "前期准备",
@@ -71,14 +79,6 @@
     {
       "basename": "Test-本地附件链接",
       "path": "Pub/PDF-Annotator/Test-本地附件链接.md"
-    },
-    {
-      "basename": "Test-网络附件链接",
-      "path": "Pub/PDF-Annotator/Test-网络附件链接.md"
-    },
-    {
-      "basename": "2023-10-31",
-      "path": "学习日报/Day/2023-10-31.md"
     }
   ],
   "omittedPaths": [],
