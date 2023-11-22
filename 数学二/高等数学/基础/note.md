@@ -246,7 +246,7 @@ Notes：
 - $artsinx-x$ ~ $\frac{x^3}{6}$
 - $x-ln(1+x)$ ~ $\frac{x^2}{2}$
 - $tanx-x$ ~ $\frac{x^3}{3}$
-- $x-arctanx$ ~ $\frac{x^3}{3}$ 
+- $x-arctanx$ ~ $\frac{x^3}{3}$  ^4b839b
 
 ^219k2m
 
@@ -285,5 +285,48 @@ Notes：
 ![](asset/Pasted%20image%2020231122164605.png)
 
 ![](asset/Pasted%20image%2020231122164826.png)
+![|475](asset/Pasted%20image%2020231122203321.png)
 
-$(1+x)^{1/x}$ 当 $lim_{x \to 0}$ 结果为 1
+> 很重要的一句话：当  $lim_{x \to 0}$ $(1+x)^{1/x}$ 或者 当 $lim_{x \to ∞}$ $(1+ \frac{1}{x})^x$  结果为 e
+
+![](asset/Pasted%20image%2020231122204105.png)
+
+![](asset/Pasted%20image%2020231122204548.png)
+![](asset/Pasted%20image%2020231122204527.png)
+
+#### $\frac{\infty}{\infty}$ 型
+
+![](asset/Pasted%20image%2020231122205920.png)
+![](asset/Pasted%20image%2020231122210107.png)
+![](asset/Pasted%20image%2020231122210318.png)
+
+好题
+![](asset/Pasted%20image%2020231122211533.png)
+
+回顾一下![](asset/Pasted%20image%2020231122212151.png)
+
+![](asset/Pasted%20image%2020231122212440.png)
+
+![](asset/Pasted%20image%2020231122211926.png)
+
+#### $0×\infty$ 型
+
+![](asset/Pasted%20image%2020231122212630.png)
+
+#### $\infty - \infty$ 型
+
+> 基础阶段掌握两种情况：有分母的和没有分母的
+
+[等价无穷小公式](#^4b839b)
+
+##### 没有分母的情况
+
+![](asset/Pasted%20image%2020231122213416.png)
+![](asset/Pasted%20image%2020231122214733.png)
+具体化简步骤如下所示：
+![|525](asset/5045b05a3928c9e69f4d4818ae8c036.jpg)
+![](asset/Pasted%20image%2020231122214935.png)
+因为趋于无穷是可以这么做的（抓大放小）理解一下就懂了，追及无穷的速度反映在阶次数
+
+##### 有分母的情况
+
