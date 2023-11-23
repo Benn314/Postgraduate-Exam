@@ -13,7 +13,7 @@
 
 ![](asset/Pasted%20image%2020231120204832.png)
 
-
+补充正弦函数图像：![](asset/Pasted%20image%2020231123145358.png)
 
 
 
@@ -107,7 +107,7 @@ Notes
 ![](asset/Pasted%20image%2020231121153757.png)
 ![](asset/Pasted%20image%2020231121153906.png)
 
-![|475](asset/Pasted%20image%2020231121154000.png)
+![|475](asset/Pasted%20image%2020231121154000.png) #重大考点 
 
 $为什么2^n=(1+1)^n=C^0_n+C^1_n+C^2_n+...+C^n_n$ --> [答案](学习日报/Day/2023-11-21.md#为什么2%20n%201%201%20n%20C%200_n%20C%201_n%20C%202_n%20C%20n_n)
 
