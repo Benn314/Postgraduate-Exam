@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学二/高等数学/基础/note.md",
+                "file": "学习日报/Day/2023-11-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "6f2c9bdbbc316a36",
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学二/高等数学/基础/note.md",
+                "file": "学习日报/Day/2023-11-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学二/高等数学/基础/note.md",
+                "file": "学习日报/Day/2023-11-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "数学二/高等数学/基础/note.md",
+                "file": "学习日报/Day/2023-11-23.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -269,12 +269,13 @@
   },
   "active": "7302b3cf19ddabd2",
   "lastOpenFiles": [
-    "学习日报/Day/2023-11-21.md",
     "数学二/高等数学/基础/note.md",
     "Pub/Capture/Tasks.md",
+    "学习日报/Day/2023-11-23.md",
+    "Pub/Capture/read.md",
+    "学习日报/Day/2023-11-21.md",
     "数学二/高等数学/基础/asset/Pasted image 20231123145358.png",
     "数学二/高等数学/基础/asset/Pasted image 20231123145347.png",
-    "学习日报/Day/2023-11-23.md",
     "数学二/高等数学/基础/asset/Pasted image 20231123110129.png",
     "数学二/高等数学/基础/asset/Pasted image 20231123110059.png",
     "数学二/高等数学/基础/asset/Pasted image 20231123105725.png",
@@ -302,7 +303,6 @@
     "学习日报/Day/2023-11-16.md",
     "学习日报/Day/2023-11-20.md",
     "数学二/高等数学/基础/README.md",
-    "Pub/Capture/read.md",
     "学习日报/Day/2023-11-19.md",
     "学习日报/Day/2023-11-01.md",
     "README.md",
