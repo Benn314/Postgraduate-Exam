@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pub/Capture/Tasks.md",
+                "file": "数学二/高等数学/基础/note.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Capture/Tasks.md",
+                "file": "数学二/高等数学/基础/note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Capture/Tasks.md",
+                "file": "数学二/高等数学/基础/note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pub/Capture/Tasks.md",
+                "file": "数学二/高等数学/基础/note.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -245,12 +245,13 @@
   },
   "active": "16e2ce14bd58102b",
   "lastOpenFiles": [
+    "Pub/Flashcards/Phase 1.md",
     "数学二/高等数学/基础/note.md",
+    "Pub/Capture/Tasks.md",
     "学习日报/Day/2023-11-24.md",
     "学习日报/Day/asset/Pasted image 20231124175332.png",
     "Pub/Flashcards/极限不定型情况分析.md",
     "Pub/Flashcards/asset/Pasted image 20231124174803.png",
-    "Pub/Flashcards/Phase 1.md",
     "Pub/Flashcards/asset/Pasted image 20231124173635.png",
     "Pub/Flashcards/asset/Pasted image 20231124173343.png",
     "学习日报/Day/asset/Pasted Image 20231124172242.png",
@@ -261,7 +262,6 @@
     "学习日报/Day/asset/Pasted image 20231124150435.png",
     "Pub/Capture/read.md",
     "学习日报/Day/2023-11-23.md",
-    "Pub/Capture/Tasks.md",
     "Pub/Flashcards/卡片Demo.md",
     "学习日报/Day/asset/173b62ba89a9b32c8e741b2a82ab9a5.jpg",
     "数学二/高等数学/基础/asset/1663c09253c1c20fb6045d8df75476b.png",
