@@ -4,7 +4,8 @@
     "flashcardGoodText": "记得",
     "flashcardHardText": "较难",
     "flashcardTags": [
-      "#flashcards"
+      "#flashcards",
+      "#inequation"
     ],
     "convertFoldersToDecks": false,
     "cardCommentOnSameLine": false,
@@ -38,7 +39,7 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2023-11-23",
+  "buryDate": "2023-11-24",
   "buryList": [],
   "historyDeck": null
 }

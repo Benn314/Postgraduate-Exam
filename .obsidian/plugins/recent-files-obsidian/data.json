@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "note",
-      "path": "数学二/高等数学/基础/note.md"
-    },
-    {
-      "basename": "read",
-      "path": "Pub/Capture/read.md"
-    },
-    {
       "basename": "2023-11-24",
       "path": "学习日报/Day/2023-11-24.md"
     },
     {
-      "basename": "等价无穷小",
-      "path": "Pub/Flashcards/等价无穷小.md"
+      "basename": "note",
+      "path": "数学二/高等数学/基础/note.md"
+    },
+    {
+      "basename": "极限不定型情况分析",
+      "path": "Pub/Flashcards/极限不定型情况分析.md"
+    },
+    {
+      "basename": "Phase 1",
+      "path": "Pub/Flashcards/Phase 1.md"
+    },
+    {
+      "basename": "2023-11-21",
+      "path": "学习日报/Day/2023-11-21.md"
+    },
+    {
+      "basename": "read",
+      "path": "Pub/Capture/read.md"
     },
     {
       "basename": "2023-11-23",
@@ -27,10 +35,6 @@
     {
       "basename": "卡片Demo",
       "path": "Pub/Flashcards/卡片Demo.md"
-    },
-    {
-      "basename": "2023-11-21",
-      "path": "学习日报/Day/2023-11-21.md"
     },
     {
       "basename": "Obsidian工作流",
@@ -75,10 +79,6 @@
     {
       "basename": "微积分的本质--3Blue1Brown",
       "path": "数学二/高等数学/微积分的本质--3Blue1Brown.md"
-    },
-    {
-      "basename": "2023-11-17",
-      "path": "学习日报/Day/2023-11-17.md"
     }
   ],
   "omittedPaths": [],
