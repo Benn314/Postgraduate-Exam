@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习日报/Day/2023-11-23.md",
-                "mode": "source",
+                "file": "数学二/高等数学/基础/note.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "6f2c9bdbbc316a36",
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习日报/Day/2023-11-23.md",
+                "file": "数学二/高等数学/基础/note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习日报/Day/2023-11-23.md",
+                "file": "数学二/高等数学/基础/note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "学习日报/Day/2023-11-23.md",
+                "file": "数学二/高等数学/基础/note.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -269,16 +269,16 @@
   },
   "active": "7302b3cf19ddabd2",
   "lastOpenFiles": [
-    "学习日报/Day/2023-11-24.md",
+    "Pub/Capture/read.md",
     "数学二/高等数学/基础/note.md",
+    "学习日报/Day/2023-11-24.md",
     "Pub/Flashcards/等价无穷小.md",
-    "Pub/Capture/Tasks.md",
     "学习日报/Day/2023-11-23.md",
+    "Pub/Capture/Tasks.md",
     "Pub/Flashcards/卡片Demo.md",
     "学习日报/Day/asset/173b62ba89a9b32c8e741b2a82ab9a5.jpg",
     "数学二/高等数学/基础/asset/1663c09253c1c20fb6045d8df75476b.png",
     "学习日报/Day/2023-11-21.md",
-    "Pub/Capture/read.md",
     "数学二/高等数学/基础/asset/Pasted image 20231123145358.png",
     "数学二/高等数学/基础/asset/Pasted image 20231123145347.png",
     "数学二/高等数学/基础/asset/Pasted image 20231123110129.png",
