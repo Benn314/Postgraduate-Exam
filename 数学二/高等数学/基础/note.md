@@ -442,4 +442,32 @@ x 趋于 2 这个点可代入原式，然后只需要分析 $arctan\frac{1}{x-2}
 
 
 
+# 2-导数与微分 ①
 
+## 定义
+
+![](asset/Pasted%20image%2020231125152358.png)
+上面列举了两种求微分的方式，下图用的第一种方式
+![](asset/Pasted%20image%2020231125153101.png)
+左右导数不等说明函数在该点不连续
+
+![](asset/Pasted%20image%2020231125153804.png)
+
+![](asset/Pasted%20image%2020231125154157.png)
+![](asset/Pasted%20image%2020231125154235.png)
+所以，连续不一定可导，可导一定连续
+![](asset/Pasted%20image%2020231125154415.png)
+
+![](asset/Pasted%20image%2020231125155655.png)运用到了注解 ①
+
+⑤ 设函数 f(x) 可导，若 f(x) 为奇函数，则 f'(x) 为偶函数；若 f(x) 为偶函数，则 f'(x) 为奇函数
+
+### 高阶导数
+
+> 讲义 P35
+
+![](asset/Pasted%20image%2020231125184956.png)
+
+### 可微
+
+![](asset/Pasted%20image%2020231125185929.png)

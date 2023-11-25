@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1746b9c809e058ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学习日报/Day/2023-11-25.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学二/高等数学/基础/note.md",
+                "file": "学习日报/Day/2023-11-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学二/高等数学/基础/note.md",
+                "file": "学习日报/Day/2023-11-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "数学二/高等数学/基础/note.md",
+                "file": "学习日报/Day/2023-11-25.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -243,29 +256,30 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "4bc172454fbd6b16",
+  "active": "1746b9c809e058ec",
   "lastOpenFiles": [
+    "学习日报/Day/asset/Pasted image 20231125190838.png",
+    "数学二/高等数学/基础/note.md",
+    "学习日报/Day/2023-11-25.md",
+    "数学二/高等数学/基础/asset/Pasted image 20231125185929.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231125184956.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231125155655.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231125154415.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231125154235.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231125154157.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231125153804.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231125153101.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231125152358.png",
     "学习日报/Day/asset/Pasted Image 20231124205322.png",
     "Pub/Flashcards/Phase 1.md",
-    "数学二/高等数学/基础/note.md",
     "Pub/Capture/Tasks.md",
     "学习日报/Day/2023-11-24.md",
-    "学习日报/Day/asset/Pasted image 20231124175332.png",
     "Pub/Flashcards/极限不定型情况分析.md",
-    "Pub/Flashcards/asset/Pasted image 20231124174803.png",
-    "Pub/Flashcards/asset/Pasted image 20231124173635.png",
-    "Pub/Flashcards/asset/Pasted image 20231124173343.png",
-    "学习日报/Day/asset/Pasted Image 20231124172242.png",
-    "Pub/Flashcards/asset/Pasted image 20231124172147.png",
     "Pub/Flashcards/asset",
-    "数学二/高等数学/基础/asset/6cb55d187240463d5581a4251f36bb3.jpg",
     "学习日报/Day/2023-11-21.md",
-    "学习日报/Day/asset/Pasted image 20231124150435.png",
     "Pub/Capture/read.md",
     "学习日报/Day/2023-11-23.md",
     "Pub/Flashcards/卡片Demo.md",
-    "学习日报/Day/asset/173b62ba89a9b32c8e741b2a82ab9a5.jpg",
-    "数学二/高等数学/基础/asset/1663c09253c1c20fb6045d8df75476b.png",
     "学习日报/Obsidian工作流.md",
     "学习日报/Day/2023-11-22.md",
     "数学二/高等数学/基础/24汤家凤高数辅导讲义【基础 强化 提高】【后续完整更新+VX：yxmm2024，公众号：研学木木】.pdf",
@@ -290,7 +304,6 @@
     "数学二/高等数学/微积分的本质--3Blue1Brown.md",
     "学习日报/Day/2023-11-17.md",
     "数学二/线性代数/线性代数的本质--3Blue1Brown.md",
-    "学习日报/Day/2023-11-15.md",
     "Pub/Draw/未命名.canvas",
     "未命名.canvas"
   ]

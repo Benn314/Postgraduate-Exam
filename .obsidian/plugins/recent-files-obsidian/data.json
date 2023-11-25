@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-11-25",
+      "path": "学习日报/Day/2023-11-25.md"
+    },
+    {
       "basename": "note",
       "path": "数学二/高等数学/基础/note.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "微积分的本质--3Blue1Brown",
-      "path": "数学二/高等数学/微积分的本质--3Blue1Brown.md"
     }
   ],
   "omittedPaths": [],
