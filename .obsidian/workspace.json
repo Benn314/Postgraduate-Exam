@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习日报/Day/2023-11-25.md",
+                "file": "数学二/高等数学/基础/note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习日报/Day/2023-11-25.md",
+                "file": "数学二/高等数学/基础/note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -186,7 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "学习日报/Day/2023-11-25.md",
+                "file": "数学二/高等数学/基础/note.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,23 +255,24 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "1746b9c809e058ec",
+  "active": "16e2ce14bd58102b",
   "lastOpenFiles": [
-    "学习日报/Day/asset/Pasted image 20231125190838.png",
-    "数学二/高等数学/基础/note.md",
-    "学习日报/Day/2023-11-25.md",
-    "数学二/高等数学/基础/asset/Pasted image 20231125185929.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231125184956.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231125155655.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231125154415.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231125154235.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231125154157.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231125153804.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231125153101.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231125152358.png",
-    "学习日报/Day/asset/Pasted Image 20231124205322.png",
-    "Pub/Flashcards/Phase 1.md",
+    "数学二/高等数学/基础/asset/Pasted image 20231125203005.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231125202745.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231125202350.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231125202143.png",
+    "asset/aText/AutoBackup-2023-11-25-20-21-25.atext",
+    "数学二/高等数学/基础/asset/Pasted image 20231125201751.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231125201543.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231125200936.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231125200817.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231125200643.png",
     "Pub/Capture/Tasks.md",
+    "数学二/高等数学/基础/note.md",
+    "数学二/高等数学/基础/asset/Pasted image 20231125195325.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231125195031.png",
+    "学习日报/Day/2023-11-25.md",
+    "Pub/Flashcards/Phase 1.md",
     "学习日报/Day/2023-11-24.md",
     "Pub/Flashcards/极限不定型情况分析.md",
     "Pub/Flashcards/asset",
@@ -293,7 +293,6 @@
     "英语二/田静-长难句&语法&翻译/24田静句句真研【英语二，答案解析册】【后续完整更新+VX：yxmm2024，公众号：研学木木】.pdf.baiduyun.p.downloading",
     "英语二/田静-长难句&语法&翻译/24田静句句真研【英语二】【后续完整更新+VX：yxmm2024，公众号：研学木木】.pdf.baiduyun.p.downloading",
     "英语二/田静-长难句&语法&翻译/24田静句句真研【静下心来】【后续完整更新+VX：yxmm2024，公众号：研学木木】.pdf.baiduyun.p.downloading",
-    "英语二/田静-长难句&语法&翻译",
     "学习日报/Day/2023-11-10.md",
     "学习日报/Day/2023-11-16.md",
     "学习日报/Day/2023-11-20.md",
