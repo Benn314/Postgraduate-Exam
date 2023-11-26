@@ -26,7 +26,9 @@
     "tagsToReview": [
       "#review"
     ],
-    "noteFoldersToIgnore": [],
+    "noteFoldersToIgnore": [
+      "Pub/Flashcards/卡片Demo.md"
+    ],
     "openRandomNote": false,
     "autoNextNote": false,
     "disableFileMenuReviewOptions": false,
@@ -39,7 +41,7 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2023-11-24",
+  "buryDate": "2023-11-26",
   "buryList": [],
   "historyDeck": null
 }

@@ -5,12 +5,16 @@
       "path": "数学二/高等数学/基础/note.md"
     },
     {
-      "basename": "Tasks",
-      "path": "Pub/Capture/Tasks.md"
+      "basename": "2023-11-26",
+      "path": "学习日报/Day/2023-11-26.md"
     },
     {
       "basename": "2023-11-25",
       "path": "学习日报/Day/2023-11-25.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Pub/Capture/Tasks.md"
     },
     {
       "basename": "Phase 1",
@@ -75,10 +79,6 @@
     {
       "basename": "2023-11-19",
       "path": "学习日报/Day/2023-11-19.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     }
   ],
   "omittedPaths": [],
