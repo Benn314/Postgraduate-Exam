@@ -583,3 +583,28 @@ x 趋于 2 这个点可代入原式，然后只需要分析 $arctan\frac{1}{x-2}
 
 ![](asset/Pasted%20image%2020231126113118.png)
 ![](asset/Pasted%20image%2020231126113045.png)
+![](asset/Pasted%20image%2020231126145416.png)
+注意求导的对象，是 dy/dx，还是 dy/dt，这很重要，上面例题 1 解题过程看讲义比较明朗![](asset/Pasted%20image%2020231126145340.png)
+
+![](asset/Pasted%20image%2020231126145750.png)
+
+## 五、分段函数求导
+
+> 一个重要的点是，先看是否连续，连续再看是否可导
+
+![](asset/Pasted%20image%2020231126150337.png) 第三步骤是求 f(x) 在 x=0 点是否可导（可导说明在该点附近的曲线光滑有斜率，然后因为 f(0)是在 sin2x/x 中是取不到的点，所以要进行微分单独计算才能知道情况）![](asset/Pasted%20image%2020231126150816.png)
+
+![](asset/Pasted%20image%2020231126152740.png) ![](asset/Pasted%20image%2020231126153844.png)![|400](asset/Pasted%20image%2020231126154101.png)
+
+[可导跟极限存在是什么关系](学习日报/Day/2023-11-26.md#可导跟极限存在是什么关系)
+
+## 六、高阶导数
+
+> 不是基础阶段的重点，高阶导数主要运用**归纳法**
+> 
+> 根据三角函数的和角公式
+> $sin(\alpha)+cos(\alpha)=\sqrt{2}·sin(\alpha+\frac{\pi}{4})$
+
+![](asset/Pasted%20image%2020231126160815.png)
+
+
