@@ -1,28 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "note",
-      "path": "数学二/高等数学/基础/note.md"
-    },
-    {
-      "basename": "README",
-      "path": "408/小册/README.md"
-    },
-    {
       "basename": "2023-11-27",
       "path": "学习日报/Day/2023-11-27.md"
     },
     {
-      "basename": "2023-11-26",
-      "path": "学习日报/Day/2023-11-26.md"
+      "basename": "Tasks",
+      "path": "Pub/Capture/Tasks.md"
+    },
+    {
+      "basename": "note",
+      "path": "英语二/田静-长难句&语法&翻译/note.md"
+    },
+    {
+      "basename": "note",
+      "path": "数学二/高等数学/基础/note.md"
     },
     {
       "basename": "求导公式与法则",
       "path": "Pub/Flashcards/求导公式与法则.md"
     },
     {
-      "basename": "Tasks",
-      "path": "Pub/Capture/Tasks.md"
+      "basename": "README",
+      "path": "408/小册/README.md"
+    },
+    {
+      "basename": "2023-11-26",
+      "path": "学习日报/Day/2023-11-26.md"
     },
     {
       "basename": "2023-11-21",
@@ -75,10 +79,6 @@
     {
       "basename": "前期准备",
       "path": "前期准备/前期准备.md"
-    },
-    {
-      "basename": "2023-11-16",
-      "path": "学习日报/Day/2023-11-16.md"
     }
   ],
   "omittedPaths": [],

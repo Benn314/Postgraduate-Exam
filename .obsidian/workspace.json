@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学二/高等数学/基础/note.md",
+                "file": "英语二/田静-长难句&语法&翻译/note.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学二/高等数学/基础/note.md",
+                "file": "学习日报/Day/2023-11-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学二/高等数学/基础/note.md",
+                "file": "学习日报/Day/2023-11-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -196,7 +197,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "数学二/高等数学/基础/note.md",
+                "file": "学习日报/Day/2023-11-27.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -266,25 +267,27 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "16e2ce14bd58102b",
+  "active": "1746b9c809e058ec",
   "lastOpenFiles": [
-    "408/小册/README.md",
+    "Pub/Capture/Tasks.md",
+    "英语二/田静-长难句&语法&翻译/note.md",
+    "英语二/田静-长难句&语法&翻译/asset/Pasted image 20231127174044.png",
+    "英语二/田静-长难句&语法&翻译/asset",
     "数学二/高等数学/基础/note.md",
     "学习日报/Day/2023-11-27.md",
+    "数学二/高等数学/基础/asset/3c021573755e49485714ebc18eed235.jpg",
+    "Pub/Flashcards/求导公式与法则.md",
+    "学习日报/Day/asset/74ac56ce561ea166348f8361933d708.png",
     "学习日报/Day/2023-11-26.md",
+    "学习日报/Day/asset/Pasted Image 20231127145233.png",
+    "Pub/Flashcards/asset/Pasted image 20231127145031.png",
+    "Pub/Flashcards/asset/Pasted image 20231127142756.png",
+    "408/小册/README.md",
     "学习日报/Day/asset/Pasted Image 20231127100055.png",
     "数学二/高等数学/基础/asset/Pasted image 20231126211110.png",
-    "Pub/Flashcards/求导公式与法则.md",
     "Pub/Flashcards/asset/Pasted image 20231126195323.png",
     "Pub/Flashcards/asset/Pasted image 20231126195313.png",
-    "Pub/Flashcards/asset/Pasted image 20231126195251.png",
-    "Pub/Flashcards/asset/Pasted image 20231126195234.png",
-    "Pub/Flashcards/asset/Pasted image 20231126195204.png",
-    "Pub/Flashcards/asset/Pasted image 20231126195151.png",
-    "Pub/Flashcards/asset/Pasted image 20231126195059.png",
-    "Pub/Flashcards/asset/Pasted image 20231126195035.png",
     "学习日报/Day/2023-11-25.md",
-    "Pub/Capture/Tasks.md",
     "学习日报/Day/2023-11-21.md",
     "asset/aText/AutoBackup-2023-11-25-20-21-25.atext",
     "Pub/Flashcards/Phase 1.md",
@@ -306,14 +309,11 @@
     "英语二/田静-长难句&语法&翻译/24田静句句真研【英语二，答案解析册】【后续完整更新+VX：yxmm2024，公众号：研学木木】.pdf",
     "英语二/田静-长难句&语法&翻译/24田静句句真研【英语二，答案解析册】【后续完整更新+VX：yxmm2024，公众号：研学木木】.pdf.baiduyun.p.downloading",
     "英语二/田静-长难句&语法&翻译/24田静句句真研【英语二】【后续完整更新+VX：yxmm2024，公众号：研学木木】.pdf.baiduyun.p.downloading",
-    "英语二/田静-长难句&语法&翻译/24田静句句真研【静下心来】【后续完整更新+VX：yxmm2024，公众号：研学木木】.pdf.baiduyun.p.downloading",
     "学习日报/Day/2023-11-10.md",
     "学习日报/Day/2023-11-16.md",
     "学习日报/Day/2023-11-20.md",
     "数学二/高等数学/基础/README.md",
     "学习日报/Day/2023-11-19.md",
-    "学习日报/Day/2023-11-01.md",
-    "README.md",
     "Pub/Draw/未命名.canvas",
     "未命名.canvas"
   ]
