@@ -5,12 +5,20 @@
       "path": "数学二/高等数学/基础/note.md"
     },
     {
-      "basename": "求导公式与法则",
-      "path": "Pub/Flashcards/求导公式与法则.md"
+      "basename": "README",
+      "path": "408/小册/README.md"
+    },
+    {
+      "basename": "2023-11-27",
+      "path": "学习日报/Day/2023-11-27.md"
     },
     {
       "basename": "2023-11-26",
       "path": "学习日报/Day/2023-11-26.md"
+    },
+    {
+      "basename": "求导公式与法则",
+      "path": "Pub/Flashcards/求导公式与法则.md"
     },
     {
       "basename": "Tasks",
@@ -71,14 +79,6 @@
     {
       "basename": "2023-11-16",
       "path": "学习日报/Day/2023-11-16.md"
-    },
-    {
-      "basename": "2023-11-20",
-      "path": "学习日报/Day/2023-11-20.md"
-    },
-    {
-      "basename": "README",
-      "path": "数学二/高等数学/基础/README.md"
     }
   ],
   "omittedPaths": [],
