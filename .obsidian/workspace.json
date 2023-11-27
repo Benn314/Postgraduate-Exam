@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6f2c9bdbbc316a36",
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Flashcards/求导公式与法则.md",
+                "file": "数学二/高等数学/基础/note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Flashcards/求导公式与法则.md",
+                "file": "数学二/高等数学/基础/note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pub/Flashcards/求导公式与法则.md",
+                "file": "数学二/高等数学/基础/note.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -268,10 +268,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "0e1183eaa48c8f93",
+  "active": "16e2ce14bd58102b",
   "lastOpenFiles": [
-    "数学二/高等数学/基础/note.md",
+    "数学二/高等数学/基础/asset/Pasted image 20231126211110.png",
     "Pub/Flashcards/求导公式与法则.md",
+    "数学二/高等数学/基础/note.md",
+    "学习日报/Day/2023-11-26.md",
     "Pub/Flashcards/asset/Pasted image 20231126195323.png",
     "Pub/Flashcards/asset/Pasted image 20231126195313.png",
     "Pub/Flashcards/asset/Pasted image 20231126195251.png",
@@ -280,7 +282,6 @@
     "Pub/Flashcards/asset/Pasted image 20231126195151.png",
     "Pub/Flashcards/asset/Pasted image 20231126195059.png",
     "Pub/Flashcards/asset/Pasted image 20231126195035.png",
-    "学习日报/Day/2023-11-26.md",
     "学习日报/Day/2023-11-25.md",
     "学习日报/Day/asset/Pasted image 20231126173625.png",
     "学习日报/Day/asset/Pasted image 20231126173557.png",
