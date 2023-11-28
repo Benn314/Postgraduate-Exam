@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习日报/Day/2023-11-28.md",
+                "file": "英语二/近义词对比.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,6 +32,90 @@
             }
           },
           {
+            "id": "a9cc2b690eb8af3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "英语二/近义词对比.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8206518528e6dae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "英语二/近义词对比.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "218d891138a777cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "英语二/近义词对比.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0a7333927f83339",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "英语二/近义词对比.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "634aa53f124209fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "英语二/近义词对比.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3650bbcefbe00837",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "英语二/近义词对比.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b35347eeb343b85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "英语二/近义词对比.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0e1183eaa48c8f93",
             "type": "leaf",
             "state": {
@@ -43,7 +127,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -98,8 +183,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6f2c9bdbbc316a36",
@@ -134,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习日报/Day/2023-11-28.md",
+                "file": "英语二/近义词对比.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习日报/Day/2023-11-28.md",
+                "file": "英语二/近义词对比.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -197,7 +281,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "学习日报/Day/2023-11-28.md",
+                "file": "英语二/近义词对比.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -267,15 +351,16 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "16e2ce14bd58102b",
+  "active": "3650bbcefbe00837",
   "lastOpenFiles": [
     "学习日报/Day/2023-11-27.md",
+    "英语二/近义词对比.md",
     "学习日报/Day/2023-11-28.md",
+    "Pub/Capture/Tasks.md",
     "英语二/田静-长难句&语法&翻译/en-note.md",
     "英语二/田静-长难句&语法&翻译/asset/Pasted image 20231127195723.png",
     "英语二/田静-长难句&语法&翻译/asset/Pasted image 20231127195614.png",
     "英语二/田静-长难句&语法&翻译/asset/Pasted image 20231127195013.png",
-    "Pub/Capture/Tasks.md",
     "英语二/田静-长难句&语法&翻译/asset/Pasted image 20231127174044.png",
     "英语二/田静-长难句&语法&翻译/asset",
     "数学二/高等数学/基础/note.md",
@@ -314,7 +399,6 @@
     "学习日报/Day/2023-11-16.md",
     "学习日报/Day/2023-11-20.md",
     "数学二/高等数学/基础/README.md",
-    "学习日报/Day/2023-11-19.md",
     "Pub/Draw/未命名.canvas",
     "未命名.canvas"
   ]
