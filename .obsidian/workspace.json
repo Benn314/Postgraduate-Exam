@@ -4,131 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c775906039b5a0aa",
+        "id": "12ac335afdbb7dab",
         "type": "tabs",
         "children": [
           {
-            "id": "16e2ce14bd58102b",
+            "id": "fca7f26c1af4cb10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "英语二/近义词对比.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1746b9c809e058ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学习日报/Day/2023-11-27.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9cc2b690eb8af3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "英语二/近义词对比.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8206518528e6dae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "英语二/近义词对比.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "218d891138a777cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "英语二/近义词对比.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0a7333927f83339",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "英语二/近义词对比.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "634aa53f124209fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "英语二/近义词对比.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3650bbcefbe00837",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "英语二/近义词对比.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b35347eeb343b85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "英语二/近义词对比.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e1183eaa48c8f93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pub/Flashcards/求导公式与法则.md",
+                "file": "数学二/高等数学/基础/note.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\\pi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6f2c9bdbbc316a36",
@@ -218,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "英语二/近义词对比.md",
+                "file": "数学二/高等数学/基础/note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "英语二/近义词对比.md",
+                "file": "数学二/高等数学/基础/note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -281,7 +173,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "英语二/近义词对比.md",
+                "file": "数学二/高等数学/基础/note.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -351,36 +243,38 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "3650bbcefbe00837",
+  "active": "fca7f26c1af4cb10",
   "lastOpenFiles": [
+    "数学二/高等数学/基础/asset/Pasted image 20231128175350.png",
+    "学习日报/Day/2023-11-21.md",
+    "学习日报/Day/2023-11-26.md",
     "学习日报/Day/2023-11-27.md",
-    "英语二/近义词对比.md",
+    "数学二/高等数学/基础/note.md",
+    "asset/aText/AutoBackup-2023-11-28-17-43-51.atext",
+    "数学二/高等数学/基础/asset/Pasted image 20231128173757.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231128173022.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231128172253.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231128171603.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231128170918.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231128170751.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231128170122.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231128165259.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231128165122.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231128164120.png",
     "学习日报/Day/2023-11-28.md",
+    "Pub/Flashcards/极限不定型情况分析.md",
+    "Pub/Flashcards/求导公式与法则.md",
+    "Pub/Flashcards/Phase 1.md",
+    "Pub/Capture/read.md",
+    "英语二/近义词对比.md",
     "Pub/Capture/Tasks.md",
     "英语二/田静-长难句&语法&翻译/en-note.md",
-    "英语二/田静-长难句&语法&翻译/asset/Pasted image 20231127195723.png",
-    "英语二/田静-长难句&语法&翻译/asset/Pasted image 20231127195614.png",
-    "英语二/田静-长难句&语法&翻译/asset/Pasted image 20231127195013.png",
-    "英语二/田静-长难句&语法&翻译/asset/Pasted image 20231127174044.png",
     "英语二/田静-长难句&语法&翻译/asset",
-    "数学二/高等数学/基础/note.md",
-    "数学二/高等数学/基础/asset/3c021573755e49485714ebc18eed235.jpg",
-    "Pub/Flashcards/求导公式与法则.md",
-    "学习日报/Day/asset/74ac56ce561ea166348f8361933d708.png",
-    "学习日报/Day/2023-11-26.md",
-    "学习日报/Day/asset/Pasted Image 20231127145233.png",
-    "Pub/Flashcards/asset/Pasted image 20231127145031.png",
-    "Pub/Flashcards/asset/Pasted image 20231127142756.png",
     "408/小册/README.md",
-    "学习日报/Day/asset/Pasted Image 20231127100055.png",
     "学习日报/Day/2023-11-25.md",
-    "学习日报/Day/2023-11-21.md",
     "asset/aText/AutoBackup-2023-11-25-20-21-25.atext",
-    "Pub/Flashcards/Phase 1.md",
     "学习日报/Day/2023-11-24.md",
-    "Pub/Flashcards/极限不定型情况分析.md",
     "Pub/Flashcards/asset",
-    "Pub/Capture/read.md",
     "学习日报/Day/2023-11-23.md",
     "Pub/Flashcards/卡片Demo.md",
     "学习日报/Obsidian工作流.md",
@@ -394,11 +288,9 @@
     "英语二/田静-长难句&语法&翻译/24田静句句真研【静下心来】【后续完整更新+VX：yxmm2024，公众号：研学木木】.pdf",
     "英语二/田静-长难句&语法&翻译/24田静句句真研【英语二，答案解析册】【后续完整更新+VX：yxmm2024，公众号：研学木木】.pdf",
     "英语二/田静-长难句&语法&翻译/24田静句句真研【英语二，答案解析册】【后续完整更新+VX：yxmm2024，公众号：研学木木】.pdf.baiduyun.p.downloading",
-    "英语二/田静-长难句&语法&翻译/24田静句句真研【英语二】【后续完整更新+VX：yxmm2024，公众号：研学木木】.pdf.baiduyun.p.downloading",
     "学习日报/Day/2023-11-10.md",
     "学习日报/Day/2023-11-16.md",
     "学习日报/Day/2023-11-20.md",
-    "数学二/高等数学/基础/README.md",
     "Pub/Draw/未命名.canvas",
     "未命名.canvas"
   ]
