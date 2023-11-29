@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "039ee2ac39343b32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pub/Flashcards/一元函数微分学的应用.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -57,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\\pi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -245,26 +257,28 @@
   },
   "active": "fca7f26c1af4cb10",
   "lastOpenFiles": [
+    "Pub/Flashcards/一元函数微分学的应用.md",
+    "数学二/高等数学/基础/note.md",
+    "学习日报/Day/2023-11-28.md",
+    "数学二/高等数学/基础/asset/Pasted image 20231129103527.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231129102753.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231129102734.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231129102419.png",
+    "Pub/Flashcards/Phase 1.md",
+    "数学二/高等数学/基础/asset/Pasted image 20231129101420.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231129101407.png",
+    "学习日报/Day/2023-11-29.md",
+    "数学二/高等数学/基础/asset/Pasted image 20231129094055.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231129093335.png",
+    "数学二/高等数学/微积分的本质--3Blue1Brown.md",
     "数学二/高等数学/基础/asset/Pasted image 20231128212041.png",
     "数学二/高等数学/基础/asset/Pasted image 20231128211636.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231128210539.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231128205545.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231128205443.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231128205249.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231128203313.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231128203211.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231128202624.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231128202138.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231128202038.png",
     "学习日报/Day/2023-11-21.md",
     "学习日报/Day/2023-11-26.md",
     "学习日报/Day/2023-11-27.md",
-    "数学二/高等数学/基础/note.md",
     "asset/aText/AutoBackup-2023-11-28-17-43-51.atext",
-    "学习日报/Day/2023-11-28.md",
     "Pub/Flashcards/极限不定型情况分析.md",
     "Pub/Flashcards/求导公式与法则.md",
-    "Pub/Flashcards/Phase 1.md",
     "Pub/Capture/read.md",
     "英语二/近义词对比.md",
     "Pub/Capture/Tasks.md",
@@ -288,9 +302,6 @@
     "英语二/田静-长难句&语法&翻译/24田静句句真研【静下心来】【后续完整更新+VX：yxmm2024，公众号：研学木木】.pdf",
     "英语二/田静-长难句&语法&翻译/24田静句句真研【英语二，答案解析册】【后续完整更新+VX：yxmm2024，公众号：研学木木】.pdf",
     "英语二/田静-长难句&语法&翻译/24田静句句真研【英语二，答案解析册】【后续完整更新+VX：yxmm2024，公众号：研学木木】.pdf.baiduyun.p.downloading",
-    "学习日报/Day/2023-11-10.md",
-    "学习日报/Day/2023-11-16.md",
-    "学习日报/Day/2023-11-20.md",
     "Pub/Draw/未命名.canvas",
     "未命名.canvas"
   ]

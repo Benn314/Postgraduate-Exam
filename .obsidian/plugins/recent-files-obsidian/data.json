@@ -5,6 +5,22 @@
       "path": "数学二/高等数学/基础/note.md"
     },
     {
+      "basename": "一元函数微分学的应用",
+      "path": "Pub/Flashcards/一元函数微分学的应用.md"
+    },
+    {
+      "basename": "Phase 1",
+      "path": "Pub/Flashcards/Phase 1.md"
+    },
+    {
+      "basename": "2023-11-29",
+      "path": "学习日报/Day/2023-11-29.md"
+    },
+    {
+      "basename": "微积分的本质--3Blue1Brown",
+      "path": "数学二/高等数学/微积分的本质--3Blue1Brown.md"
+    },
+    {
       "basename": "2023-11-21",
       "path": "学习日报/Day/2023-11-21.md"
     },
@@ -27,10 +43,6 @@
     {
       "basename": "求导公式与法则",
       "path": "Pub/Flashcards/求导公式与法则.md"
-    },
-    {
-      "basename": "Phase 1",
-      "path": "Pub/Flashcards/Phase 1.md"
     },
     {
       "basename": "read",
@@ -67,18 +79,6 @@
     {
       "basename": "卡片Demo",
       "path": "Pub/Flashcards/卡片Demo.md"
-    },
-    {
-      "basename": "Obsidian工作流",
-      "path": "学习日报/Obsidian工作流.md"
-    },
-    {
-      "basename": "2023-11-22",
-      "path": "学习日报/Day/2023-11-22.md"
-    },
-    {
-      "basename": "24汤家凤高数辅导讲义【基础 强化 提高】【后续完整更新+VX：yxmm2024，公众号：研学木木】",
-      "path": "数学二/高等数学/基础/24汤家凤高数辅导讲义【基础 强化 提高】【后续完整更新+VX：yxmm2024，公众号：研学木木】.pdf"
     }
   ],
   "omittedPaths": [],
