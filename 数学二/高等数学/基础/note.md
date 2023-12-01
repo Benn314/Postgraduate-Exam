@@ -918,11 +918,49 @@ Pn(x)中好像懂了，每一项都是由导数×dx（也就是 dy），n 阶导
 
 ## 第一部分 中值定理
 
-![](asset/Pasted%20image%2020231201104114.png)
+### 题型一 证明 $f^{(n)}(δ)=0$
+
+![](asset/Pasted%20image%2020231201104114.png)证二阶导数为 0 有两个思路
+1. 找三个点证明拉格朗日定理从而证明罗尔定理
+2. 找两个一阶导数为 0 的点证明罗尔定理
 
 ![](asset/Pasted%20image%2020231201111058.png)
 
 ![](asset/Pasted%20image%2020231201111910.png) ![](asset/Pasted%20image%2020231201112217.png)
 
-
 ![](asset/Pasted%20image%2020231201112548.png)
+![](asset/Pasted%20image%2020231201142820.png)
+
+![](asset/Pasted%20image%2020231201145452.png) ![](asset/Pasted%20image%2020231201145447.png)
+
+### 题型二 待证结论仅含一个中值δ，无 a,b
+
+#### 还原法
+
+![](asset/Pasted%20image%2020231201151857.png)
+
+![](asset/Pasted%20image%2020231201152322.png)
+![](asset/Pasted%20image%2020231201153143.png)
+
+![](asset/Pasted%20image%2020231201154129.png) ![|475](asset/Pasted%20image%2020231201154527.png)
+
+> P63 例题三自己做![](asset/Pasted%20image%2020231201154708.png)
+
+![](asset/Pasted%20image%2020231201155347.png)![|525](asset/Pasted%20image%2020231201155519.png) ![](asset/Pasted%20image%2020231201155617.png)
+
+#### 分组法
+
+![](asset/Pasted%20image%2020231201155959.png)
+
+![](asset/Pasted%20image%2020231201162418.png)
+![|450](asset/Pasted%20image%2020231201162714.png)
+![](asset/Pasted%20image%2020231201163521.png) ![](asset/Pasted%20image%2020231201163912.png)
+
+![](asset/Pasted%20image%2020231201164703.png)
+零点定理用开区间
+![](asset/Pasted%20image%2020231201171410.png)
+
+![](asset/Pasted%20image%2020231201171720.png) ![](asset/Pasted%20image%2020231201172504.png) ![](asset/Pasted%20image%2020231201172816.png)
+
+> P64、P65 还有很多没讲到的，所以先不管，这些没讲的属于强化阶段的部分
+
