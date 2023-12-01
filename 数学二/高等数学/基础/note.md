@@ -867,4 +867,62 @@ Pn(x)中好像懂了，每一项都是由导数×dx（也就是 dy），n 阶导
 
 #### 渐近线
 
+##### 定义
 
+![](asset/Pasted%20image%2020231201082603.png)
+![](asset/Pasted%20image%2020231201083353.png)
+
+##### 水平渐近线
+
+![](asset/Pasted%20image%2020231201085127.png)
+
+##### 铅直渐近线
+
+![](asset/Pasted%20image%2020231201085456.png)
+
+##### 斜渐近线
+
+![](asset/Pasted%20image%2020231201090034.png)
+![](asset/Pasted%20image%2020231201090257.png)但反之，间断点不一定产生铅直渐近线
+
+![](asset/Pasted%20image%2020231201090547.png)
+![](asset/Pasted%20image%2020231201091035.png)
+![](asset/Pasted%20image%2020231201091802.png)
+![](asset/Pasted%20image%2020231201093455.png)如果 lim_{x -> ∞} y/x 没反应过来=1，就看讲义里面的答案，比较详细
+
+![](asset/Pasted%20image%2020231201094024.png)
+
+![](asset/Pasted%20image%2020231201094504.png)
+![](asset/Pasted%20image%2020231201095714.png) ![](asset/Pasted%20image%2020231201100326.png)
+
+#### 弧微分
+
+![](asset/Pasted%20image%2020231201100951.png)
+这里 ds 称为弧元素，微分状态下等价于直角三角形
+![](asset/Pasted%20image%2020231201101201.png)弧微分的基本公式
+
+参数方程的弧微分基本公式![](asset/Pasted%20image%2020231201101428.png)
+
+#### 曲率与曲率半径
+
+![](asset/Pasted%20image%2020231201102014.png)注意：这里 y 的导数特指 y 对 x 的求导！
+
+![](asset/Pasted%20image%2020231201103505.png)
+由曲率半径形成的圆叫曲率圆
+
+> 补充一个小知识点，计算判断两条线是否垂直 ![|375](asset/Pasted%20image%2020231201102943.png)
+
+# 3-一元函数微分学的应用 ④
+
+> 主要讲题型
+
+## 第一部分 中值定理
+
+![](asset/Pasted%20image%2020231201104114.png)
+
+![](asset/Pasted%20image%2020231201111058.png)
+
+![](asset/Pasted%20image%2020231201111910.png) ![](asset/Pasted%20image%2020231201112217.png)
+
+
+![](asset/Pasted%20image%2020231201112548.png)

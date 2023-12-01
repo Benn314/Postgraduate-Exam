@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "note",
+      "path": "数学二/高等数学/基础/note.md"
+    },
+    {
       "basename": "2023-11-30",
       "path": "学习日报/Day/2023-11-30.md"
     },
     {
-      "basename": "note",
-      "path": "数学二/高等数学/基础/note.md"
+      "basename": "2023-12-01",
+      "path": "学习日报/Day/2023-12-01.md"
     },
     {
       "basename": "Tasks",
@@ -75,10 +79,6 @@
     {
       "basename": "2023-11-25",
       "path": "学习日报/Day/2023-11-25.md"
-    },
-    {
-      "basename": "2023-11-24",
-      "path": "学习日报/Day/2023-11-24.md"
     }
   ],
   "omittedPaths": [],
