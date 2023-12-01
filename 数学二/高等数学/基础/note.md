@@ -841,3 +841,30 @@ Pn(x)中好像懂了，每一项都是由导数×dx（也就是 dy），n 阶导
 
 ### 二. 极值判断
 
+![](asset/Pasted%20image%2020231130202323.png)
+
+![](asset/Pasted%20image%2020231130202659.png)
+![](asset/Pasted%20image%2020231130202850.png) ![](asset/Pasted%20image%2020231130202928.png)
+
+![](asset/Pasted%20image%2020231130203222.png)极限的保号性好有用![](asset/Pasted%20image%2020231130203434.png) ![](asset/Pasted%20image%2020231130203541.png)
+
+![](asset/Pasted%20image%2020231130203945.png)
+![](asset/Pasted%20image%2020231130204015.png)
+
+### 三. 其他问题
+
+#### 凹凸性和拐点
+
+![](asset/Pasted%20image%2020231130205708.png)
+![|500](asset/Pasted%20image%2020231130205735.png)
+![](asset/Pasted%20image%2020231130205911.png)
+![](asset/Pasted%20image%2020231130210216.png)该判别定理在基础阶段不做证明，强化阶段一定证
+
+![](asset/Pasted%20image%2020231130210542.png)
+![|375](asset/Pasted%20image%2020231130210705.png)
+![](asset/Pasted%20image%2020231130211157.png)
+![](asset/Pasted%20image%2020231130211328.png)
+
+#### 渐近线
+
+
