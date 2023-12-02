@@ -876,20 +876,33 @@ Pn(x)中好像懂了，每一项都是由导数×dx（也就是 dy），n 阶导
 
 ##### 定义
 
+> tips：题干中说到求什么渐近线，在脑海里要有对应渐近线图像的画面
+
 ![](asset/Pasted%20image%2020231201082603.png)
 ![](asset/Pasted%20image%2020231201083353.png)
 
 ##### 水平渐近线
 
+> 对应 x  --> ∞
+
 ![](asset/Pasted%20image%2020231201085127.png)
 
 ##### 铅直渐近线
 
-![](asset/Pasted%20image%2020231201085456.png)
+> 对应 y  --> ∞
+
+![](asset/Pasted%20image%2020231201085456.png)仅左邻域满足或右邻域满足或者左右邻域都满足，都称 x=a 为 L 的铅直渐近线
 
 ##### 斜渐近线
 
+> 理解与记忆：[斜渐近线\_百度百科](https://baike.baidu.com/item/%E6%96%9C%E6%B8%90%E8%BF%91%E7%BA%BF/5879929)
+> 
+> - 若当 x 趋向于正无穷或负无穷时，函数 y=[f(x)](https://baike.baidu.com/item/f(x)/24555701?fromModule=lemma_inlink) [无限接近](https://baike.baidu.com/item/%E6%97%A0%E9%99%90%E6%8E%A5%E8%BF%91/14040101?fromModule=lemma_inlink)一条固定直线 y=Ax+B（函数 y=f(x)与直线 y=Ax+B 的[垂直距离](https://baike.baidu.com/item/%E5%9E%82%E7%9B%B4%E8%B7%9D%E7%A6%BB/3547003?fromModule=lemma_inlink) PN 无限小，且 limPN=0），当然也即 PM=f(x)-(Ax+B)的极限为零，则称 y=Ax+B 为函数 y=f(x)的斜渐近线。![|400](asset/Pasted%20image%2020231202112026.png)
+
 ![](asset/Pasted%20image%2020231201090034.png)
+
+[y=ax+b 是 y=f(x)的斜渐近线，为什么 lim_{x->∞}f(x)/x=a（a≠0，∞）呢？](学习日报/Day/2023-12-02.md#y%20ax%20b%20是%20y%20f%20x%20的斜渐近线，为什么%20lim_%20x-%20∞%20f%20x%20x%20a（a≠0，∞）呢？)
+
 ![](asset/Pasted%20image%2020231201090257.png)但反之，间断点不一定产生铅直渐近线
 
 ![](asset/Pasted%20image%2020231201090547.png)
