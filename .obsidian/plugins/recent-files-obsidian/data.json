@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "note",
+      "path": "数学二/高等数学/基础/note.md"
+    },
+    {
+      "basename": "2023-11-21",
+      "path": "学习日报/Day/2023-11-21.md"
+    },
+    {
+      "basename": "2023-12-04",
+      "path": "学习日报/Day/2023-12-04.md"
+    },
+    {
+      "basename": "en-note",
+      "path": "英语二/田静-长难句&语法&翻译/en-note.md"
+    },
+    {
       "basename": "2023-12-03",
       "path": "学习日报/Day/2023-12-03.md"
     },
@@ -19,14 +35,6 @@
     {
       "basename": "read",
       "path": "Pub/Capture/read.md"
-    },
-    {
-      "basename": "en-note",
-      "path": "英语二/田静-长难句&语法&翻译/en-note.md"
-    },
-    {
-      "basename": "note",
-      "path": "数学二/高等数学/基础/note.md"
     },
     {
       "basename": "一元函数微分学的应用",
@@ -57,10 +65,6 @@
       "path": "Pub/Flashcards/求导公式与法则.md"
     },
     {
-      "basename": "2023-11-21",
-      "path": "学习日报/Day/2023-11-21.md"
-    },
-    {
       "basename": "极限不定型情况分析",
       "path": "Pub/Flashcards/极限不定型情况分析.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "2023-11-26",
       "path": "学习日报/Day/2023-11-26.md"
-    },
-    {
-      "basename": "2023-11-27",
-      "path": "学习日报/Day/2023-11-27.md"
     }
   ],
   "omittedPaths": [],
