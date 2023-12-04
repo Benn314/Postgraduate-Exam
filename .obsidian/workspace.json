@@ -248,7 +248,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 331.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -270,21 +271,21 @@
   },
   "active": "b3e96d101b038f41",
   "lastOpenFiles": [
-    "数学二/高等数学/基础/asset/Pasted image 20231204110834.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231204110707.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231204105119.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231204103556.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231204103527.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231204102131.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231204102126.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231204102059.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231204101021.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231204100329.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231204170453.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231204170405.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231204170356.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231204165514.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231204165422.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231204163058.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231204162711.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231204162400.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231204161927.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231204161651.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231204161645.png",
     "asset/aText/AutoBackup-2023-12-04-09-59-23.atext",
     "学习日报/Day/2023-11-21.md",
     "数学二/高等数学/基础/note.md",
     "学习日报/Day/2023-12-04.md",
-    "数学二/高等数学/基础/asset/98932768501cd31ff1e658e4497b86e.jpg",
     "学习日报/Day/2023-12-02.md",
     "英语二/田静-长难句&语法&翻译/en-note.md",
     "学习日报/Day/2023-12-03.md",

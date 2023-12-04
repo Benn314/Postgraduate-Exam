@@ -857,7 +857,7 @@ Pn(x)中好像懂了，每一项都是由导数×dx（也就是 dy），n 阶导
 看好定理 2 的条件，前提条件是 f'(x0)=0![](asset/Pasted%20image%2020231130203222.png)极限的保号性好有用![](asset/Pasted%20image%2020231130203434.png) ![](asset/Pasted%20image%2020231130203541.png)
 
 ![](asset/Pasted%20image%2020231130203945.png)
-![](asset/Pasted%20image%2020231130204015.png)
+![](asset/Pasted%20image%2020231130204015.png) ^soyy5w
 
 ### 三. 其他问题
 
@@ -1029,9 +1029,9 @@ Pn(x)中好像懂了，每一项都是由导数×dx（也就是 dy），n 阶导
 
 # 3-一元函数微分学的应用 ⑤
 
-## 题型四 结论中含两个或两个以上中值的问题
+### 题型四 结论中含两个或两个以上中值的问题
 
-### 情形一：结论中只含 f'(δ)，f'(η)
+#### 情形一：结论中只含 f'(δ)，f'(η)
 
 ![|500](asset/Pasted%20image%2020231204084556.png)
 
@@ -1046,7 +1046,7 @@ Pn(x)中好像懂了，每一项都是由导数×dx（也就是 dy），n 阶导
 > 第一问：零点定理
 > 第二问：两次拉格朗日
 
-### 结论中含两个中值δ,η，但关于两个中值的项复杂度不同
+#### 结论中含两个中值δ,η，但关于两个中值的项复杂度不同
 
 ![|475](asset/Pasted%20image%2020231204100329.png)
 先拿复杂的出来分析得出 φ(x)，涉及到的 ab 先不管，不用看他们，看δ,η哪个复杂留哪个出来分析就好了
@@ -1061,10 +1061,66 @@ Pn(x)中好像懂了，每一项都是由导数×dx（也就是 dy），n 阶导
 
 ![](asset/Pasted%20image%2020231204105119.png)
 
-## 题型六 拉格朗日中值定理的两种惯性思维
+### 题型六 拉格朗日中值定理的两种惯性思维
 
 > 不要认为遇到中值定理就都要构造函数，有的需要有的不需要
 
 ![](asset/Pasted%20image%2020231204110707.png)
 
 ![|500](asset/Pasted%20image%2020231204110834.png)
+
+![](asset/Pasted%20image%2020231204143657.png) ![](asset/Pasted%20image%2020231204143644.png) ![](asset/Pasted%20image%2020231204144325.png)
+
+![](asset/f1ae0540b31b983ff454a84bdf4d609.jpg)
+
+>  [在微分中，dy和△y什么区别？？\_百度知道](https://zhidao.baidu.com/question/1701659163540879660.html)
+>  
+>  [![](https://iknow-pic.cdn.bcebos.com/e850352ac65c1038613fd6d1b0119313b07e895b?x-bce-process=image%2Fresize%2Cm_lfit%2Cw_600%2Ch_800%2Climit_1%2Fquality%2Cq_85%2Fformat%2Cf_auto)](https://iknow-pic.cdn.bcebos.com/e850352ac65c1038613fd6d1b0119313b07e895b "点击查看大图")
+>  
+>  delta(y)是 y 的差值，是[原函数](https://zhidao.baidu.com/search?word=%E5%8E%9F%E5%87%BD%E6%95%B0&fr=iknow_pc_qb_highlight)在两点的差值，dy 只是在 dx 这段路上切线段 PN 在 y 轴的差值。
+>  
+>  在 dx 足够小时，可以认为 dy=delta(y)。
+
+![](asset/Pasted%20image%2020231204150628.png) ![](asset/Pasted%20image%2020231204150636.png)
+
+![](asset/Pasted%20image%2020231204151321.png) ![](asset/Pasted%20image%2020231204151407.png)
+
+![|600](asset/Pasted%20image%2020231204151729.png)
+
+![](asset/Pasted%20image%2020231204152006.png) ![|500](asset/Pasted%20image%2020231204152831.png)
+
+
+## 第二部分 单调性与极值 凹凸性
+
+> 渐近线部分在之前将基础知识的时候，基础阶段部分的题型已完成
+
+### 题型一 不等式证明
+
+#### ① 利用单调性证明不等式
+
+![](asset/Pasted%20image%2020231204154046.png)
+
+![|550](asset/Pasted%20image%2020231204154632.png) ![|500](asset/Pasted%20image%2020231204154828.png)
+
+![|500](asset/Pasted%20image%2020231204155441.png)
+
+> 小结：像这种利用单调性证明的题型，构建辅助函数的时候，设置 b 为自变量，a 保持不变（b>a），可以得到 f(a)=0，那么我们只需要再证明 f'(x)>0（x>a）即可得出结论（如果一阶导数看不出来的话，从二阶导数入手，慢慢推导到原函数的不等关系）
+
+![](asset/Pasted%20image%2020231204161651.png) ![](asset/Pasted%20image%2020231204161645.png) ![](asset/Pasted%20image%2020231204161927.png)所以结论成立
+
+![](asset/Pasted%20image%2020231204162400.png)
+
+#### ② 利用中值定理证明不等式
+
+![](asset/Pasted%20image%2020231204162711.png)
+
+![](asset/Pasted%20image%2020231204163058.png)
+![](asset/Pasted%20image%2020231204165422.png)
+![](asset/Pasted%20image%2020231204165514.png)
+> 基础阶段，不等式的证明只用掌握单调性和中值定理就好
+
+### 题型二 极值点判断
+
+![](asset/Pasted%20image%2020231204170405.png) ![](asset/Pasted%20image%2020231204170453.png)极限值=2，所以分子为分母的高阶无穷小
+[根据极值判断的第二充分条件](数学二/高等数学/基础/note.md#^soyy5w) ，二阶导数>0，一阶导数=0，则为极小点，故答案选 B
+
