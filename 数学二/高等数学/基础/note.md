@@ -1114,7 +1114,7 @@ Pn(x)中好像懂了，每一项都是由导数×dx（也就是 dy），n 阶导
 
 > 小结：像这种利用单调性证明的题型，构建辅助函数的时候，设置 b 为自变量，a 保持不变（b>a），可以得到 f(a)=0，那么我们只需要再证明 f'(x)>0（x>a）即可得出结论（如果一阶导数看不出来的话，从二阶导数入手，慢慢推导到原函数的不等关系）
 
-![](asset/Pasted%20image%2020231204161651.png) ![](asset/Pasted%20image%2020231204161645.png) ![](asset/Pasted%20image%2020231204161927.png)所以结论成立
+![](asset/Pasted%20image%2020231204161651.png) ![](asset/Pasted%20image%2020231204161645.png) ![](asset/Pasted%20image%2020231204161927.png)![](asset/Pasted%20image%2020231205162648.png)所以结论成立
 
 ![](asset/Pasted%20image%2020231204162400.png)
 
@@ -1124,7 +1124,7 @@ Pn(x)中好像懂了，每一项都是由导数×dx（也就是 dy），n 阶导
 
 ![](asset/Pasted%20image%2020231204163058.png)
 ![](asset/Pasted%20image%2020231204165422.png)
-![](asset/Pasted%20image%2020231204165514.png)
+![](asset/Pasted%20image%2020231204165514.png)![](asset/d5777147bd8e4ad77a31f50c50c184d.jpg)
 > 基础阶段，不等式的证明只用掌握单调性和中值定理就好
 
 ### 题型二 极值点判断
