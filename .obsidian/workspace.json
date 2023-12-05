@@ -228,28 +228,27 @@
             }
           },
           {
-            "id": "4bc172454fbd6b16",
-            "type": "leaf",
-            "state": {
-              "type": "memos_view",
-              "state": {}
-            }
-          },
-          {
             "id": "9d8d091b024926ab",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "4bc172454fbd6b16",
+            "type": "leaf",
+            "state": {
+              "type": "memos_view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 331.5,
-    "collapsed": true
+    "width": 331.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -271,24 +270,24 @@
   },
   "active": "b3e96d101b038f41",
   "lastOpenFiles": [
-    "数学二/高等数学/基础/asset/Pasted image 20231204170453.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231204170405.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231204170356.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231204165514.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231204165422.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231204163058.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231204162711.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231204162400.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231204161927.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231204161651.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231204161645.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231204203412.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231204202939.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231204202416.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231204202255.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231204202205.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231204202008.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231204201930.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231204201811.png",
+    "学习日报/Day/2023-12-03.md",
+    "数学二/高等数学/基础/note.md",
+    "数学二/高等数学/基础/asset/Pasted image 20231204201132.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231204200903.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231204200055.png",
     "asset/aText/AutoBackup-2023-12-04-09-59-23.atext",
     "学习日报/Day/2023-11-21.md",
-    "数学二/高等数学/基础/note.md",
     "学习日报/Day/2023-12-04.md",
     "学习日报/Day/2023-12-02.md",
     "英语二/田静-长难句&语法&翻译/en-note.md",
-    "学习日报/Day/2023-12-03.md",
     "Pub/Flashcards/Phase 1.md",
     "Pub/Capture/Tasks.md",
     "Pub/Capture/read.md",

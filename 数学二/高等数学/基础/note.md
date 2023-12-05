@@ -432,7 +432,8 @@ x 趋于 2 这个点可代入原式，然后只需要分析 $arctan\frac{1}{x-2}
 介值定理
 ![](asset/Pasted%20image%2020231123104521.png)
 
-![](asset/Pasted%20image%2020231123105137.png)
+![](asset/Pasted%20image%2020231123105137.png) ^0v064v
+
 ![](asset/Pasted%20image%2020231123105318.png)
 ![](asset/Pasted%20image%2020231123105725.png)
 ![](asset/Pasted%20image%2020231123110059.png)
@@ -1036,15 +1037,17 @@ Pn(x)中好像懂了，每一项都是由导数×dx（也就是 dy），n 阶导
 ![|500](asset/Pasted%20image%2020231204084556.png)
 
 
-![](asset/Pasted%20image%2020231204085116.png) ![|475](asset/Pasted%20image%2020231204084932.png) ![](asset/Pasted%20image%2020231204085106.png) ![](asset/Pasted%20image%2020231204085422.png)
+![](asset/Pasted%20image%2020231204085116.png) ![|475](asset/Pasted%20image%2020231204084932.png) **再次强调**：辅助函数构建，将所有项移到等式左边，常数项保持不变，未知常数替换为变量 x 进行构建
+ ![](asset/Pasted%20image%2020231204085106.png) ![](asset/Pasted%20image%2020231204085422.png)
 
-![](asset/Pasted%20image%2020231204085620.png) ![](asset/Pasted%20image%2020231204085947.png) ![|450](asset/Pasted%20image%2020231204090435.png)
+![](asset/Pasted%20image%2020231204085620.png) ![](asset/Pasted%20image%2020231204085947.png)有涉及到极限的保号性
+ ![|450](asset/Pasted%20image%2020231204090435.png)
 
 ![](asset/Pasted%20image%2020231204092702.png)![](asset/98932768501cd31ff1e658e4497b86e.jpg)
 
 > 上图的总结红字可以好好看看，解题思路：
 > 第一问：零点定理
-> 第二问：两次拉格朗日
+> 第二问：找三个点，两次拉格朗日
 
 #### 结论中含两个中值δ,η，但关于两个中值的项复杂度不同
 
@@ -1052,7 +1055,6 @@ Pn(x)中好像懂了，每一项都是由导数×dx（也就是 dy），n 阶导
 先拿复杂的出来分析得出 φ(x)，涉及到的 ab 先不管，不用看他们，看δ,η哪个复杂留哪个出来分析就好了
 
 举个例子：![|500](asset/Pasted%20image%2020231204101021.png)
-
 多项式猜测拉格朗日，单项猜测柯西定理
 
 ![](asset/Pasted%20image%2020231204102131.png)![](asset/Pasted%20image%2020231204102059.png)![|475](asset/Pasted%20image%2020231204102126.png)
@@ -1123,4 +1125,41 @@ Pn(x)中好像懂了，每一项都是由导数×dx（也就是 dy），n 阶导
 
 ![](asset/Pasted%20image%2020231204170405.png) ![](asset/Pasted%20image%2020231204170453.png)极限值=2，所以分子为分母的高阶无穷小
 [根据极值判断的第二充分条件](数学二/高等数学/基础/note.md#^soyy5w) ，二阶导数>0，一阶导数=0，则为极小点，故答案选 B
+
+![](asset/Pasted%20image%2020231204193627.png) ![|600](asset/Pasted%20image%2020231204193640.png)
+
+![](asset/Pasted%20image%2020231204194333.png)
+![](asset/Pasted%20image%2020231204194344.png)
+
+![](asset/Pasted%20image%2020231204194951.png) ![](asset/Pasted%20image%2020231204194833.png)
+
+### 题型三 零点
+
+#### 零点定理
+
+![](asset/Pasted%20image%2020231204195549.png)![](asset/Pasted%20image%2020231204195858.png)该题型对应前面  [1-连续与间断④ 中零点题型](数学二/高等数学/基础/note.md#^0v064v)
+
+#### 罗尔定理
+
+> 奇偶性、正负号都看不出来的时候（零点定理用不了），可以尝试用罗尔定理
+
+![](asset/Pasted%20image%2020231204200055.png)
+
+![](asset/Pasted%20image%2020231204200903.png)
+
+> 除了介值定理存在未知常量δ用闭区间，其他都用开区间表示
+
+#### 单调法
+
+![|500](asset/Pasted%20image%2020231204201132.png)
+
+![](asset/Pasted%20image%2020231204201811.png) ![](asset/Pasted%20image%2020231204202205.png)
+看两侧趋势![](asset/Pasted%20image%2020231204202255.png)
+![](asset/Pasted%20image%2020231204202416.png)
+
+![](asset/Pasted%20image%2020231204202939.png) ![](asset/Pasted%20image%2020231204203412.png)
+
+# 4-不定积分 ①
+
+
 
