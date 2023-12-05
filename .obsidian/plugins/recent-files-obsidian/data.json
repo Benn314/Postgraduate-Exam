@@ -5,6 +5,10 @@
       "path": "数学二/高等数学/基础/note.md"
     },
     {
+      "basename": "2023-12-05",
+      "path": "学习日报/Day/2023-12-05.md"
+    },
+    {
       "basename": "2023-12-03",
       "path": "学习日报/Day/2023-12-03.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "微积分的本质--3Blue1Brown",
       "path": "数学二/高等数学/微积分的本质--3Blue1Brown.md"
-    },
-    {
-      "basename": "2023-11-26",
-      "path": "学习日报/Day/2023-11-26.md"
     }
   ],
   "omittedPaths": [],

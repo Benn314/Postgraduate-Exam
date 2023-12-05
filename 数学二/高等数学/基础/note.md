@@ -1042,6 +1042,7 @@ Pn(x)中好像懂了，每一项都是由导数×dx（也就是 dy），n 阶导
 
 ![](asset/Pasted%20image%2020231204085620.png) ![](asset/Pasted%20image%2020231204085947.png)有涉及到极限的保号性
  ![|450](asset/Pasted%20image%2020231204090435.png)
+ ![](asset/2bdf1cbee0e35e367d582e0434bcee6.jpg)
 
 ![](asset/Pasted%20image%2020231204092702.png)![](asset/98932768501cd31ff1e658e4497b86e.jpg)
 
@@ -1057,21 +1058,26 @@ Pn(x)中好像懂了，每一项都是由导数×dx（也就是 dy），n 阶导
 举个例子：![|500](asset/Pasted%20image%2020231204101021.png)
 多项式猜测拉格朗日，单项猜测柯西定理
 
-![](asset/Pasted%20image%2020231204102131.png)![](asset/Pasted%20image%2020231204102059.png)![|475](asset/Pasted%20image%2020231204102126.png)
+![](asset/Pasted%20image%2020231204102131.png) ![](asset/Pasted%20image%2020231204102059.png) ![|475](asset/Pasted%20image%2020231204102126.png)
+注意一下答案书写的格式是怎么样的![](asset/Pasted%20image%2020231205091932.png)
 
 ![](asset/Pasted%20image%2020231204103556.png) ![](asset/Pasted%20image%2020231204103527.png)
 
 ![](asset/Pasted%20image%2020231204105119.png)
 
+> 小结：含两个中值定理的，先构造复杂的一项的辅助函数，判断使用拉格朗日中值定理还是柯西中值定理，然后构造成与题目结论类似的形式，另一个简单项通过采用不同于复杂项的定理（比如复杂用 L，简单用 C，否则反之），将二者进行等价变换，得出结论
+
 ### 题型六 拉格朗日中值定理的两种惯性思维
 
-> 不要认为遇到中值定理就都要构造函数，有的需要有的不需要
+> **不要认为遇到中值定理就都要构造函数，有的需要有的不需要**
 
 ![](asset/Pasted%20image%2020231204110707.png)
 
+> 注：求极限进行拆分项加减运算的前提是：首先拆分的各项极限要提前明确存在才能进行加减运算
+
 ![|500](asset/Pasted%20image%2020231204110834.png)
 
-![](asset/Pasted%20image%2020231204143657.png) ![](asset/Pasted%20image%2020231204143644.png) ![](asset/Pasted%20image%2020231204144325.png)
+![](asset/Pasted%20image%2020231204143657.png) ![](asset/Pasted%20image%2020231204143644.png) ![](asset/Pasted%20image%2020231204144325.png)第一步使用拉格朗日定理是为了让 f'(δ)=e 与 等式右边挂钩，好构建关于 C 的关系式
 
 ![](asset/f1ae0540b31b983ff454a84bdf4d609.jpg)
 
