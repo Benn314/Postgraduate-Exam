@@ -9,6 +9,22 @@
       "path": "学习日报/Day/2023-12-05.md"
     },
     {
+      "basename": "2023-12-02",
+      "path": "学习日报/Day/2023-12-02.md"
+    },
+    {
+      "basename": "近义词对比",
+      "path": "英语二/近义词对比.md"
+    },
+    {
+      "basename": "en-note",
+      "path": "英语二/田静-长难句&语法&翻译/en-note.md"
+    },
+    {
+      "basename": "408_B-note",
+      "path": "408/小册/数据结构与算法之美/408_B-note.md"
+    },
+    {
       "basename": "2023-12-03",
       "path": "学习日报/Day/2023-12-03.md"
     },
@@ -21,10 +37,6 @@
       "path": "学习日报/Day/2023-12-04.md"
     },
     {
-      "basename": "en-note",
-      "path": "英语二/田静-长难句&语法&翻译/en-note.md"
-    },
-    {
       "basename": "Phase 1",
       "path": "Pub/Flashcards/Phase 1.md"
     },
@@ -33,20 +45,12 @@
       "path": "Pub/Capture/Tasks.md"
     },
     {
-      "basename": "2023-12-02",
-      "path": "学习日报/Day/2023-12-02.md"
-    },
-    {
       "basename": "read",
       "path": "Pub/Capture/read.md"
     },
     {
       "basename": "一元函数微分学的应用",
       "path": "Pub/Flashcards/一元函数微分学的应用.md"
-    },
-    {
-      "basename": "近义词对比",
-      "path": "英语二/近义词对比.md"
     },
     {
       "basename": "2023-12-01",
@@ -75,10 +79,6 @@
     {
       "basename": "卡片Demo",
       "path": "Pub/Flashcards/卡片Demo.md"
-    },
-    {
-      "basename": "微积分的本质--3Blue1Brown",
-      "path": "数学二/高等数学/微积分的本质--3Blue1Brown.md"
     }
   ],
   "omittedPaths": [],

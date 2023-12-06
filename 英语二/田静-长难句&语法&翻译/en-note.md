@@ -87,3 +87,4 @@ to 和 for 的区别
 	7. ![](asset/Pasted%20image%2020231203162947.png)
 	8. **进度：30:20**
 
+> 补充：[det是什么词性的缩写 - 知乎](https://zhuanlan.zhihu.com/p/93065797)
