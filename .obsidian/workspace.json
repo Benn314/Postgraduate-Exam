@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学二/高等数学/基础/note.md",
+                "file": "Pub/Flashcards/求导公式与法则.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习日报/Day/2023-12-05.md",
+                "file": "学习日报/Day/2023-12-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,8 +99,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6f2c9bdbbc316a36",
@@ -119,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.50152587890625
+    "width": 242.50152587890625
   },
   "right": {
     "id": "6614ef460c138604",
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学二/高等数学/基础/note.md",
+                "file": "Pub/Flashcards/求导公式与法则.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学二/高等数学/基础/note.md",
+                "file": "Pub/Flashcards/求导公式与法则.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -198,7 +197,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "数学二/高等数学/基础/note.md",
+                "file": "Pub/Flashcards/求导公式与法则.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -228,14 +227,6 @@
             }
           },
           {
-            "id": "9d8d091b024926ab",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
-          },
-          {
             "id": "4bc172454fbd6b16",
             "type": "leaf",
             "state": {
@@ -244,7 +235,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -262,18 +253,26 @@
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "workspaces:管理工作区布局": false,
-      "obsidian-spaced-repetition:复习卡片": false,
       "daily-notes:打开/创建今天的日记": false,
+      "obsidian-spaced-repetition:复习卡片": false,
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
       "obsidian-memos:Memos": false
     }
   },
   "active": "b3e96d101b038f41",
   "lastOpenFiles": [
-    "数学二/高等数学/基础/asset/Pasted image 20231205215029.png",
-    "学习日报/Day/2023-12-05.md",
-    "学习日报/Day/2023-12-02.md",
+    "Pub/Flashcards/一元函数微分学的应用.md",
+    "Pub/Flashcards/Phase 1.md",
+    "Pub/Hypo/我的 Obsidian 使用经验  程序员的喵.md",
     "数学二/高等数学/基础/note.md",
+    "学习日报/Day/2023-12-06.md",
+    "Pub/Capture/read.md",
+    "学习日报/Day/2023-12-05.md",
+    "学习日报/Day/2023-12-03.md",
+    "数学二/高等数学/基础/asset/ee2577edb9d8b5cada6cc44bcba98bc.jpg",
+    "数学二/高等数学/基础/asset/eacaadb4e16bd27932de029f1676202.jpg",
+    "数学二/高等数学/基础/asset/Pasted image 20231205215029.png",
+    "学习日报/Day/2023-12-02.md",
     "英语二/近义词对比.md",
     "英语二/田静-长难句&语法&翻译/en-note.md",
     "408/小册/数据结构与算法之美/408_B-note.md",
@@ -282,20 +281,13 @@
     "408/小册/数据结构与算法之美/asset",
     "数学二/高等数学/基础/asset/d5777147bd8e4ad77a31f50c50c184d.jpg",
     "数学二/高等数学/基础/asset/Pasted image 20231205162648.png",
-    "学习日报/Day/2023-12-03.md",
     "数学二/高等数学/基础/asset/Pasted image 20231205091932.png",
     "数学二/高等数学/基础/asset/2bdf1cbee0e35e367d582e0434bcee6.jpg",
     "数学二/高等数学/基础/asset/Pasted image 20231204203412.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231204202939.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231204202416.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231204202255.png",
     "asset/aText/AutoBackup-2023-12-04-09-59-23.atext",
     "学习日报/Day/2023-11-21.md",
     "学习日报/Day/2023-12-04.md",
-    "Pub/Flashcards/Phase 1.md",
     "Pub/Capture/Tasks.md",
-    "Pub/Capture/read.md",
-    "Pub/Flashcards/一元函数微分学的应用.md",
     "asset/aText/AutoBackup-2023-12-02-11-11-53.atext",
     "asset/aText/AutoBackup-2023-12-02-11-07-26.atext",
     "asset/aText/AutoBackup-2023-12-02-09-23-33.atext",
@@ -312,7 +304,6 @@
     "学习日报/Day/2023-11-27.md",
     "asset/aText/AutoBackup-2023-11-28-17-43-51.atext",
     "英语二/田静-长难句&语法&翻译/asset",
-    "408/小册/README.md",
     "asset/aText/AutoBackup-2023-11-25-20-21-25.atext",
     "Pub/Flashcards/asset",
     "数学二/高等数学/基础/24汤家凤高数辅导讲义【基础 强化 提高】【后续完整更新+VX：yxmm2024，公众号：研学木木】.pdf",
