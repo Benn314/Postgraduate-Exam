@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "note",
+      "path": "数学二/高等数学/基础/note.md"
+    },
+    {
+      "basename": "不定积分公式",
+      "path": "Pub/Flashcards/不定积分公式.md"
+    },
+    {
+      "basename": "2023-12-06",
+      "path": "学习日报/Day/2023-12-06.md"
+    },
+    {
+      "basename": "2023-11-21",
+      "path": "学习日报/Day/2023-11-21.md"
+    },
+    {
+      "basename": "2023-12-03",
+      "path": "学习日报/Day/2023-12-03.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Pub/Capture/Tasks.md"
+    },
+    {
       "basename": "求导公式与法则",
       "path": "Pub/Flashcards/求导公式与法则.md"
     },
@@ -17,24 +41,12 @@
       "path": "Pub/Hypo/我的 Obsidian 使用经验  程序员的喵.md"
     },
     {
-      "basename": "note",
-      "path": "数学二/高等数学/基础/note.md"
-    },
-    {
-      "basename": "2023-12-06",
-      "path": "学习日报/Day/2023-12-06.md"
-    },
-    {
       "basename": "read",
       "path": "Pub/Capture/read.md"
     },
     {
       "basename": "2023-12-05",
       "path": "学习日报/Day/2023-12-05.md"
-    },
-    {
-      "basename": "2023-12-03",
-      "path": "学习日报/Day/2023-12-03.md"
     },
     {
       "basename": "2023-12-02",
@@ -53,16 +65,8 @@
       "path": "408/小册/数据结构与算法之美/408_B-note.md"
     },
     {
-      "basename": "2023-11-21",
-      "path": "学习日报/Day/2023-11-21.md"
-    },
-    {
       "basename": "2023-12-04",
       "path": "学习日报/Day/2023-12-04.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Pub/Capture/Tasks.md"
     },
     {
       "basename": "2023-12-01",
@@ -75,10 +79,6 @@
     {
       "basename": "2023-11-30",
       "path": "学习日报/Day/2023-11-30.md"
-    },
-    {
-      "basename": "2023-11-29",
-      "path": "学习日报/Day/2023-11-29.md"
     }
   ],
   "omittedPaths": [],
