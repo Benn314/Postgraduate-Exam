@@ -5,20 +5,8 @@
       "path": "数学二/高等数学/基础/note.md"
     },
     {
-      "basename": "不定积分公式",
-      "path": "Pub/Flashcards/不定积分公式.md"
-    },
-    {
       "basename": "2023-12-06",
       "path": "学习日报/Day/2023-12-06.md"
-    },
-    {
-      "basename": "2023-11-21",
-      "path": "学习日报/Day/2023-11-21.md"
-    },
-    {
-      "basename": "2023-12-03",
-      "path": "学习日报/Day/2023-12-03.md"
     },
     {
       "basename": "Tasks",
@@ -27,6 +15,18 @@
     {
       "basename": "求导公式与法则",
       "path": "Pub/Flashcards/求导公式与法则.md"
+    },
+    {
+      "basename": "不定积分公式",
+      "path": "Pub/Flashcards/不定积分公式.md"
+    },
+    {
+      "basename": "2023-11-21",
+      "path": "学习日报/Day/2023-11-21.md"
+    },
+    {
+      "basename": "2023-12-03",
+      "path": "学习日报/Day/2023-12-03.md"
     },
     {
       "basename": "一元函数微分学的应用",
