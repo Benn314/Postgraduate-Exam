@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "6f2c9bdbbc316a36",
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Flashcards/不定积分公式.md",
+                "file": "数学二/高等数学/基础/note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Flashcards/不定积分公式.md",
+                "file": "数学二/高等数学/基础/note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -198,7 +197,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pub/Flashcards/不定积分公式.md",
+                "file": "数学二/高等数学/基础/note.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -260,22 +259,24 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "afd44e0cd6723e4e",
+  "active": "fca7f26c1af4cb10",
   "lastOpenFiles": [
+    "数学二/高等数学/基础/asset/Pasted image 20231207171552.png",
     "学习日报/Day/2023-12-07.md",
-    "Pub/Flashcards/不定积分公式.md",
-    "Pub/Flashcards/asset/f8d4117c7fa13c86241ac2cd9bf0944.jpg",
-    "学习日报/Day/2023-12-02.md",
     "数学二/高等数学/基础/note.md",
-    "数学二/高等数学/基础/asset/Pasted image 20231207111101.png",
-    "Pub/Flashcards/asset/Pasted image 20231207110546.png",
-    "Pub/Flashcards/asset/Pasted image 20231207110441.png",
-    "Pub/Flashcards/asset/Pasted image 20231207110409.png",
-    "Pub/Flashcards/asset/Pasted image 20231207110255.png",
-    "Pub/Flashcards/asset/Pasted image 20231207110203.png",
-    "Pub/Flashcards/asset/Pasted image 20231207110055.png",
-    "Pub/Flashcards/asset/Pasted image 20231207110011.png",
-    "Pub/Flashcards/asset/Pasted image 20231207105918.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231207165725.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231207165259.png",
+    "学习日报/Day/asset/Pasted Image 20231207155455.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231207153918.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231207153054.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231207152348.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231207151927.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231207150725.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231207150553.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231207150344.png",
+    "Pub/Flashcards/不定积分公式.md",
+    "asset/aText/AutoBackup-2023-12-07-14-35-01.atext",
+    "学习日报/Day/2023-12-02.md",
     "Pub/Flashcards/Phase 1.md",
     "Pub/Flashcards/求导公式与法则.md",
     "学习日报/Day/2023-12-06.md",
@@ -306,7 +307,6 @@
     "英语二/田静-长难句&语法&翻译/asset",
     "asset/aText/AutoBackup-2023-11-25-20-21-25.atext",
     "Pub/Flashcards/asset",
-    "数学二/高等数学/基础/24汤家凤高数辅导讲义【基础 强化 提高】【后续完整更新+VX：yxmm2024，公众号：研学木木】.pdf",
     "Pub/Draw/未命名.canvas",
     "未命名.canvas"
   ]
