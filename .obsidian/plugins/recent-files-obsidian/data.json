@@ -9,20 +9,24 @@
       "path": "Pub/Flashcards/不定积分公式.md"
     },
     {
-      "basename": "2023-12-07",
-      "path": "学习日报/Day/2023-12-07.md"
-    },
-    {
       "basename": "求导公式与法则",
       "path": "Pub/Flashcards/求导公式与法则.md"
     },
     {
-      "basename": "Tasks",
-      "path": "Pub/Capture/Tasks.md"
+      "basename": "2023-12-09",
+      "path": "学习日报/Day/2023-12-09.md"
     },
     {
       "basename": "2023-12-08",
       "path": "学习日报/Day/2023-12-08.md"
+    },
+    {
+      "basename": "2023-12-07",
+      "path": "学习日报/Day/2023-12-07.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Pub/Capture/Tasks.md"
     },
     {
       "basename": "Obsidian工作流",
@@ -75,10 +79,6 @@
     {
       "basename": "en-note",
       "path": "英语二/田静-长难句&语法&翻译/en-note.md"
-    },
-    {
-      "basename": "408_B-note",
-      "path": "408/小册/数据结构与算法之美/408_B-note.md"
     }
   ],
   "omittedPaths": [],
