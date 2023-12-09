@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习日报/Day/2023-12-07.md",
+                "file": "Pub/Flashcards/不定积分公式.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6f2c9bdbbc316a36",
@@ -260,9 +261,11 @@
   },
   "active": "fca7f26c1af4cb10",
   "lastOpenFiles": [
-    "Pub/Flashcards/求导公式与法则.md",
+    "数学二/高等数学/基础/asset/be80578e326cc1bf0a798d6dab1dff0.jpg",
     "Pub/Flashcards/不定积分公式.md",
+    "学习日报/Day/2023-12-07.md",
     "数学二/高等数学/基础/note.md",
+    "Pub/Flashcards/求导公式与法则.md",
     "数学二/高等数学/基础/asset/Pasted image 20231208155614.png",
     "数学二/高等数学/基础/asset/Pasted image 20231208155357.png",
     "数学二/高等数学/基础/asset/Pasted image 20231208155007.png",
@@ -276,7 +279,6 @@
     "Pub/Capture/Tasks.md",
     "学习日报/Day/2023-12-08.md",
     "学习日报/Obsidian工作流.md",
-    "学习日报/Day/2023-12-07.md",
     "asset/aText/AutoBackup-2023-12-07-14-35-01.atext",
     "学习日报/Day/2023-12-02.md",
     "Pub/Flashcards/Phase 1.md",
