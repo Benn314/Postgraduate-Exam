@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "12ac335afdbb7dab",
+        "id": "ed3d8db491da50f8",
         "type": "tabs",
         "children": [
           {
-            "id": "fca7f26c1af4cb10",
+            "id": "f4153827454b3be6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "数学二/高等数学/基础/note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "afd44e0cd6723e4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pub/Flashcards/求导公式与法则.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1198487cafffc850",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pub/Flashcards/不定积分公式.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "6f2c9bdbbc316a36",
@@ -259,11 +234,16 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "fca7f26c1af4cb10",
+  "active": "f4153827454b3be6",
   "lastOpenFiles": [
-    "学习日报/Day/2023-12-07.md",
-    "数学二/高等数学/基础/note.md",
+    "学习日报/Day/2023-12-10.md",
+    "Pub/Flashcards/Phase 1.md",
     "Pub/Flashcards/不定积分公式.md",
+    "Pub/Flashcards/asset/Pasted image 20231210103708.png",
+    "数学二/高等数学/基础/note.md",
+    "英语二/近义词对比.md",
+    "数学二/高等数学/基础/asset/f43fff844ccb33f251e66067a1c0fde.jpg",
+    "学习日报/Day/2023-12-07.md",
     "Pub/Flashcards/求导公式与法则.md",
     "学习日报/Day/2023-12-09.md",
     "学习日报/Day/2023-12-08.md",
@@ -276,13 +256,10 @@
     "数学二/高等数学/基础/asset/Pasted image 20231208154859.png",
     "数学二/高等数学/基础/asset/Pasted image 20231208154800.png",
     "数学二/高等数学/基础/asset/Pasted image 20231208154525.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231208154207.png",
-    "数学二/高等数学/基础/asset/cb25ac8d4d01a3b4b6dc480b0399c85.jpg",
     "Pub/Capture/Tasks.md",
     "学习日报/Obsidian工作流.md",
     "asset/aText/AutoBackup-2023-12-07-14-35-01.atext",
     "学习日报/Day/2023-12-02.md",
-    "Pub/Flashcards/Phase 1.md",
     "学习日报/Day/2023-12-06.md",
     "学习日报/Day/2023-11-21.md",
     "学习日报/Day/2023-12-03.md",
@@ -290,7 +267,6 @@
     "Pub/Hypo/我的 Obsidian 使用经验  程序员的喵.md",
     "Pub/Capture/read.md",
     "学习日报/Day/2023-12-05.md",
-    "英语二/近义词对比.md",
     "英语二/田静-长难句&语法&翻译/en-note.md",
     "408/小册/数据结构与算法之美/408_B-note.md",
     "408/小册/数据结构与算法之美/asset",
@@ -302,7 +278,6 @@
     "学习日报/Day/2023-12-01.md",
     "前期准备/前期准备.md",
     "学习日报/Day/2023-11-30.md",
-    "学习日报/Day/2023-11-29.md",
     "asset/aText/AutoBackup-2023-11-28-17-43-51.atext",
     "英语二/田静-长难句&语法&翻译/asset",
     "asset/aText/AutoBackup-2023-11-25-20-21-25.atext",
