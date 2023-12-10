@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "错题集 Plus",
+      "path": "数学二/高等数学/基础/错题集 Plus.md"
+    },
+    {
       "basename": "note",
       "path": "数学二/高等数学/基础/note.md"
+    },
+    {
+      "basename": "README",
+      "path": "数学二/高等数学/基础/README.md"
+    },
+    {
+      "basename": "不定积分公式",
+      "path": "Pub/Flashcards/不定积分公式.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Pub/Capture/Tasks.md"
     },
     {
       "basename": "2023-12-10",
@@ -11,10 +27,6 @@
     {
       "basename": "Phase 1",
       "path": "Pub/Flashcards/Phase 1.md"
-    },
-    {
-      "basename": "不定积分公式",
-      "path": "Pub/Flashcards/不定积分公式.md"
     },
     {
       "basename": "近义词对比",
@@ -35,10 +47,6 @@
     {
       "basename": "2023-12-07",
       "path": "学习日报/Day/2023-12-07.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Pub/Capture/Tasks.md"
     },
     {
       "basename": "Obsidian工作流",
@@ -71,14 +79,6 @@
     {
       "basename": "我的 Obsidian 使用经验  程序员的喵",
       "path": "Pub/Hypo/我的 Obsidian 使用经验  程序员的喵.md"
-    },
-    {
-      "basename": "read",
-      "path": "Pub/Capture/read.md"
-    },
-    {
-      "basename": "2023-12-05",
-      "path": "学习日报/Day/2023-12-05.md"
     }
   ],
   "omittedPaths": [],

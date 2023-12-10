@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bfa90da44f9db3f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pub/Flashcards/不定积分公式.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00e11a5e2b645d75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数学二/高等数学/基础/错题集 Plus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学二/高等数学/基础/note.md",
+                "file": "数学二/高等数学/基础/错题集 Plus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学二/高等数学/基础/note.md",
+                "file": "数学二/高等数学/基础/错题集 Plus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -172,7 +197,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "数学二/高等数学/基础/note.md",
+                "file": "数学二/高等数学/基础/错题集 Plus.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -234,13 +259,18 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "f4153827454b3be6",
+  "active": "00e11a5e2b645d75",
   "lastOpenFiles": [
+    "数学二/高等数学/基础/asset/42cbb3dbe2d0b73184a07ea9df216b6.jpg",
+    "数学二/高等数学/基础/note.md",
+    "数学二/高等数学/基础/错题集 Plus.md",
+    "数学二/高等数学/基础/asset/8775ff76b6cd104f99227810d34b312.jpg",
+    "数学二/高等数学/基础/README.md",
+    "Pub/Flashcards/不定积分公式.md",
+    "Pub/Capture/Tasks.md",
     "学习日报/Day/2023-12-10.md",
     "Pub/Flashcards/Phase 1.md",
-    "Pub/Flashcards/不定积分公式.md",
     "Pub/Flashcards/asset/Pasted image 20231210103708.png",
-    "数学二/高等数学/基础/note.md",
     "英语二/近义词对比.md",
     "数学二/高等数学/基础/asset/f43fff844ccb33f251e66067a1c0fde.jpg",
     "学习日报/Day/2023-12-07.md",
@@ -255,8 +285,6 @@
     "数学二/高等数学/基础/asset/Pasted image 20231208155007.png",
     "数学二/高等数学/基础/asset/Pasted image 20231208154859.png",
     "数学二/高等数学/基础/asset/Pasted image 20231208154800.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231208154525.png",
-    "Pub/Capture/Tasks.md",
     "学习日报/Obsidian工作流.md",
     "asset/aText/AutoBackup-2023-12-07-14-35-01.atext",
     "学习日报/Day/2023-12-02.md",
@@ -276,8 +304,6 @@
     "asset/aText/AutoBackup-2023-12-02-11-07-26.atext",
     "asset/aText/AutoBackup-2023-12-02-09-23-33.atext",
     "学习日报/Day/2023-12-01.md",
-    "前期准备/前期准备.md",
-    "学习日报/Day/2023-11-30.md",
     "asset/aText/AutoBackup-2023-11-28-17-43-51.atext",
     "英语二/田静-长难句&语法&翻译/asset",
     "asset/aText/AutoBackup-2023-11-25-20-21-25.atext",
