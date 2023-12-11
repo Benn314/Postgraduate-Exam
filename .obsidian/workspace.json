@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "bfa90da44f9db3f9",
+            "id": "b15085bc0a8b646c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "b15085bc0a8b646c",
+            "id": "543f3d1ade0e61b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ca1549899e1b5410",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学习日报/Day/2023-12-11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学二/高等数学/基础/错题集 Plus.md",
+                "file": "Pub/Flashcards/不定积分公式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学二/高等数学/基础/错题集 Plus.md",
+                "file": "Pub/Flashcards/不定积分公式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -206,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "数学二/高等数学/基础/错题集 Plus.md",
+                "file": "Pub/Flashcards/不定积分公式.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -270,15 +282,24 @@
   },
   "active": "b15085bc0a8b646c",
   "lastOpenFiles": [
-    "Pub/Capture/Tasks.md",
-    "Pub/Flashcards/不定积分公式.md",
-    "数学二/高等数学/基础/错题集 Plus.md",
-    "学习日报/Day/2023-12-06.md",
+    "Pub/Flashcards/asset/Pasted image 20231211173928.png",
+    "Pub/Flashcards/asset/Pasted image 20231211173849.png",
+    "数学二/高等数学/基础/note.md",
+    "asset/~$1+考研考公专用自修室使用申请表.docx",
+    "asset/~WRL0003.tmp",
+    "asset/~WRD0002.tmp",
+    "asset/附件1+考研考公专用自修室使用申请表.docx",
+    "学习日报/Day/2023-12-07.md",
     "学习日报/Day/2023-12-11.md",
+    "数学二/高等数学/基础/错题集 Plus.md",
+    "Pub/Flashcards/不定积分公式.md",
+    "Pub/Flashcards/asset/19ed838ea61a237a91135afd3a65cd2.jpg",
+    "数学二/高等数学/基础/asset/816aaaf54846a65b5a6ff81a44cfca1.jpg",
+    "数学二/高等数学/基础/asset/7cd7868fb3a48d1bddcffcb60345ea9.jpg",
+    "Pub/Capture/Tasks.md",
+    "学习日报/Day/2023-12-06.md",
     "数学二/高等数学/基础/asset/Pasted image 20231211112434.png",
     "数学二/高等数学/基础/asset/b624f918f430d9e9632b48d9d32d7b2.jpg",
-    "数学二/高等数学/基础/note.md",
-    "学习日报/Day/2023-12-07.md",
     "数学二/高等数学/基础/asset/42cbb3dbe2d0b73184a07ea9df216b6.jpg",
     "数学二/高等数学/基础/asset/8775ff76b6cd104f99227810d34b312.jpg",
     "数学二/高等数学/基础/README.md",
@@ -290,11 +311,7 @@
     "Pub/Flashcards/求导公式与法则.md",
     "学习日报/Day/2023-12-09.md",
     "学习日报/Day/2023-12-08.md",
-    "数学二/高等数学/基础/asset/Pasted image 20231209153909.png",
     "asset/aText/AutoBackup-2023-12-09-14-44-04.atext",
-    "数学二/高等数学/基础/asset/be80578e326cc1bf0a798d6dab1dff0.jpg",
-    "数学二/高等数学/基础/asset/Pasted image 20231208155614.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231208155357.png",
     "学习日报/Obsidian工作流.md",
     "asset/aText/AutoBackup-2023-12-07-14-35-01.atext",
     "学习日报/Day/2023-12-02.md",
@@ -311,11 +328,6 @@
     "学习日报/Day/2023-12-04.md",
     "asset/aText/AutoBackup-2023-12-02-11-11-53.atext",
     "asset/aText/AutoBackup-2023-12-02-11-07-26.atext",
-    "asset/aText/AutoBackup-2023-12-02-09-23-33.atext",
-    "学习日报/Day/2023-12-01.md",
-    "asset/aText/AutoBackup-2023-11-28-17-43-51.atext",
-    "英语二/田静-长难句&语法&翻译/asset",
-    "asset/aText/AutoBackup-2023-11-25-20-21-25.atext",
     "Pub/Draw/未命名.canvas",
     "未命名.canvas"
   ]
