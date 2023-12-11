@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学二/高等数学/基础/错题集 Plus.md",
+                "file": "Pub/Flashcards/不定积分公式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学二/高等数学/基础/错题集 Plus.md",
+                "file": "Pub/Flashcards/不定积分公式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "数学二/高等数学/基础/错题集 Plus.md",
+                "file": "Pub/Flashcards/不定积分公式.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -259,11 +259,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "00e11a5e2b645d75",
+  "active": "bfa90da44f9db3f9",
   "lastOpenFiles": [
+    "数学二/高等数学/基础/错题集 Plus.md",
     "数学二/高等数学/基础/asset/42cbb3dbe2d0b73184a07ea9df216b6.jpg",
     "数学二/高等数学/基础/note.md",
-    "数学二/高等数学/基础/错题集 Plus.md",
     "数学二/高等数学/基础/asset/8775ff76b6cd104f99227810d34b312.jpg",
     "数学二/高等数学/基础/README.md",
     "Pub/Flashcards/不定积分公式.md",
@@ -284,7 +284,6 @@
     "数学二/高等数学/基础/asset/Pasted image 20231208155357.png",
     "数学二/高等数学/基础/asset/Pasted image 20231208155007.png",
     "数学二/高等数学/基础/asset/Pasted image 20231208154859.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231208154800.png",
     "学习日报/Obsidian工作流.md",
     "asset/aText/AutoBackup-2023-12-07-14-35-01.atext",
     "学习日报/Day/2023-12-02.md",
