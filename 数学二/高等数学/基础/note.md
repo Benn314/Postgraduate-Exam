@@ -1338,6 +1338,11 @@ Notes：
 > 
 > 分部积分法的本质也是为了降阶为 dx 为目的求解问题的，所以解题步骤要奔着这个目的去
 
+
+> 解题技巧：
+> $\int arctanxdx -> 这其实可以使用分部积分法了$
+> $\int arcsinx arccosx dx 这里可以把arcsinxarccosx看成一项，将dx看成另一项进行分部积分法$
+
 ![](asset/Pasted%20image%2020231207202134.png)我们需要将原式变换成含 $\int udv$ 或者 $\int vdu$  的形式（可能并不完全是 $\int udv$ 或者 $\int vdu$ 只是包含有这个形式，其他系数保持不变就行），然后通过分部积分法来进行结果计算
 
 ### Case1 $\int 幂×指 dx$

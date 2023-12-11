@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "错题集 Plus",
+      "path": "数学二/高等数学/基础/错题集 Plus.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Pub/Capture/Tasks.md"
+    },
+    {
       "basename": "不定积分公式",
       "path": "Pub/Flashcards/不定积分公式.md"
     },
     {
-      "basename": "错题集 Plus",
-      "path": "数学二/高等数学/基础/错题集 Plus.md"
+      "basename": "2023-12-06",
+      "path": "学习日报/Day/2023-12-06.md"
+    },
+    {
+      "basename": "2023-12-11",
+      "path": "学习日报/Day/2023-12-11.md"
     },
     {
       "basename": "note",
@@ -15,10 +27,6 @@
     {
       "basename": "README",
       "path": "数学二/高等数学/基础/README.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Pub/Capture/Tasks.md"
     },
     {
       "basename": "2023-12-10",
@@ -61,10 +69,6 @@
       "path": "Pub/Flashcards/asset/Pasted image 20231126195059.png"
     },
     {
-      "basename": "2023-12-06",
-      "path": "学习日报/Day/2023-12-06.md"
-    },
-    {
       "basename": "2023-11-21",
       "path": "学习日报/Day/2023-11-21.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "一元函数微分学的应用",
       "path": "Pub/Flashcards/一元函数微分学的应用.md"
-    },
-    {
-      "basename": "我的 Obsidian 使用经验  程序员的喵",
-      "path": "Pub/Hypo/我的 Obsidian 使用经验  程序员的喵.md"
     }
   ],
   "omittedPaths": [],
