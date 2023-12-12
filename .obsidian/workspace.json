@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +111,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "6f2c9bdbbc316a36",
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Flashcards/不定积分公式.md",
+                "file": "数学二/高等数学/基础/note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Flashcards/不定积分公式.md",
+                "file": "数学二/高等数学/基础/note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -218,7 +217,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pub/Flashcards/不定积分公式.md",
+                "file": "数学二/高等数学/基础/note.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -280,34 +279,34 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "b15085bc0a8b646c",
+  "active": "f4153827454b3be6",
   "lastOpenFiles": [
+    "学习日报/Day/2023-12-11.md",
+    "数学二/高等数学/基础/错题集 Plus.md",
+    "学习日报/Day/asset/Pasted Image 20231211210751.jpeg",
+    "数学二/高等数学/基础/asset/5c349b61a24bcf1ebb861f01dc8a184.jpg",
+    "数学二/高等数学/基础/note.md",
+    "数学二/高等数学/基础/asset/Pasted image 20231211204517.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231211204509.png",
+    "Pub/Flashcards/不定积分公式.md",
+    "asset/aText/AutoBackup-2023-12-11-19-15-08.atext",
+    "数学二/高等数学/基础/asset/ba1f835bd50e93cb29c14635ae06bef.jpg",
     "Pub/Flashcards/asset/Pasted image 20231211173928.png",
     "Pub/Flashcards/asset/Pasted image 20231211173849.png",
-    "数学二/高等数学/基础/note.md",
     "asset/~$1+考研考公专用自修室使用申请表.docx",
     "asset/~WRL0003.tmp",
     "asset/~WRD0002.tmp",
     "asset/附件1+考研考公专用自修室使用申请表.docx",
     "学习日报/Day/2023-12-07.md",
-    "学习日报/Day/2023-12-11.md",
-    "数学二/高等数学/基础/错题集 Plus.md",
-    "Pub/Flashcards/不定积分公式.md",
     "Pub/Flashcards/asset/19ed838ea61a237a91135afd3a65cd2.jpg",
     "数学二/高等数学/基础/asset/816aaaf54846a65b5a6ff81a44cfca1.jpg",
     "数学二/高等数学/基础/asset/7cd7868fb3a48d1bddcffcb60345ea9.jpg",
     "Pub/Capture/Tasks.md",
     "学习日报/Day/2023-12-06.md",
-    "数学二/高等数学/基础/asset/Pasted image 20231211112434.png",
-    "数学二/高等数学/基础/asset/b624f918f430d9e9632b48d9d32d7b2.jpg",
-    "数学二/高等数学/基础/asset/42cbb3dbe2d0b73184a07ea9df216b6.jpg",
-    "数学二/高等数学/基础/asset/8775ff76b6cd104f99227810d34b312.jpg",
     "数学二/高等数学/基础/README.md",
     "学习日报/Day/2023-12-10.md",
     "Pub/Flashcards/Phase 1.md",
-    "Pub/Flashcards/asset/Pasted image 20231210103708.png",
     "英语二/近义词对比.md",
-    "数学二/高等数学/基础/asset/f43fff844ccb33f251e66067a1c0fde.jpg",
     "Pub/Flashcards/求导公式与法则.md",
     "学习日报/Day/2023-12-09.md",
     "学习日报/Day/2023-12-08.md",
@@ -327,7 +326,6 @@
     "asset/aText/AutoBackup-2023-12-04-09-59-23.atext",
     "学习日报/Day/2023-12-04.md",
     "asset/aText/AutoBackup-2023-12-02-11-11-53.atext",
-    "asset/aText/AutoBackup-2023-12-02-11-07-26.atext",
     "Pub/Draw/未命名.canvas",
     "未命名.canvas"
   ]
