@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学二/高等数学/基础/note.md",
+                "file": "英语二/田静-长难句&语法&翻译/en-note.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pub/Flashcards/不定积分公式.md",
+                "file": "Pub/Flashcards/Phase 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学二/高等数学/基础/错题集 Plus.md",
+                "file": "Pub/Capture/read.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学二/高等数学/基础/note.md",
+                "file": "英语二/田静-长难句&语法&翻译/en-note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学二/高等数学/基础/note.md",
+                "file": "英语二/田静-长难句&语法&翻译/en-note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "数学二/高等数学/基础/note.md",
+                "file": "英语二/田静-长难句&语法&翻译/en-note.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -259,7 +259,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 331.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -281,14 +282,26 @@
   },
   "active": "f4153827454b3be6",
   "lastOpenFiles": [
+    "英语二/田静-长难句&语法&翻译/asset/Pasted image 20231212111048.png",
+    "英语二/田静-长难句&语法&翻译/asset/Pasted image 20231212110446.png",
+    "英语二/田静-长难句&语法&翻译/asset/Pasted image 20231212110312.png",
+    "学习日报/Day/2023-12-12.md",
+    "英语二/田静-长难句&语法&翻译/en-note.md",
+    "数学二/高等数学/基础/note.md",
+    "Pub/Flashcards/Phase 1.md",
+    "Pub/Flashcards/一元函数微分学的应用.md",
+    "Pub/Flashcards/求导公式与法则.md",
+    "Pub/Flashcards/卡片Demo.md",
+    "Pub/Flashcards/极限不定型情况分析.md",
+    "Pub/Flashcards/不定积分公式.md",
     "学习日报/Day/2023-12-11.md",
+    "Pub/Capture/read.md",
     "数学二/高等数学/基础/错题集 Plus.md",
+    "数学二/高等数学/基础/asset/Pasted image 20231212090724.png",
     "学习日报/Day/asset/Pasted Image 20231211210751.jpeg",
     "数学二/高等数学/基础/asset/5c349b61a24bcf1ebb861f01dc8a184.jpg",
-    "数学二/高等数学/基础/note.md",
     "数学二/高等数学/基础/asset/Pasted image 20231211204517.png",
     "数学二/高等数学/基础/asset/Pasted image 20231211204509.png",
-    "Pub/Flashcards/不定积分公式.md",
     "asset/aText/AutoBackup-2023-12-11-19-15-08.atext",
     "数学二/高等数学/基础/asset/ba1f835bd50e93cb29c14635ae06bef.jpg",
     "Pub/Flashcards/asset/Pasted image 20231211173928.png",
@@ -298,16 +311,11 @@
     "asset/~WRD0002.tmp",
     "asset/附件1+考研考公专用自修室使用申请表.docx",
     "学习日报/Day/2023-12-07.md",
-    "Pub/Flashcards/asset/19ed838ea61a237a91135afd3a65cd2.jpg",
-    "数学二/高等数学/基础/asset/816aaaf54846a65b5a6ff81a44cfca1.jpg",
-    "数学二/高等数学/基础/asset/7cd7868fb3a48d1bddcffcb60345ea9.jpg",
     "Pub/Capture/Tasks.md",
     "学习日报/Day/2023-12-06.md",
     "数学二/高等数学/基础/README.md",
     "学习日报/Day/2023-12-10.md",
-    "Pub/Flashcards/Phase 1.md",
     "英语二/近义词对比.md",
-    "Pub/Flashcards/求导公式与法则.md",
     "学习日报/Day/2023-12-09.md",
     "学习日报/Day/2023-12-08.md",
     "asset/aText/AutoBackup-2023-12-09-14-44-04.atext",
@@ -316,15 +324,9 @@
     "学习日报/Day/2023-12-02.md",
     "学习日报/Day/2023-11-21.md",
     "学习日报/Day/2023-12-03.md",
-    "Pub/Flashcards/一元函数微分学的应用.md",
     "Pub/Hypo/我的 Obsidian 使用经验  程序员的喵.md",
-    "Pub/Capture/read.md",
-    "学习日报/Day/2023-12-05.md",
-    "英语二/田静-长难句&语法&翻译/en-note.md",
-    "408/小册/数据结构与算法之美/408_B-note.md",
     "408/小册/数据结构与算法之美/asset",
     "asset/aText/AutoBackup-2023-12-04-09-59-23.atext",
-    "学习日报/Day/2023-12-04.md",
     "asset/aText/AutoBackup-2023-12-02-11-11-53.atext",
     "Pub/Draw/未命名.canvas",
     "未命名.canvas"

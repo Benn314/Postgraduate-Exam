@@ -1,20 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "en-note",
+      "path": "英语二/田静-长难句&语法&翻译/en-note.md"
+    },
+    {
+      "basename": "2023-12-12",
+      "path": "学习日报/Day/2023-12-12.md"
+    },
+    {
       "basename": "note",
       "path": "数学二/高等数学/基础/note.md"
+    },
+    {
+      "basename": "Phase 1",
+      "path": "Pub/Flashcards/Phase 1.md"
+    },
+    {
+      "basename": "一元函数微分学的应用",
+      "path": "Pub/Flashcards/一元函数微分学的应用.md"
+    },
+    {
+      "basename": "求导公式与法则",
+      "path": "Pub/Flashcards/求导公式与法则.md"
+    },
+    {
+      "basename": "卡片Demo",
+      "path": "Pub/Flashcards/卡片Demo.md"
+    },
+    {
+      "basename": "极限不定型情况分析",
+      "path": "Pub/Flashcards/极限不定型情况分析.md"
+    },
+    {
+      "basename": "不定积分公式",
+      "path": "Pub/Flashcards/不定积分公式.md"
     },
     {
       "basename": "2023-12-11",
       "path": "学习日报/Day/2023-12-11.md"
     },
     {
-      "basename": "错题集 Plus",
-      "path": "数学二/高等数学/基础/错题集 Plus.md"
+      "basename": "read",
+      "path": "Pub/Capture/read.md"
     },
     {
-      "basename": "不定积分公式",
-      "path": "Pub/Flashcards/不定积分公式.md"
+      "basename": "错题集 Plus",
+      "path": "数学二/高等数学/基础/错题集 Plus.md"
     },
     {
       "basename": "Tasks",
@@ -33,16 +65,8 @@
       "path": "学习日报/Day/2023-12-10.md"
     },
     {
-      "basename": "Phase 1",
-      "path": "Pub/Flashcards/Phase 1.md"
-    },
-    {
       "basename": "近义词对比",
       "path": "英语二/近义词对比.md"
-    },
-    {
-      "basename": "求导公式与法则",
-      "path": "Pub/Flashcards/求导公式与法则.md"
     },
     {
       "basename": "2023-12-09",
@@ -55,30 +79,6 @@
     {
       "basename": "2023-12-07",
       "path": "学习日报/Day/2023-12-07.md"
-    },
-    {
-      "basename": "Obsidian工作流",
-      "path": "学习日报/Obsidian工作流.md"
-    },
-    {
-      "basename": "2023-12-02",
-      "path": "学习日报/Day/2023-12-02.md"
-    },
-    {
-      "basename": "Pasted image 20231126195059",
-      "path": "Pub/Flashcards/asset/Pasted image 20231126195059.png"
-    },
-    {
-      "basename": "2023-11-21",
-      "path": "学习日报/Day/2023-11-21.md"
-    },
-    {
-      "basename": "2023-12-03",
-      "path": "学习日报/Day/2023-12-03.md"
-    },
-    {
-      "basename": "一元函数微分学的应用",
-      "path": "Pub/Flashcards/一元函数微分学的应用.md"
     }
   ],
   "omittedPaths": [],

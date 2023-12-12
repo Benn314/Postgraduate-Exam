@@ -702,7 +702,7 @@
 			"Valid": true
 		}, {
 			"Actions": [
-				["SendKeys", "Alt+C"]
+				["SendKeys", "Alt+V"]
 			],
 			"Name": "创建任务",
 			"Sign": "UP",

@@ -85,6 +85,19 @@ to 和 for 的区别
 	5. 现在完成时事做没做完不重要，所谓的持续不一定是动作，可以是影响![](asset/Pasted%20image%2020231203162553.png)
 	6. 一个强调过去的时间，一个强调对现在的影响（只是看待角度不同） ![|375](asset/Pasted%20image%2020231203162750.png)
 	7. ![](asset/Pasted%20image%2020231203162947.png)
-	8. **进度：30:20**
+3. 将来完成时：谓语动词 = will  have done
+	1. 在考研中出现频率低
+
 
 > 补充：[det是什么词性的缩写 - 知乎](https://zhuanlan.zhihu.com/p/93065797)
+
+![](asset/Pasted%20image%2020231212110312.png)
+
+##### ”完成进行“时态
+
+1. 过去完成进行时：谓语动词 = have benn doing
+	1. ![](asset/Pasted%20image%2020231212110446.png)
+	2. ![](asset/Pasted%20image%2020231212111048.png)
+2. 现在完成进行时：谓语动词 = have/has been done
+3. 将来完成进行时：谓语动词 = will have been doing
+	1. 考研真题几乎没出现过
