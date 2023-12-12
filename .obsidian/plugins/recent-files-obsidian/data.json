@@ -5,16 +5,32 @@
       "path": "英语二/田静-长难句&语法&翻译/en-note.md"
     },
     {
+      "basename": "近义词对比",
+      "path": "英语二/近义词对比.md"
+    },
+    {
+      "basename": "Obsidian工作流",
+      "path": "学习日报/Obsidian工作流.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Pub/Capture/Tasks.md"
+    },
+    {
       "basename": "2023-12-12",
       "path": "学习日报/Day/2023-12-12.md"
     },
     {
-      "basename": "note",
-      "path": "数学二/高等数学/基础/note.md"
+      "basename": "2023-12-11",
+      "path": "学习日报/Day/2023-12-11.md"
     },
     {
       "basename": "Phase 1",
       "path": "Pub/Flashcards/Phase 1.md"
+    },
+    {
+      "basename": "note",
+      "path": "数学二/高等数学/基础/note.md"
     },
     {
       "basename": "一元函数微分学的应用",
@@ -37,20 +53,12 @@
       "path": "Pub/Flashcards/不定积分公式.md"
     },
     {
-      "basename": "2023-12-11",
-      "path": "学习日报/Day/2023-12-11.md"
-    },
-    {
       "basename": "read",
       "path": "Pub/Capture/read.md"
     },
     {
       "basename": "错题集 Plus",
       "path": "数学二/高等数学/基础/错题集 Plus.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Pub/Capture/Tasks.md"
     },
     {
       "basename": "2023-12-06",
@@ -65,20 +73,12 @@
       "path": "学习日报/Day/2023-12-10.md"
     },
     {
-      "basename": "近义词对比",
-      "path": "英语二/近义词对比.md"
-    },
-    {
       "basename": "2023-12-09",
       "path": "学习日报/Day/2023-12-09.md"
     },
     {
       "basename": "2023-12-08",
       "path": "学习日报/Day/2023-12-08.md"
-    },
-    {
-      "basename": "2023-12-07",
-      "path": "学习日报/Day/2023-12-07.md"
     }
   ],
   "omittedPaths": [],
