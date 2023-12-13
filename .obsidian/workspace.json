@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "英语二/田静-长难句&语法&翻译/en-note.md",
+                "file": "学习日报/Day/2023-12-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "英语二/田静-长难句&语法&翻译/en-note.md",
+                "file": "学习日报/Day/2023-12-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -194,7 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "英语二/田静-长难句&语法&翻译/en-note.md",
+                "file": "学习日报/Day/2023-12-12.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -236,8 +235,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5,
-    "collapsed": true
+    "width": 331.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,8 +255,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "ca1549899e1b5410",
+  "active": "f4153827454b3be6",
   "lastOpenFiles": [
+    "学习日报/Day/asset/dba5501801dd29007fb66fb17dbfcac.jpg",
+    "英语二/田静-长难句&语法&翻译/en-note.md",
+    "学习日报/Day/2023-12-12.md",
+    "学习日报/Day/asset/Pasted Image 20231212211114.png",
+    "英语二/田静-长难句&语法&翻译/asset/Pasted image 20231212205714.png",
     "英语二/田静-长难句&语法&翻译/asset/Pasted image 20231212172125.png",
     "英语二/田静-长难句&语法&翻译/asset/Pasted image 20231212171854.png",
     "英语二/田静-长难句&语法&翻译/asset/Pasted image 20231212171743.png",
@@ -267,14 +270,9 @@
     "英语二/田静-长难句&语法&翻译/asset/Pasted image 20231212170206.png",
     "英语二/田静-长难句&语法&翻译/asset/Pasted image 20231212170146.png",
     "英语二/田静-长难句&语法&翻译/asset/Pasted image 20231212165755.png",
-    "英语二/田静-长难句&语法&翻译/asset/Pasted image 20231212165514.png",
-    "英语二/田静-长难句&语法&翻译/asset/Pasted image 20231212164552.png",
     "英语二/近义词对比.md",
-    "英语二/田静-长难句&语法&翻译/en-note.md",
-    "英语二/田静-长难句&语法&翻译/asset/Pasted image 20231212163512.png",
     "学习日报/Obsidian工作流.md",
     "Pub/Capture/Tasks.md",
-    "学习日报/Day/2023-12-12.md",
     "学习日报/Day/2023-12-11.md",
     "Pub/Flashcards/Phase 1.md",
     "数学二/高等数学/基础/note.md",
