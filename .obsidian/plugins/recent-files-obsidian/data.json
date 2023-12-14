@@ -1,14 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "2023-12-13",
-      "path": "学习日报/Day/2023-12-13.md"
-    },
-    {
-      "basename": "2023-12-12",
-      "path": "学习日报/Day/2023-12-12.md"
-    },
-    {
       "basename": "en-note",
       "path": "英语二/田静-长难句&语法&翻译/en-note.md"
     },
@@ -19,6 +11,18 @@
     {
       "basename": "生词本",
       "path": "英语二/生词本.md"
+    },
+    {
+      "basename": "2023-12-14",
+      "path": "学习日报/Day/2023-12-14.md"
+    },
+    {
+      "basename": "2023-12-13",
+      "path": "学习日报/Day/2023-12-13.md"
+    },
+    {
+      "basename": "2023-12-12",
+      "path": "学习日报/Day/2023-12-12.md"
     },
     {
       "basename": "Obsidian工作流",
@@ -75,10 +79,6 @@
     {
       "basename": "README",
       "path": "数学二/高等数学/基础/README.md"
-    },
-    {
-      "basename": "2023-12-10",
-      "path": "学习日报/Day/2023-12-10.md"
     }
   ],
   "omittedPaths": [],
