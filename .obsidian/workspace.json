@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "英语二/田静-长难句&语法&翻译/en-note.md",
+                "file": "学习日报/Day/2023-12-14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed681167b7c8d2df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数学二/高等数学/基础/note.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "英语二/田静-长难句&语法&翻译/en-note.md",
+                "file": "数学二/高等数学/基础/note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "英语二/田静-长难句&语法&翻译/en-note.md",
+                "file": "数学二/高等数学/基础/note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "英语二/田静-长难句&语法&翻译/en-note.md",
+                "file": "数学二/高等数学/基础/note.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,24 +268,27 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "88f925e853a1b3b2",
+  "active": "ed681167b7c8d2df",
   "lastOpenFiles": [
-    "英语二/田静-长难句&语法&翻译/asset/Pasted image 20231214112835.png",
-    "英语二/田静-长难句&语法&翻译/asset/Pasted image 20231214112824.png",
-    "英语二/田静-长难句&语法&翻译/asset/Pasted image 20231214112546.png",
-    "英语二/田静-长难句&语法&翻译/asset/Pasted image 20231214112444.png",
-    "英语二/近义词对比.md",
+    "数学二/高等数学/基础/asset/Pasted image 20231214165512.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231214164922.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231214164651.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231214162255.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231214162005.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231214161836.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231214161323.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231214154804.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231214154308.png",
+    "asset/aText/AutoBackup-2023-12-14-15-38-42.atext",
+    "学习日报/Day/2023-11-21.md",
+    "数学二/高等数学/基础/note.md",
+    "数学二/高等数学/基础/asset/Pasted image 20231214153449.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231214153151.png",
     "英语二/田静-长难句&语法&翻译/en-note.md",
-    "英语二/田静-长难句&语法&翻译/asset/Pasted image 20231214111738.png",
-    "英语二/田静-长难句&语法&翻译/asset/Pasted image 20231214105443.png",
-    "英语二/田静-长难句&语法&翻译/asset/Pasted image 20231214104946.png",
-    "英语二/田静-长难句&语法&翻译/asset/Pasted image 20231214104924.png",
-    "英语二/田静-长难句&语法&翻译/asset/Pasted image 20231214104643.png",
-    "英语二/田静-长难句&语法&翻译/asset/Pasted image 20231214104302.png",
-    "英语二/田静-长难句&语法&翻译/asset/Pasted image 20231214103150.png",
+    "英语二/近义词对比.md",
+    "学习日报/Day/2023-12-14.md",
     "前期准备/24考研报名信息/24考研-邱泽楷-准考证.pdf",
     "英语二/生词本.md",
-    "学习日报/Day/2023-12-14.md",
     "学习日报/Day/2023-12-13.md",
     "asset/aText/AutoBackup-2023-12-13-16-05-23.atext",
     "学习日报/Day/2023-12-12.md",
@@ -281,7 +296,6 @@
     "Pub/Capture/Tasks.md",
     "学习日报/Day/2023-12-11.md",
     "Pub/Flashcards/Phase 1.md",
-    "数学二/高等数学/基础/note.md",
     "Pub/Flashcards/一元函数微分学的应用.md",
     "Pub/Flashcards/求导公式与法则.md",
     "Pub/Flashcards/卡片Demo.md",
@@ -302,8 +316,6 @@
     "学习日报/Day/2023-12-08.md",
     "asset/aText/AutoBackup-2023-12-09-14-44-04.atext",
     "asset/aText/AutoBackup-2023-12-07-14-35-01.atext",
-    "学习日报/Day/2023-12-02.md",
-    "408/小册/数据结构与算法之美/asset",
     "Pub/Draw/未命名.canvas",
     "未命名.canvas"
   ]

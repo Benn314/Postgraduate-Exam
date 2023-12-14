@@ -246,3 +246,7 @@ to do 不能做介宾，只能做动宾
 ![](asset/Pasted%20image%2020231214112824.png)
 ![](asset/Pasted%20image%2020231214112835.png)
 
+![](asset/Pasted%20image%2020231214150526.png)
+
+# 1-简单句的拓展
+
