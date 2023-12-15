@@ -69,14 +69,6 @@
             }
           },
           {
-            "id": "e7efb037b2159285",
-            "type": "leaf",
-            "state": {
-              "type": "quiet-outline",
-              "state": {}
-            }
-          },
-          {
             "id": "dadcb7842738521c",
             "type": "leaf",
             "state": {
@@ -99,8 +91,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "6f2c9bdbbc316a36",
@@ -119,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50152587890625
+    "width": 244.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "6614ef460c138604",
@@ -129,6 +121,14 @@
         "id": "cb371e5b7e2cc79f",
         "type": "tabs",
         "children": [
+          {
+            "id": "e7efb037b2159285",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {}
+            }
+          },
           {
             "id": "27f6d4a6ba96682a",
             "type": "leaf",
@@ -184,17 +184,8 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          },
-          {
-            "id": "2f691c07ad607401",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "1e8ba7d19cd01d2b",
@@ -270,20 +261,20 @@
   },
   "active": "ed681167b7c8d2df",
   "lastOpenFiles": [
+    "数学二/高等数学/基础/asset/Pasted image 20231215172203.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231215172152.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231215171312.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231215171041.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231215170318.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231215164934.png",
     "数学二/高等数学/基础/asset/Pasted image 20231215104432.png",
     "数学二/高等数学/基础/asset/Pasted image 20231215102831.png",
     "数学二/高等数学/基础/asset/Pasted image 20231215102821.png",
     "数学二/高等数学/基础/asset/Pasted image 20231215102258.png",
     "数学二/高等数学/基础/asset/Pasted image 20231215102103.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231215102036.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231215100618.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231215095758.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231215095036.png",
     "asset/aText/AutoBackup-2023-12-15-09-46-08.atext",
     "学习日报/Day/2023-11-21.md",
     "数学二/高等数学/基础/note.md",
-    "数学二/高等数学/基础/asset/Pasted image 20231215093937.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231215093436.png",
     "学习日报/Day/2023-12-15.md",
     "学习日报/Day/2023-12-14.md",
     "asset/aText/AutoBackup-2023-12-14-15-38-42.atext",
