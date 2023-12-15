@@ -1505,6 +1505,52 @@ Notes
 
 ![](asset/Pasted%20image%2020231214164651.png) ![](asset/Pasted%20image%2020231214164922.png)统一取左端点或统一取右端点对极限值没影响，因为 1/n 区间很小，可以看出左右端点重叠，故有以下公式结论：![](asset/Pasted%20image%2020231214165512.png)做题看到 (i-1)/n，可以替换成 i/n 进行计算，这两个求极限公式等价
 
+> 分子齐，分母齐，分母比分子高一次用[定积分](https://zhidao.baidu.com/search?word=%E5%AE%9A%E7%A7%AF%E5%88%86&fr=iknow_pc_qb_highlight)定义，分子分母不齐用夹逼定理![](asset/Pasted%20image%2020231215083816.png)
+
+![](asset/Pasted%20image%2020231215085304.png)
+![](asset/Pasted%20image%2020231215085315.png)
+
+### 定积分一般性质
+
+P104
+![](asset/Pasted%20image%2020231215085922.png)
+
+![](asset/Pasted%20image%2020231215090440.png)当然了，如果能保证图像面积在积分区间内都为整，能区间越大值越大是对的
+
+![](asset/Pasted%20image%2020231215090755.png)反之则不对（上图性质第二条）
+
+> 定积分是一个常数
+
+![|475](asset/Pasted%20image%2020231215091228.png)
+所以
+![](asset/Pasted%20image%2020231215091254.png)
+
+![](asset/Pasted%20image%2020231215092017.png) ![](asset/Pasted%20image%2020231215092630.png) ![](asset/Pasted%20image%2020231215092747.png)
 
 
+# 5-定积分及应用 ②
 
+## 5.2 定积分基本定理
+
+![](asset/Pasted%20image%2020231215093314.png)
+
+而定积分定义则比较宽松![](asset/Pasted%20image%2020231215093436.png)定积分主要由上下限和函数关系决定，与积分变量无关
+
+![](asset/Pasted%20image%2020231215093937.png)
+ф(x) 叫积分上限函数
+
+![](asset/Pasted%20image%2020231215095036.png)
+
+介值定理是源头
+![](asset/Pasted%20image%2020231215095758.png) ![](asset/Pasted%20image%2020231215100618.png)推出极限存在，且前提条件连续，结论成立
+
+![](asset/Pasted%20image%2020231215102036.png)
+
+前提：
+![](asset/Pasted%20image%2020231215102103.png)
+
+![](asset/Pasted%20image%2020231215102258.png)推广的积分中值定理没说区间 a，b 不存在 φ，只是不考虑区间两端的端点，强调的是内部有
+
+![](asset/Pasted%20image%2020231215102831.png)
+
+![](asset/Pasted%20image%2020231215104432.png)符合拉格朗日中值定理
