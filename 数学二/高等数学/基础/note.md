@@ -1674,5 +1674,47 @@ $I_1$ 求的是 0 到 π/2 的面积（sinx 和 cosx 面积都相同）
 
 区间两侧都无限，第一步是拆分区间，而不是使用奇偶性什么的
 
+解法一：直接计算结果![](asset/Pasted%20image%2020231216142813.png) 解法二：使用判别法![](asset/Pasted%20image%2020231216142917.png)
 
+反常积分使用奇偶性的前提是熟练![](asset/Pasted%20image%2020231216143102.png)但肯定是敛散性在前，奇偶性和对称性在后
+
+![](asset/Pasted%20image%2020231216143302.png)
+![](asset/Pasted%20image%2020231216143441.png)
+
+
+反常的点叫瑕点
+
+![](asset/Pasted%20image%2020231216144134.png)
+之所以加 a，是因为 a 是瑕点，加了 ε 后就从反常积分变成正常积分计算了
+
+- [ ] 买个 AirPods Pro
+
+![](asset/Pasted%20image%2020231216152536.png)
+
+上面是基于区间的判别，下面是基于点的判别
+![](asset/Pasted%20image%2020231216153036.png)
+
+![](asset/Pasted%20image%2020231216153453.png) ![](asset/Pasted%20image%2020231216153653.png)如果点没问题，是判别结果为收敛，则正常计算就行![](asset/Pasted%20image%2020231216153846.png)
+
+![](asset/Pasted%20image%2020231216154740.png)
+
+![](asset/Pasted%20image%2020231216155254.png)
+
+![](asset/Pasted%20image%2020231216155715.png)
+
+![](asset/Pasted%20image%2020231216155913.png)
+
+![](asset/Pasted%20image%2020231216160851.png)
+
+![](asset/Pasted%20image%2020231216161111.png) ![](asset/Pasted%20image%2020231216161336.png)
+
+![](asset/Pasted%20image%2020231216161748.png) ![](asset/Pasted%20image%2020231216161919.png)
+
+![](asset/Pasted%20image%2020231216162656.png)
+
+> 分块的情况只有区间内的点有问题才分，单侧不用分
+
+![](asset/Pasted%20image%2020231216163051.png) ![](asset/Pasted%20image%2020231216163201.png)
+
+# 5-定积分及应用 ④
 

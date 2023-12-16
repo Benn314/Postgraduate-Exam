@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f4153827454b3be6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学习日报/Day/2023-12-14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "88f925e853a1b3b2",
             "type": "leaf",
             "state": {
@@ -42,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "77d452a2dc7c5486",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pub/Flashcards/不定积分公式.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +99,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "6f2c9bdbbc316a36",
@@ -118,7 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50152587890625
+    "width": 235.50152587890625
   },
   "right": {
     "id": "6614ef460c138604",
@@ -247,7 +248,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 315.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,23 +270,25 @@
   },
   "active": "ed681167b7c8d2df",
   "lastOpenFiles": [
-    "数学二/高等数学/基础/asset/Pasted image 20231216112716.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231216112654.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231216112423.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231216112251.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231216111856.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231216111526.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231216110926.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231216110619.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231216105309.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231216104801.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231216104320.png",
-    "学习日报/Day/2023-12-16.md",
-    "学习日报/Day/2023-12-14.md",
+    "数学二/高等数学/基础/asset/Pasted image 20231216163201.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231216163051.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231216162656.png",
+    "Pub/Flashcards/不定积分公式.md",
     "数学二/高等数学/基础/note.md",
+    "数学二/高等数学/基础/asset/Pasted image 20231216161919.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231216161748.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231216161336.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231216161111.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231216160851.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231216155913.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231216155715.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231216155254.png",
+    "学习日报/Day/2023-11-21.md",
+    "asset/aText/AutoBackup-2023-12-16-14-44-38.atext",
+    "学习日报/Day/2023-12-14.md",
+    "学习日报/Day/2023-12-16.md",
     "学习日报/Day/2023-12-15.md",
     "asset/aText/AutoBackup-2023-12-15-09-46-08.atext",
-    "学习日报/Day/2023-11-21.md",
     "asset/aText/AutoBackup-2023-12-14-15-38-42.atext",
     "英语二/田静-长难句&语法&翻译/en-note.md",
     "英语二/近义词对比.md",
@@ -302,7 +305,6 @@
     "Pub/Flashcards/求导公式与法则.md",
     "Pub/Flashcards/卡片Demo.md",
     "Pub/Flashcards/极限不定型情况分析.md",
-    "Pub/Flashcards/不定积分公式.md",
     "Pub/Capture/read.md",
     "数学二/高等数学/基础/错题集 Plus.md",
     "asset/aText/AutoBackup-2023-12-11-19-15-08.atext",
@@ -314,7 +316,6 @@
     "学习日报/Day/2023-12-06.md",
     "数学二/高等数学/基础/README.md",
     "学习日报/Day/2023-12-10.md",
-    "asset/aText/AutoBackup-2023-12-09-14-44-04.atext",
     "Pub/Draw/未命名.canvas",
     "未命名.canvas"
   ]
