@@ -59,6 +59,14 @@
         "dimension": 76.19047619047619,
         "children": [
           {
+            "id": "e7efb037b2159285",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {}
+            }
+          },
+          {
             "id": "08d83ca18249a722",
             "type": "leaf",
             "state": {
@@ -110,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50152587890625,
-    "collapsed": true
+    "width": 244.50152587890625
   },
   "right": {
     "id": "6614ef460c138604",
@@ -121,14 +128,6 @@
         "id": "cb371e5b7e2cc79f",
         "type": "tabs",
         "children": [
-          {
-            "id": "e7efb037b2159285",
-            "type": "leaf",
-            "state": {
-              "type": "quiet-outline",
-              "state": {}
-            }
-          },
           {
             "id": "27f6d4a6ba96682a",
             "type": "leaf",
@@ -184,8 +183,17 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "7d01f4374b052ff4",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "1e8ba7d19cd01d2b",
@@ -239,7 +247,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 331.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,23 +268,23 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "ed681167b7c8d2df",
+  "active": "7d01f4374b052ff4",
   "lastOpenFiles": [
-    "数学二/高等数学/基础/asset/Pasted image 20231215172203.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231215172152.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231215171312.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231215171041.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231215170318.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231215164934.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231215104432.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231215102831.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231215102821.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231215102258.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231215102103.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231215214952.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231215214425.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231215214217.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231215213721.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231215213419.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231215213115.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231215212643.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231215211912.png",
+    "学习日报/Day/2023-12-15.md",
+    "数学二/高等数学/基础/note.md",
+    "学习日报/Day/asset/Pasted Image 20231215205742.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231215203031.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231215200615.png",
     "asset/aText/AutoBackup-2023-12-15-09-46-08.atext",
     "学习日报/Day/2023-11-21.md",
-    "数学二/高等数学/基础/note.md",
-    "学习日报/Day/2023-12-15.md",
     "学习日报/Day/2023-12-14.md",
     "asset/aText/AutoBackup-2023-12-14-15-38-42.atext",
     "英语二/田静-长难句&语法&翻译/en-note.md",
