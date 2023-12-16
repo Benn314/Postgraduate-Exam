@@ -5,12 +5,16 @@
       "path": "数学二/高等数学/基础/note.md"
     },
     {
-      "basename": "2023-12-15",
-      "path": "学习日报/Day/2023-12-15.md"
+      "basename": "2023-12-16",
+      "path": "学习日报/Day/2023-12-16.md"
     },
     {
       "basename": "2023-12-14",
       "path": "学习日报/Day/2023-12-14.md"
+    },
+    {
+      "basename": "2023-12-15",
+      "path": "学习日报/Day/2023-12-15.md"
     },
     {
       "basename": "en-note",
@@ -75,10 +79,6 @@
     {
       "basename": "错题集 Plus",
       "path": "数学二/高等数学/基础/错题集 Plus.md"
-    },
-    {
-      "basename": "2023-12-06",
-      "path": "学习日报/Day/2023-12-06.md"
     }
   ],
   "omittedPaths": [],

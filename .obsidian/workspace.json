@@ -193,7 +193,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
         "id": "1e8ba7d19cd01d2b",
@@ -247,8 +247,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5,
-    "collapsed": true
+    "width": 331.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -268,24 +267,25 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "7d01f4374b052ff4",
+  "active": "ed681167b7c8d2df",
   "lastOpenFiles": [
-    "数学二/高等数学/基础/asset/Pasted image 20231215214952.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231215214425.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231215214217.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231215213721.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231215213419.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231215213115.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231215212643.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231215211912.png",
-    "学习日报/Day/2023-12-15.md",
+    "数学二/高等数学/基础/asset/Pasted image 20231216112716.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231216112654.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231216112423.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231216112251.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231216111856.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231216111526.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231216110926.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231216110619.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231216105309.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231216104801.png",
+    "数学二/高等数学/基础/asset/Pasted image 20231216104320.png",
+    "学习日报/Day/2023-12-16.md",
+    "学习日报/Day/2023-12-14.md",
     "数学二/高等数学/基础/note.md",
-    "学习日报/Day/asset/Pasted Image 20231215205742.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231215203031.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231215200615.png",
+    "学习日报/Day/2023-12-15.md",
     "asset/aText/AutoBackup-2023-12-15-09-46-08.atext",
     "学习日报/Day/2023-11-21.md",
-    "学习日报/Day/2023-12-14.md",
     "asset/aText/AutoBackup-2023-12-14-15-38-42.atext",
     "英语二/田静-长难句&语法&翻译/en-note.md",
     "英语二/近义词对比.md",
@@ -314,7 +314,6 @@
     "学习日报/Day/2023-12-06.md",
     "数学二/高等数学/基础/README.md",
     "学习日报/Day/2023-12-10.md",
-    "学习日报/Day/2023-12-09.md",
     "asset/aText/AutoBackup-2023-12-09-14-44-04.atext",
     "Pub/Draw/未命名.canvas",
     "未命名.canvas"
