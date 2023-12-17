@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "88f925e853a1b3b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学习日报/Day/2023-12-14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ed681167b7c8d2df",
             "type": "leaf",
             "state": {
@@ -30,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "77d452a2dc7c5486",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pub/Flashcards/不定积分公式.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "6f2c9bdbbc316a36",
@@ -270,11 +245,15 @@
   },
   "active": "ed681167b7c8d2df",
   "lastOpenFiles": [
+    "英语二/生词本.md",
+    "英语二/近义词对比.md",
+    "数学二/高等数学/基础/note.md",
+    "Pub/Flashcards/不定积分公式.md",
+    "学习日报/Day/2023-12-16.md",
+    "学习日报/Day/2023-12-14.md",
     "数学二/高等数学/基础/asset/Pasted image 20231216163201.png",
     "数学二/高等数学/基础/asset/Pasted image 20231216163051.png",
     "数学二/高等数学/基础/asset/Pasted image 20231216162656.png",
-    "Pub/Flashcards/不定积分公式.md",
-    "数学二/高等数学/基础/note.md",
     "数学二/高等数学/基础/asset/Pasted image 20231216161919.png",
     "数学二/高等数学/基础/asset/Pasted image 20231216161748.png",
     "数学二/高等数学/基础/asset/Pasted image 20231216161336.png",
@@ -282,18 +261,13 @@
     "数学二/高等数学/基础/asset/Pasted image 20231216160851.png",
     "数学二/高等数学/基础/asset/Pasted image 20231216155913.png",
     "数学二/高等数学/基础/asset/Pasted image 20231216155715.png",
-    "数学二/高等数学/基础/asset/Pasted image 20231216155254.png",
     "学习日报/Day/2023-11-21.md",
     "asset/aText/AutoBackup-2023-12-16-14-44-38.atext",
-    "学习日报/Day/2023-12-14.md",
-    "学习日报/Day/2023-12-16.md",
     "学习日报/Day/2023-12-15.md",
     "asset/aText/AutoBackup-2023-12-15-09-46-08.atext",
     "asset/aText/AutoBackup-2023-12-14-15-38-42.atext",
     "英语二/田静-长难句&语法&翻译/en-note.md",
-    "英语二/近义词对比.md",
     "前期准备/24考研报名信息/24考研-邱泽楷-准考证.pdf",
-    "英语二/生词本.md",
     "学习日报/Day/2023-12-13.md",
     "asset/aText/AutoBackup-2023-12-13-16-05-23.atext",
     "学习日报/Day/2023-12-12.md",
