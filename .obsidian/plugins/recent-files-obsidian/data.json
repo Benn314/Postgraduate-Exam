@@ -5,6 +5,14 @@
       "path": "数学二/高等数学/基础/note.md"
     },
     {
+      "basename": "定积分定理与公式",
+      "path": "Pub/Flashcards/定积分定理与公式.md"
+    },
+    {
+      "basename": "2023-12-17",
+      "path": "学习日报/Day/2023-12-17.md"
+    },
+    {
       "basename": "生词本",
       "path": "英语二/生词本.md"
     },
@@ -71,14 +79,6 @@
     {
       "basename": "极限不定型情况分析",
       "path": "Pub/Flashcards/极限不定型情况分析.md"
-    },
-    {
-      "basename": "read",
-      "path": "Pub/Capture/read.md"
-    },
-    {
-      "basename": "错题集 Plus",
-      "path": "数学二/高等数学/基础/错题集 Plus.md"
     }
   ],
   "omittedPaths": [],

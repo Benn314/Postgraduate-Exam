@@ -9,7 +9,8 @@
       "#derivation",
       "#unaryFunction",
       "#integral",
-      "#vocabulary"
+      "#vocabulary",
+      "#D-integral"
     ],
     "convertFoldersToDecks": false,
     "cardCommentOnSameLine": false,
