@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "日记模板-新",
+      "path": "Pub/Template/日记模板-新.md"
+    },
+    {
+      "basename": "日记模板",
+      "path": "Pub/Template/日记模板.md"
+    },
+    {
+      "basename": "2023-12-17",
+      "path": "学习日报/Day/2023-12-17.md"
+    },
+    {
+      "basename": "2023-11-30",
+      "path": "学习日报/Day/2023-11-30.md"
+    },
+    {
       "basename": "note",
       "path": "数学二/高等数学/基础/note.md"
     },
     {
       "basename": "定积分定理与公式",
       "path": "Pub/Flashcards/定积分定理与公式.md"
-    },
-    {
-      "basename": "2023-12-17",
-      "path": "学习日报/Day/2023-12-17.md"
     },
     {
       "basename": "生词本",
@@ -67,18 +79,6 @@
     {
       "basename": "一元函数微分学的应用",
       "path": "Pub/Flashcards/一元函数微分学的应用.md"
-    },
-    {
-      "basename": "求导公式与法则",
-      "path": "Pub/Flashcards/求导公式与法则.md"
-    },
-    {
-      "basename": "卡片Demo",
-      "path": "Pub/Flashcards/卡片Demo.md"
-    },
-    {
-      "basename": "极限不定型情况分析",
-      "path": "Pub/Flashcards/极限不定型情况分析.md"
     }
   ],
   "omittedPaths": [],

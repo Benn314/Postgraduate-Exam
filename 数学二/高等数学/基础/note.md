@@ -1598,9 +1598,9 @@ Notes
 
 ![](asset/Pasted%20image%2020231215213721.png)
 
-运用 Note③的变换![](asset/Pasted%20image%2020231215214425.png)
+运用 Note③的变换![](asset/Pasted%20image%2020231215214425.png)这个证明的结论运用到了下面的例 2
 
-![](asset/Pasted%20image%2020231215214952.png)
+![](asset/Pasted%20image%2020231215214952.png)上面证明结论验证了一下，确实是这样的
 
 ![](asset/Pasted%20image%2020231216085011.png)
 
