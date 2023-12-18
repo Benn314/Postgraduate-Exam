@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ed681167b7c8d2df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pub/Template/日记模板-新.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "aeda3eed5070dc46",
             "type": "leaf",
             "state": {
@@ -38,6 +26,18 @@
               "type": "markdown",
               "state": {
                 "file": "Pub/Flashcards/定积分定理与公式.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3305af409423396f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学习日报/Day/2023-12-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Template/日记模板-新.md",
+                "file": "数学二/高等数学/基础/note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Template/日记模板-新.md",
+                "file": "数学二/高等数学/基础/note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pub/Template/日记模板-新.md",
+                "file": "数学二/高等数学/基础/note.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -267,14 +267,14 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "ed681167b7c8d2df",
+  "active": "aeda3eed5070dc46",
   "lastOpenFiles": [
-    "Pub/Template/日记模板.md",
-    "Pub/Template/日记模板-新.md",
     "学习日报/Day/2023-12-17.md",
-    "学习日报/Day/2023-11-30.md",
-    "数学二/高等数学/基础/note.md",
     "Pub/Flashcards/定积分定理与公式.md",
+    "数学二/高等数学/基础/note.md",
+    "Pub/Template/日记模板-新.md",
+    "Pub/Template/日记模板.md",
+    "学习日报/Day/2023-11-30.md",
     "Pub/Flashcards/asset/Pasted image 20231217161523.png",
     "asset/aText/AutoBackup-2023-12-17-15-15-31.atext",
     "Pub/Flashcards/asset/Pasted image 20231217112417.png",
