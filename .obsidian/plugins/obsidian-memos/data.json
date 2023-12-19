@@ -1,6 +1,6 @@
 {
   "StartDate": "Sunday",
-  "InsertAfter": "## MEMOS",
+  "InsertAfter": "### MEMOS",
   "UserName": "MEMO 😉",
   "ProcessEntriesBelow": "",
   "Language": "en",
