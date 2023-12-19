@@ -5,6 +5,10 @@
       "path": "数学二/高等数学/基础/note.md"
     },
     {
+      "basename": "不定积分公式",
+      "path": "Pub/Flashcards/不定积分公式.md"
+    },
+    {
       "basename": "定积分定理与公式",
       "path": "Pub/Flashcards/定积分定理与公式.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "近义词对比",
       "path": "英语二/近义词对比.md"
-    },
-    {
-      "basename": "不定积分公式",
-      "path": "Pub/Flashcards/不定积分公式.md"
     },
     {
       "basename": "2023-12-16",
