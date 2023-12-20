@@ -5,6 +5,18 @@
       "path": "学习日报/Day/2023-12-19.md"
     },
     {
+      "basename": "2023-12-20",
+      "path": "学习日报/Day/2023-12-20.md"
+    },
+    {
+      "basename": "Phase 1",
+      "path": "Pub/Flashcards/Phase 1.md"
+    },
+    {
+      "basename": "日记模板-新",
+      "path": "Pub/Template/日记模板-新.md"
+    },
+    {
       "basename": "note",
       "path": "数学二/高等数学/基础/note.md"
     },
@@ -17,20 +29,12 @@
       "path": "Pub/Flashcards/定积分定理与公式.md"
     },
     {
-      "basename": "Phase 1",
-      "path": "Pub/Flashcards/Phase 1.md"
-    },
-    {
       "basename": "2023-12-18",
       "path": "学习日报/Day/2023-12-18.md"
     },
     {
       "basename": "2023-12-17",
       "path": "学习日报/Day/2023-12-17.md"
-    },
-    {
-      "basename": "日记模板-新",
-      "path": "Pub/Template/日记模板-新.md"
     },
     {
       "basename": "日记模板",
@@ -75,10 +79,6 @@
     {
       "basename": "Obsidian工作流",
       "path": "学习日报/Obsidian工作流.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Pub/Capture/Tasks.md"
     }
   ],
   "omittedPaths": [],
