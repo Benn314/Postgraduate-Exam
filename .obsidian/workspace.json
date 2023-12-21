@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "政治/24考研政治-闪击版.md",
+                "file": "学习日报/Day/2023-12-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "政治/24考研政治-闪击版.md",
+                "file": "学习日报/Day/2023-12-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "政治/24考研政治-闪击版.md",
+                "file": "学习日报/Day/2023-12-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "政治/24考研政治-闪击版.md",
+                "file": "学习日报/Day/2023-12-20.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -267,10 +267,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "b93c09cee77457b1",
+  "active": "4bc172454fbd6b16",
   "lastOpenFiles": [
-    "学习日报/Day/2023-12-20.md",
+    "学习日报/Day/asset/Pasted Image 20231220195039.jpeg",
+    "学习日报/Day/asset/Pasted Image 20231220194239.png",
+    "学习日报/Day/asset/Pasted image 20231220190720.png",
     "政治/24考研政治-闪击版.md",
+    "学习日报/Day/2023-12-20.md",
     "政治",
     "学习日报/Day/asset/Pasted Image 20231220163912.png",
     "学习日报/Day/asset/Pasted Image 20231220160851.png",
@@ -287,9 +290,7 @@
     "Pub/Flashcards/不定积分公式.md",
     "Pub/Flashcards/定积分定理与公式.md",
     "Pub/Flashcards/asset/Pasted image 20231219113137.png",
-    "Pub/Flashcards/asset/Pasted image 20231219105530.png",
     "学习日报/Day/2023-12-18.md",
-    "学习日报/Day/asset/Pasted image 20231218203949.png",
     "学习日报/Day/2023-12-17.md",
     "Pub/Template/日记模板.md",
     "学习日报/Day/2023-11-30.md",
@@ -312,7 +313,6 @@
     "Pub/Capture/Tasks.md",
     "学习日报/Day/2023-12-11.md",
     "Pub/Flashcards/一元函数微分学的应用.md",
-    "Pub/Flashcards/求导公式与法则.md",
     "asset/aText/AutoBackup-2023-12-11-19-15-08.atext",
     "asset/~$1+考研考公专用自修室使用申请表.docx",
     "Pub/Draw/未命名.canvas",
