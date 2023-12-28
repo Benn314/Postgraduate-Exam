@@ -5,6 +5,14 @@
       "path": "学习日报/Day/2023-12-28.md"
     },
     {
+      "basename": "不定积分公式",
+      "path": "Pub/Flashcards/不定积分公式.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Pub/Capture/Tasks.md"
+    },
+    {
       "basename": "定积分定理与公式",
       "path": "Pub/Flashcards/定积分定理与公式.md"
     },
@@ -65,20 +73,12 @@
       "path": "数学二/高等数学/基础/note.md"
     },
     {
-      "basename": "不定积分公式",
-      "path": "Pub/Flashcards/不定积分公式.md"
-    },
-    {
       "basename": "2023-12-18",
       "path": "学习日报/Day/2023-12-18.md"
     },
     {
       "basename": "2023-12-17",
       "path": "学习日报/Day/2023-12-17.md"
-    },
-    {
-      "basename": "日记模板",
-      "path": "Pub/Template/日记模板.md"
     }
   ],
   "omittedPaths": [],

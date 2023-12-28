@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pub/Flashcards/定积分定理与公式.md",
+                "file": "学习日报/Day/2023-12-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pub/Flashcards/不定积分公式.md",
+                "file": "学习日报/Day/2023-12-28.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -267,18 +268,20 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "b93c09cee77457b1",
+  "active": "23671f8c53ec204c",
   "lastOpenFiles": [
+    "Pub/Flashcards/不定积分公式.md",
+    "学习日报/Day/2023-12-28.md",
+    "Pub/Capture/Tasks.md",
+    "Pub/Flashcards/定积分定理与公式.md",
     "学习日报/Day/asset/Pasted image 20231228164343.png",
     "学习日报/Day/asset/Pasted image 20231228164302.png",
-    "Pub/Flashcards/定积分定理与公式.md",
     "Pub/Flashcards/极限不定型情况分析.md",
     "Pub/Flashcards/卡片Demo.md",
     "Pub/Flashcards/求导公式与法则.md",
     "学习日报/Day/asset/Pasted Image 20231228113631.png",
     "Pub/Flashcards/一元函数微分学的应用.md",
     "学习日报/Day/asset/Pasted Image 20231228104204.png",
-    "学习日报/Day/2023-12-28.md",
     "Pub/Flashcards/Phase 1.md",
     "学习日报/Day/2023-12-26.md",
     "学习日报/Day/asset/Pasted image 20231226142414.png",
@@ -288,7 +291,6 @@
     "学习日报/Day/asset/Pasted image 20231225191259.png",
     "学习日报/Day/asset/Pasted image 20231225174727.png",
     "学习日报/Day/asset/Pasted image 20231225174718.png",
-    "学习日报/Day/asset/Pasted image 20231225174506.png",
     "学习日报/Day/2023-12-20.md",
     "学习日报/Day/2023-12-21.md",
     "学习日报/Day/2023-12-22.md",
@@ -298,7 +300,6 @@
     "asset/aText/AutoBackup-2023-12-20-14-31-29.atext",
     "Pub/Template/日记模板-新.md",
     "数学二/高等数学/基础/note.md",
-    "Pub/Flashcards/不定积分公式.md",
     "学习日报/Day/2023-12-18.md",
     "学习日报/Day/2023-12-17.md",
     "Pub/Template/日记模板.md",
