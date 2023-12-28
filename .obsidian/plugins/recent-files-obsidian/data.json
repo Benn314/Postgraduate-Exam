@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "定积分定理与公式",
+      "path": "Pub/Flashcards/定积分定理与公式.md"
+    },
+    {
+      "basename": "极限不定型情况分析",
+      "path": "Pub/Flashcards/极限不定型情况分析.md"
+    },
+    {
+      "basename": "卡片Demo",
+      "path": "Pub/Flashcards/卡片Demo.md"
+    },
+    {
+      "basename": "求导公式与法则",
+      "path": "Pub/Flashcards/求导公式与法则.md"
+    },
+    {
+      "basename": "一元函数微分学的应用",
+      "path": "Pub/Flashcards/一元函数微分学的应用.md"
+    },
+    {
+      "basename": "Phase 1",
+      "path": "Pub/Flashcards/Phase 1.md"
+    },
+    {
       "basename": "2023-12-26",
       "path": "学习日报/Day/2023-12-26.md"
     },
@@ -29,10 +53,6 @@
       "path": "学习日报/Day/2023-12-19.md"
     },
     {
-      "basename": "Phase 1",
-      "path": "Pub/Flashcards/Phase 1.md"
-    },
-    {
       "basename": "日记模板-新",
       "path": "Pub/Template/日记模板-新.md"
     },
@@ -43,10 +63,6 @@
     {
       "basename": "不定积分公式",
       "path": "Pub/Flashcards/不定积分公式.md"
-    },
-    {
-      "basename": "定积分定理与公式",
-      "path": "Pub/Flashcards/定积分定理与公式.md"
     },
     {
       "basename": "2023-12-18",
@@ -63,22 +79,6 @@
     {
       "basename": "2023-11-30",
       "path": "学习日报/Day/2023-11-30.md"
-    },
-    {
-      "basename": "生词本",
-      "path": "英语二/生词本.md"
-    },
-    {
-      "basename": "近义词对比",
-      "path": "英语二/近义词对比.md"
-    },
-    {
-      "basename": "2023-12-16",
-      "path": "学习日报/Day/2023-12-16.md"
-    },
-    {
-      "basename": "2023-12-14",
-      "path": "学习日报/Day/2023-12-14.md"
     }
   ],
   "omittedPaths": [],
