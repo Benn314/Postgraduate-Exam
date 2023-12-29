@@ -8,36 +8,72 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b93c09cee77457b1",
+            "id": "9523ce167483d993",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习日报/Day/2023-12-28.md",
+                "file": "英语二/近义词对比.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5c217fc7484a931b",
+            "id": "079f885f4af01364",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习日报/Day/2023-12-28.md",
+                "file": "英语二/近义词对比.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "23671f8c53ec204c",
+            "id": "74304e110968c9ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习日报/Day/2023-12-28.md",
+                "file": "英语二/近义词对比.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b98b9160b934c40f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "英语二/近义词对比.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "287f4c35d0dfb470",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "英语二/近义词对比.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d9dfdc86589d7ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学习日报/Day/2023-12-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习日报/Day/2023-12-28.md",
+                "file": "英语二/近义词对比.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习日报/Day/2023-12-28.md",
+                "file": "英语二/近义词对比.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -206,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "学习日报/Day/2023-12-28.md",
+                "file": "英语二/近义词对比.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -268,11 +304,19 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "23671f8c53ec204c",
+  "active": "74304e110968c9ee",
   "lastOpenFiles": [
-    "Pub/Flashcards/不定积分公式.md",
-    "学习日报/Day/2023-12-28.md",
+    "学习日报/Day/2023-12-29.md",
+    "学习日报/Day/2023-10-24.md",
+    "英语二/近义词对比.md",
     "Pub/Capture/Tasks.md",
+    "学习日报/Day/2023-12-28.md",
+    "学习日报/Day/2023-12-20.md",
+    "学习日报/Day/2023-12-21.md",
+    "学习日报/Day/2023-12-22.md",
+    "学习日报/Day/2023-12-25.md",
+    "学习日报/Day/2023-12-26.md",
+    "Pub/Flashcards/不定积分公式.md",
     "Pub/Flashcards/定积分定理与公式.md",
     "学习日报/Day/asset/Pasted image 20231228164343.png",
     "学习日报/Day/asset/Pasted image 20231228164302.png",
@@ -283,17 +327,12 @@
     "Pub/Flashcards/一元函数微分学的应用.md",
     "学习日报/Day/asset/Pasted Image 20231228104204.png",
     "Pub/Flashcards/Phase 1.md",
-    "学习日报/Day/2023-12-26.md",
     "学习日报/Day/asset/Pasted image 20231226142414.png",
     "学习日报/Day/asset/Pasted image 20231226122107.png",
     "学习日报/Day/asset/Pasted image 20231226121132.png",
-    "学习日报/Day/2023-12-25.md",
     "学习日报/Day/asset/Pasted image 20231225191259.png",
     "学习日报/Day/asset/Pasted image 20231225174727.png",
     "学习日报/Day/asset/Pasted image 20231225174718.png",
-    "学习日报/Day/2023-12-20.md",
-    "学习日报/Day/2023-12-21.md",
-    "学习日报/Day/2023-12-22.md",
     "政治/24考研政治-闪击版.md",
     "政治",
     "学习日报/Day/2023-12-19.md",
@@ -306,9 +345,6 @@
     "学习日报/Day/2023-11-30.md",
     "asset/aText/AutoBackup-2023-12-17-15-15-31.atext",
     "英语二/生词本.md",
-    "英语二/近义词对比.md",
-    "学习日报/Day/2023-12-16.md",
-    "学习日报/Day/2023-12-14.md",
     "asset/aText/AutoBackup-2023-12-16-14-44-38.atext",
     "asset/aText/AutoBackup-2023-12-15-09-46-08.atext",
     "asset/aText/AutoBackup-2023-12-14-15-38-42.atext",
